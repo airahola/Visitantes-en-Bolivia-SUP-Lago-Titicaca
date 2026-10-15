@@ -1,0 +1,2545 @@
+nacionalidad,anio,mes_num,mes,valor,nivel,es_residual,es_preliminar
+Alemania,2022,1,Enero,651.0,detalle,False,False
+Alemania,2022,2,Febrero,492.0,detalle,False,False
+Alemania,2022,3,Marzo,836.0,detalle,False,False
+Alemania,2022,4,Abril,1087.0,detalle,False,False
+Alemania,2022,5,Mayo,1005.0,detalle,False,False
+Alemania,2022,6,Junio,1010.0,detalle,False,False
+Alemania,2022,7,Julio,1553.0,detalle,False,False
+Alemania,2022,8,Agosto,1523.0,detalle,False,False
+Alemania,2022,9,Septiembre,1533.0,detalle,False,False
+Alemania,2022,10,Octubre,1788.0,detalle,False,False
+Alemania,2022,11,Noviembre,1593.0,detalle,False,False
+Alemania,2022,12,Diciembre,1359.0,detalle,False,False
+Alemania,2023,1,Enero,1495.0,detalle,False,True
+Alemania,2023,2,Febrero,1168.0,detalle,False,True
+Alemania,2023,3,Marzo,1416.0,detalle,False,True
+Alemania,2023,4,Abril,1514.0,detalle,False,True
+Alemania,2023,5,Mayo,1319.0,detalle,False,True
+Alemania,2023,6,Junio,922.0,detalle,False,True
+Alemania,2023,7,Julio,1645.0,detalle,False,True
+Alemania,2023,8,Agosto,1608.0,detalle,False,True
+Alemania,2023,9,Septiembre,1785.0,detalle,False,True
+Alemania,2023,10,Octubre,2093.0,detalle,False,True
+Alemania,2023,11,Noviembre,1901.0,detalle,False,True
+Alemania,2023,12,Diciembre,1444.0,detalle,False,True
+Alemania,2024,1,Enero,1828.0,detalle,False,True
+Alemania,2024,2,Febrero,1552.0,detalle,False,True
+Alemania,2024,3,Marzo,1896.0,detalle,False,True
+Alemania,2024,4,Abril,1417.0,detalle,False,True
+Alemania,2024,5,Mayo,1358.0,detalle,False,True
+Alemania,2024,6,Junio,961.0,detalle,False,True
+Alemania,2024,7,Julio,1652.0,detalle,False,True
+Alemania,2024,8,Agosto,1613.0,detalle,False,True
+Alemania,2024,9,Septiembre,1704.0,detalle,False,True
+Alemania,2024,10,Octubre,2067.0,detalle,False,True
+Alemania,2024,11,Noviembre,1566.0,detalle,False,True
+Alemania,2024,12,Diciembre,1439.0,detalle,False,True
+Alemania,2025,1,Enero,1459.0,detalle,False,True
+Alemania,2025,2,Febrero,1242.0,detalle,False,True
+Alemania,2025,3,Marzo,1662.0,detalle,False,True
+Alemania,2025,4,Abril,1558.0,detalle,False,True
+Alemania,2025,5,Mayo,1301.0,detalle,False,True
+Alemania,2025,6,Junio,957.0,detalle,False,True
+Alemania,2025,7,Julio,1629.0,detalle,False,True
+Alemania,2025,8,Agosto,1651.0,detalle,False,True
+Alemania,2025,9,Septiembre,1773.0,detalle,False,True
+Alemania,2025,10,Octubre,2000.0,detalle,False,True
+Alemania,2025,11,Noviembre,1818.0,detalle,False,True
+Alemania,2025,12,Diciembre,1517.0,detalle,False,True
+Argentina,2022,1,Enero,10910.0,detalle,False,False
+Argentina,2022,2,Febrero,11267.0,detalle,False,False
+Argentina,2022,3,Marzo,11610.0,detalle,False,False
+Argentina,2022,4,Abril,12869.0,detalle,False,False
+Argentina,2022,5,Mayo,16110.0,detalle,False,False
+Argentina,2022,6,Junio,16313.0,detalle,False,False
+Argentina,2022,7,Julio,17215.0,detalle,False,False
+Argentina,2022,8,Agosto,11276.0,detalle,False,False
+Argentina,2022,9,Septiembre,26533.0,detalle,False,False
+Argentina,2022,10,Octubre,25225.0,detalle,False,False
+Argentina,2022,11,Noviembre,21898.0,detalle,False,False
+Argentina,2022,12,Diciembre,38593.0,detalle,False,False
+Argentina,2023,1,Enero,37559.0,detalle,False,True
+Argentina,2023,2,Febrero,29711.0,detalle,False,True
+Argentina,2023,3,Marzo,25476.0,detalle,False,True
+Argentina,2023,4,Abril,27366.0,detalle,False,True
+Argentina,2023,5,Mayo,30487.0,detalle,False,True
+Argentina,2023,6,Junio,27428.0,detalle,False,True
+Argentina,2023,7,Julio,37147.0,detalle,False,True
+Argentina,2023,8,Agosto,31111.0,detalle,False,True
+Argentina,2023,9,Septiembre,36165.0,detalle,False,True
+Argentina,2023,10,Octubre,31718.0,detalle,False,True
+Argentina,2023,11,Noviembre,24047.0,detalle,False,True
+Argentina,2023,12,Diciembre,44510.0,detalle,False,True
+Argentina,2024,1,Enero,44344.0,detalle,False,True
+Argentina,2024,2,Febrero,20811.0,detalle,False,True
+Argentina,2024,3,Marzo,15455.0,detalle,False,True
+Argentina,2024,4,Abril,10723.0,detalle,False,True
+Argentina,2024,5,Mayo,10039.0,detalle,False,True
+Argentina,2024,6,Junio,11054.0,detalle,False,True
+Argentina,2024,7,Julio,20262.0,detalle,False,True
+Argentina,2024,8,Agosto,14063.0,detalle,False,True
+Argentina,2024,9,Septiembre,14779.0,detalle,False,True
+Argentina,2024,10,Octubre,12702.0,detalle,False,True
+Argentina,2024,11,Noviembre,11716.0,detalle,False,True
+Argentina,2024,12,Diciembre,18659.0,detalle,False,True
+Argentina,2025,1,Enero,31920.0,detalle,False,True
+Argentina,2025,2,Febrero,25718.0,detalle,False,True
+Argentina,2025,3,Marzo,17049.0,detalle,False,True
+Argentina,2025,4,Abril,15868.0,detalle,False,True
+Argentina,2025,5,Mayo,16111.0,detalle,False,True
+Argentina,2025,6,Junio,24327.0,detalle,False,True
+Argentina,2025,7,Julio,13251.0,detalle,False,True
+Argentina,2025,8,Agosto,25309.0,detalle,False,True
+Argentina,2025,9,Septiembre,26192.0,detalle,False,True
+Argentina,2025,10,Octubre,26066.0,detalle,False,True
+Argentina,2025,11,Noviembre,27237.0,detalle,False,True
+Argentina,2025,12,Diciembre,37728.0,detalle,False,True
+Australia,2022,1,Enero,15.0,detalle,False,False
+Australia,2022,2,Febrero,20.0,detalle,False,False
+Australia,2022,3,Marzo,39.0,detalle,False,False
+Australia,2022,4,Abril,83.0,detalle,False,False
+Australia,2022,5,Mayo,63.0,detalle,False,False
+Australia,2022,6,Junio,83.0,detalle,False,False
+Australia,2022,7,Julio,106.0,detalle,False,False
+Australia,2022,8,Agosto,120.0,detalle,False,False
+Australia,2022,9,Septiembre,153.0,detalle,False,False
+Australia,2022,10,Octubre,215.0,detalle,False,False
+Australia,2022,11,Noviembre,233.0,detalle,False,False
+Australia,2022,12,Diciembre,278.0,detalle,False,False
+Australia,2023,1,Enero,250.0,detalle,False,True
+Australia,2023,2,Febrero,151.0,detalle,False,True
+Australia,2023,3,Marzo,234.0,detalle,False,True
+Australia,2023,4,Abril,271.0,detalle,False,True
+Australia,2023,5,Mayo,238.0,detalle,False,True
+Australia,2023,6,Junio,206.0,detalle,False,True
+Australia,2023,7,Julio,229.0,detalle,False,True
+Australia,2023,8,Agosto,204.0,detalle,False,True
+Australia,2023,9,Septiembre,422.0,detalle,False,True
+Australia,2023,10,Octubre,514.0,detalle,False,True
+Australia,2023,11,Noviembre,428.0,detalle,False,True
+Australia,2023,12,Diciembre,392.0,detalle,False,True
+Australia,2024,1,Enero,384.0,detalle,False,True
+Australia,2024,2,Febrero,232.0,detalle,False,True
+Australia,2024,3,Marzo,315.0,detalle,False,True
+Australia,2024,4,Abril,279.0,detalle,False,True
+Australia,2024,5,Mayo,325.0,detalle,False,True
+Australia,2024,6,Junio,241.0,detalle,False,True
+Australia,2024,7,Julio,297.0,detalle,False,True
+Australia,2024,8,Agosto,261.0,detalle,False,True
+Australia,2024,9,Septiembre,426.0,detalle,False,True
+Australia,2024,10,Octubre,476.0,detalle,False,True
+Australia,2024,11,Noviembre,406.0,detalle,False,True
+Australia,2024,12,Diciembre,389.0,detalle,False,True
+Australia,2025,1,Enero,311.0,detalle,False,True
+Australia,2025,2,Febrero,226.0,detalle,False,True
+Australia,2025,3,Marzo,277.0,detalle,False,True
+Australia,2025,4,Abril,376.0,detalle,False,True
+Australia,2025,5,Mayo,329.0,detalle,False,True
+Australia,2025,6,Junio,312.0,detalle,False,True
+Australia,2025,7,Julio,303.0,detalle,False,True
+Australia,2025,8,Agosto,291.0,detalle,False,True
+Australia,2025,9,Septiembre,483.0,detalle,False,True
+Australia,2025,10,Octubre,523.0,detalle,False,True
+Australia,2025,11,Noviembre,570.0,detalle,False,True
+Australia,2025,12,Diciembre,474.0,detalle,False,True
+Austria,2022,1,Enero,66.0,detalle,False,False
+Austria,2022,2,Febrero,34.0,detalle,False,False
+Austria,2022,3,Marzo,64.0,detalle,False,False
+Austria,2022,4,Abril,75.0,detalle,False,False
+Austria,2022,5,Mayo,71.0,detalle,False,False
+Austria,2022,6,Junio,94.0,detalle,False,False
+Austria,2022,7,Julio,168.0,detalle,False,False
+Austria,2022,8,Agosto,136.0,detalle,False,False
+Austria,2022,9,Septiembre,176.0,detalle,False,False
+Austria,2022,10,Octubre,176.0,detalle,False,False
+Austria,2022,11,Noviembre,137.0,detalle,False,False
+Austria,2022,12,Diciembre,74.0,detalle,False,False
+Austria,2023,1,Enero,105.0,detalle,False,True
+Austria,2023,2,Febrero,99.0,detalle,False,True
+Austria,2023,3,Marzo,119.0,detalle,False,True
+Austria,2023,4,Abril,125.0,detalle,False,True
+Austria,2023,5,Mayo,135.0,detalle,False,True
+Austria,2023,6,Junio,76.0,detalle,False,True
+Austria,2023,7,Julio,185.0,detalle,False,True
+Austria,2023,8,Agosto,135.0,detalle,False,True
+Austria,2023,9,Septiembre,155.0,detalle,False,True
+Austria,2023,10,Octubre,174.0,detalle,False,True
+Austria,2023,11,Noviembre,191.0,detalle,False,True
+Austria,2023,12,Diciembre,138.0,detalle,False,True
+Austria,2024,1,Enero,158.0,detalle,False,True
+Austria,2024,2,Febrero,117.0,detalle,False,True
+Austria,2024,3,Marzo,84.0,detalle,False,True
+Austria,2024,4,Abril,168.0,detalle,False,True
+Austria,2024,5,Mayo,136.0,detalle,False,True
+Austria,2024,6,Junio,108.0,detalle,False,True
+Austria,2024,7,Julio,192.0,detalle,False,True
+Austria,2024,8,Agosto,121.0,detalle,False,True
+Austria,2024,9,Septiembre,151.0,detalle,False,True
+Austria,2024,10,Octubre,165.0,detalle,False,True
+Austria,2024,11,Noviembre,147.0,detalle,False,True
+Austria,2024,12,Diciembre,124.0,detalle,False,True
+Austria,2025,1,Enero,110.0,detalle,False,True
+Austria,2025,2,Febrero,103.0,detalle,False,True
+Austria,2025,3,Marzo,169.0,detalle,False,True
+Austria,2025,4,Abril,108.0,detalle,False,True
+Austria,2025,5,Mayo,91.0,detalle,False,True
+Austria,2025,6,Junio,105.0,detalle,False,True
+Austria,2025,7,Julio,228.0,detalle,False,True
+Austria,2025,8,Agosto,166.0,detalle,False,True
+Austria,2025,9,Septiembre,127.0,detalle,False,True
+Austria,2025,10,Octubre,192.0,detalle,False,True
+Austria,2025,11,Noviembre,187.0,detalle,False,True
+Austria,2025,12,Diciembre,138.0,detalle,False,True
+Bolivia,2022,1,Enero,49752.0,detalle,False,False
+Bolivia,2022,2,Febrero,43272.0,detalle,False,False
+Bolivia,2022,3,Marzo,46274.0,detalle,False,False
+Bolivia,2022,4,Abril,47170.0,detalle,False,False
+Bolivia,2022,5,Mayo,59173.0,detalle,False,False
+Bolivia,2022,6,Junio,55762.0,detalle,False,False
+Bolivia,2022,7,Julio,82021.0,detalle,False,False
+Bolivia,2022,8,Agosto,71270.0,detalle,False,False
+Bolivia,2022,9,Septiembre,76768.0,detalle,False,False
+Bolivia,2022,10,Octubre,82104.0,detalle,False,False
+Bolivia,2022,11,Noviembre,74745.0,detalle,False,False
+Bolivia,2022,12,Diciembre,118056.0,detalle,False,False
+Bolivia,2023,1,Enero,135064.0,detalle,False,True
+Bolivia,2023,2,Febrero,91802.0,detalle,False,True
+Bolivia,2023,3,Marzo,76293.0,detalle,False,True
+Bolivia,2023,4,Abril,89481.0,detalle,False,True
+Bolivia,2023,5,Mayo,84354.0,detalle,False,True
+Bolivia,2023,6,Junio,80512.0,detalle,False,True
+Bolivia,2023,7,Julio,116000.0,detalle,False,True
+Bolivia,2023,8,Agosto,91889.0,detalle,False,True
+Bolivia,2023,9,Septiembre,94992.0,detalle,False,True
+Bolivia,2023,10,Octubre,102749.0,detalle,False,True
+Bolivia,2023,11,Noviembre,96179.0,detalle,False,True
+Bolivia,2023,12,Diciembre,129249.0,detalle,False,True
+Bolivia,2024,1,Enero,170567.0,detalle,False,True
+Bolivia,2024,2,Febrero,113392.0,detalle,False,True
+Bolivia,2024,3,Marzo,102610.0,detalle,False,True
+Bolivia,2024,4,Abril,94050.0,detalle,False,True
+Bolivia,2024,5,Mayo,103366.0,detalle,False,True
+Bolivia,2024,6,Junio,99872.0,detalle,False,True
+Bolivia,2024,7,Julio,131419.0,detalle,False,True
+Bolivia,2024,8,Agosto,108060.0,detalle,False,True
+Bolivia,2024,9,Septiembre,96721.0,detalle,False,True
+Bolivia,2024,10,Octubre,110209.0,detalle,False,True
+Bolivia,2024,11,Noviembre,101606.0,detalle,False,True
+Bolivia,2024,12,Diciembre,150540.0,detalle,False,True
+Bolivia,2025,1,Enero,156884.0,detalle,False,True
+Bolivia,2025,2,Febrero,142091.0,detalle,False,True
+Bolivia,2025,3,Marzo,111011.0,detalle,False,True
+Bolivia,2025,4,Abril,114325.0,detalle,False,True
+Bolivia,2025,5,Mayo,115341.0,detalle,False,True
+Bolivia,2025,6,Junio,106676.0,detalle,False,True
+Bolivia,2025,7,Julio,117875.0,detalle,False,True
+Bolivia,2025,8,Agosto,121334.0,detalle,False,True
+Bolivia,2025,9,Septiembre,117967.0,detalle,False,True
+Bolivia,2025,10,Octubre,125194.0,detalle,False,True
+Bolivia,2025,11,Noviembre,126413.0,detalle,False,True
+Bolivia,2025,12,Diciembre,150848.0,detalle,False,True
+Brasil,2022,1,Enero,2934.0,detalle,False,False
+Brasil,2022,2,Febrero,3421.0,detalle,False,False
+Brasil,2022,3,Marzo,3474.0,detalle,False,False
+Brasil,2022,4,Abril,3190.0,detalle,False,False
+Brasil,2022,5,Mayo,4406.0,detalle,False,False
+Brasil,2022,6,Junio,4603.0,detalle,False,False
+Brasil,2022,7,Julio,6409.0,detalle,False,False
+Brasil,2022,8,Agosto,5455.0,detalle,False,False
+Brasil,2022,9,Septiembre,5153.0,detalle,False,False
+Brasil,2022,10,Octubre,5447.0,detalle,False,False
+Brasil,2022,11,Noviembre,3006.0,detalle,False,False
+Brasil,2022,12,Diciembre,8489.0,detalle,False,False
+Brasil,2023,1,Enero,6569.0,detalle,False,True
+Brasil,2023,2,Febrero,5792.0,detalle,False,True
+Brasil,2023,3,Marzo,4972.0,detalle,False,True
+Brasil,2023,4,Abril,4626.0,detalle,False,True
+Brasil,2023,5,Mayo,4622.0,detalle,False,True
+Brasil,2023,6,Junio,4725.0,detalle,False,True
+Brasil,2023,7,Julio,6911.0,detalle,False,True
+Brasil,2023,8,Agosto,4918.0,detalle,False,True
+Brasil,2023,9,Septiembre,5830.0,detalle,False,True
+Brasil,2023,10,Octubre,5233.0,detalle,False,True
+Brasil,2023,11,Noviembre,4304.0,detalle,False,True
+Brasil,2023,12,Diciembre,9127.0,detalle,False,True
+Brasil,2024,1,Enero,9870.0,detalle,False,True
+Brasil,2024,2,Febrero,6268.0,detalle,False,True
+Brasil,2024,3,Marzo,5283.0,detalle,False,True
+Brasil,2024,4,Abril,4788.0,detalle,False,True
+Brasil,2024,5,Mayo,4575.0,detalle,False,True
+Brasil,2024,6,Junio,4832.0,detalle,False,True
+Brasil,2024,7,Julio,7667.0,detalle,False,True
+Brasil,2024,8,Agosto,5202.0,detalle,False,True
+Brasil,2024,9,Septiembre,4650.0,detalle,False,True
+Brasil,2024,10,Octubre,5048.0,detalle,False,True
+Brasil,2024,11,Noviembre,4381.0,detalle,False,True
+Brasil,2024,12,Diciembre,7933.0,detalle,False,True
+Brasil,2025,1,Enero,8083.0,detalle,False,True
+Brasil,2025,2,Febrero,5707.0,detalle,False,True
+Brasil,2025,3,Marzo,4663.0,detalle,False,True
+Brasil,2025,4,Abril,4958.0,detalle,False,True
+Brasil,2025,5,Mayo,4856.0,detalle,False,True
+Brasil,2025,6,Junio,5478.0,detalle,False,True
+Brasil,2025,7,Julio,7433.0,detalle,False,True
+Brasil,2025,8,Agosto,5437.0,detalle,False,True
+Brasil,2025,9,Septiembre,6228.0,detalle,False,True
+Brasil,2025,10,Octubre,5940.0,detalle,False,True
+Brasil,2025,11,Noviembre,6566.0,detalle,False,True
+Brasil,2025,12,Diciembre,8876.0,detalle,False,True
+Bélgica,2022,1,Enero,80.0,detalle,False,False
+Bélgica,2022,2,Febrero,78.0,detalle,False,False
+Bélgica,2022,3,Marzo,131.0,detalle,False,False
+Bélgica,2022,4,Abril,201.0,detalle,False,False
+Bélgica,2022,5,Mayo,196.0,detalle,False,False
+Bélgica,2022,6,Junio,185.0,detalle,False,False
+Bélgica,2022,7,Julio,346.0,detalle,False,False
+Bélgica,2022,8,Agosto,255.0,detalle,False,False
+Bélgica,2022,9,Septiembre,233.0,detalle,False,False
+Bélgica,2022,10,Octubre,419.0,detalle,False,False
+Bélgica,2022,11,Noviembre,257.0,detalle,False,False
+Bélgica,2022,12,Diciembre,162.0,detalle,False,False
+Bélgica,2023,1,Enero,170.0,detalle,False,True
+Bélgica,2023,2,Febrero,190.0,detalle,False,True
+Bélgica,2023,3,Marzo,175.0,detalle,False,True
+Bélgica,2023,4,Abril,203.0,detalle,False,True
+Bélgica,2023,5,Mayo,206.0,detalle,False,True
+Bélgica,2023,6,Junio,190.0,detalle,False,True
+Bélgica,2023,7,Julio,311.0,detalle,False,True
+Bélgica,2023,8,Agosto,203.0,detalle,False,True
+Bélgica,2023,9,Septiembre,288.0,detalle,False,True
+Bélgica,2023,10,Octubre,337.0,detalle,False,True
+Bélgica,2023,11,Noviembre,284.0,detalle,False,True
+Bélgica,2023,12,Diciembre,201.0,detalle,False,True
+Bélgica,2024,1,Enero,225.0,detalle,False,True
+Bélgica,2024,2,Febrero,183.0,detalle,False,True
+Bélgica,2024,3,Marzo,145.0,detalle,False,True
+Bélgica,2024,4,Abril,238.0,detalle,False,True
+Bélgica,2024,5,Mayo,201.0,detalle,False,True
+Bélgica,2024,6,Junio,199.0,detalle,False,True
+Bélgica,2024,7,Julio,445.0,detalle,False,True
+Bélgica,2024,8,Agosto,196.0,detalle,False,True
+Bélgica,2024,9,Septiembre,377.0,detalle,False,True
+Bélgica,2024,10,Octubre,334.0,detalle,False,True
+Bélgica,2024,11,Noviembre,238.0,detalle,False,True
+Bélgica,2024,12,Diciembre,203.0,detalle,False,True
+Bélgica,2025,1,Enero,161.0,detalle,False,True
+Bélgica,2025,2,Febrero,187.0,detalle,False,True
+Bélgica,2025,3,Marzo,162.0,detalle,False,True
+Bélgica,2025,4,Abril,209.0,detalle,False,True
+Bélgica,2025,5,Mayo,291.0,detalle,False,True
+Bélgica,2025,6,Junio,196.0,detalle,False,True
+Bélgica,2025,7,Julio,443.0,detalle,False,True
+Bélgica,2025,8,Agosto,233.0,detalle,False,True
+Bélgica,2025,9,Septiembre,325.0,detalle,False,True
+Bélgica,2025,10,Octubre,350.0,detalle,False,True
+Bélgica,2025,11,Noviembre,366.0,detalle,False,True
+Bélgica,2025,12,Diciembre,273.0,detalle,False,True
+Canadá,2022,1,Enero,198.0,detalle,False,False
+Canadá,2022,2,Febrero,214.0,detalle,False,False
+Canadá,2022,3,Marzo,353.0,detalle,False,False
+Canadá,2022,4,Abril,359.0,detalle,False,False
+Canadá,2022,5,Mayo,422.0,detalle,False,False
+Canadá,2022,6,Junio,348.0,detalle,False,False
+Canadá,2022,7,Julio,434.0,detalle,False,False
+Canadá,2022,8,Agosto,532.0,detalle,False,False
+Canadá,2022,9,Septiembre,507.0,detalle,False,False
+Canadá,2022,10,Octubre,601.0,detalle,False,False
+Canadá,2022,11,Noviembre,547.0,detalle,False,False
+Canadá,2022,12,Diciembre,742.0,detalle,False,False
+Canadá,2023,1,Enero,733.0,detalle,False,True
+Canadá,2023,2,Febrero,743.0,detalle,False,True
+Canadá,2023,3,Marzo,874.0,detalle,False,True
+Canadá,2023,4,Abril,705.0,detalle,False,True
+Canadá,2023,5,Mayo,579.0,detalle,False,True
+Canadá,2023,6,Junio,532.0,detalle,False,True
+Canadá,2023,7,Julio,646.0,detalle,False,True
+Canadá,2023,8,Agosto,526.0,detalle,False,True
+Canadá,2023,9,Septiembre,493.0,detalle,False,True
+Canadá,2023,10,Octubre,682.0,detalle,False,True
+Canadá,2023,11,Noviembre,722.0,detalle,False,True
+Canadá,2023,12,Diciembre,738.0,detalle,False,True
+Canadá,2024,1,Enero,818.0,detalle,False,True
+Canadá,2024,2,Febrero,777.0,detalle,False,True
+Canadá,2024,3,Marzo,873.0,detalle,False,True
+Canadá,2024,4,Abril,822.0,detalle,False,True
+Canadá,2024,5,Mayo,674.0,detalle,False,True
+Canadá,2024,6,Junio,507.0,detalle,False,True
+Canadá,2024,7,Julio,526.0,detalle,False,True
+Canadá,2024,8,Agosto,647.0,detalle,False,True
+Canadá,2024,9,Septiembre,610.0,detalle,False,True
+Canadá,2024,10,Octubre,622.0,detalle,False,True
+Canadá,2024,11,Noviembre,734.0,detalle,False,True
+Canadá,2024,12,Diciembre,597.0,detalle,False,True
+Canadá,2025,1,Enero,645.0,detalle,False,True
+Canadá,2025,2,Febrero,777.0,detalle,False,True
+Canadá,2025,3,Marzo,868.0,detalle,False,True
+Canadá,2025,4,Abril,804.0,detalle,False,True
+Canadá,2025,5,Mayo,613.0,detalle,False,True
+Canadá,2025,6,Junio,420.0,detalle,False,True
+Canadá,2025,7,Julio,623.0,detalle,False,True
+Canadá,2025,8,Agosto,503.0,detalle,False,True
+Canadá,2025,9,Septiembre,557.0,detalle,False,True
+Canadá,2025,10,Octubre,733.0,detalle,False,True
+Canadá,2025,11,Noviembre,851.0,detalle,False,True
+Canadá,2025,12,Diciembre,816.0,detalle,False,True
+Chile,2022,1,Enero,947.0,detalle,False,False
+Chile,2022,2,Febrero,1146.0,detalle,False,False
+Chile,2022,3,Marzo,923.0,detalle,False,False
+Chile,2022,4,Abril,829.0,detalle,False,False
+Chile,2022,5,Mayo,2227.0,detalle,False,False
+Chile,2022,6,Junio,2331.0,detalle,False,False
+Chile,2022,7,Julio,5149.0,detalle,False,False
+Chile,2022,8,Agosto,2715.0,detalle,False,False
+Chile,2022,9,Septiembre,2802.0,detalle,False,False
+Chile,2022,10,Octubre,3118.0,detalle,False,False
+Chile,2022,11,Noviembre,2018.0,detalle,False,False
+Chile,2022,12,Diciembre,5269.0,detalle,False,False
+Chile,2023,1,Enero,5144.0,detalle,False,True
+Chile,2023,2,Febrero,6364.0,detalle,False,True
+Chile,2023,3,Marzo,2877.0,detalle,False,True
+Chile,2023,4,Abril,3242.0,detalle,False,True
+Chile,2023,5,Mayo,3582.0,detalle,False,True
+Chile,2023,6,Junio,3352.0,detalle,False,True
+Chile,2023,7,Julio,6134.0,detalle,False,True
+Chile,2023,8,Agosto,3543.0,detalle,False,True
+Chile,2023,9,Septiembre,4078.0,detalle,False,True
+Chile,2023,10,Octubre,3662.0,detalle,False,True
+Chile,2023,11,Noviembre,2714.0,detalle,False,True
+Chile,2023,12,Diciembre,3903.0,detalle,False,True
+Chile,2024,1,Enero,5671.0,detalle,False,True
+Chile,2024,2,Febrero,7418.0,detalle,False,True
+Chile,2024,3,Marzo,3303.0,detalle,False,True
+Chile,2024,4,Abril,2872.0,detalle,False,True
+Chile,2024,5,Mayo,3269.0,detalle,False,True
+Chile,2024,6,Junio,3501.0,detalle,False,True
+Chile,2024,7,Julio,5258.0,detalle,False,True
+Chile,2024,8,Agosto,3946.0,detalle,False,True
+Chile,2024,9,Septiembre,4483.0,detalle,False,True
+Chile,2024,10,Octubre,4374.0,detalle,False,True
+Chile,2024,11,Noviembre,3683.0,detalle,False,True
+Chile,2024,12,Diciembre,6246.0,detalle,False,True
+Chile,2025,1,Enero,7655.0,detalle,False,True
+Chile,2025,2,Febrero,10212.0,detalle,False,True
+Chile,2025,3,Marzo,4499.0,detalle,False,True
+Chile,2025,4,Abril,4442.0,detalle,False,True
+Chile,2025,5,Mayo,4157.0,detalle,False,True
+Chile,2025,6,Junio,4184.0,detalle,False,True
+Chile,2025,7,Julio,7603.0,detalle,False,True
+Chile,2025,8,Agosto,4706.0,detalle,False,True
+Chile,2025,9,Septiembre,5605.0,detalle,False,True
+Chile,2025,10,Octubre,5003.0,detalle,False,True
+Chile,2025,11,Noviembre,4289.0,detalle,False,True
+Chile,2025,12,Diciembre,6887.0,detalle,False,True
+China,2022,1,Enero,135.0,detalle,False,False
+China,2022,2,Febrero,150.0,detalle,False,False
+China,2022,3,Marzo,225.0,detalle,False,False
+China,2022,4,Abril,212.0,detalle,False,False
+China,2022,5,Mayo,242.0,detalle,False,False
+China,2022,6,Junio,268.0,detalle,False,False
+China,2022,7,Julio,290.0,detalle,False,False
+China,2022,8,Agosto,295.0,detalle,False,False
+China,2022,9,Septiembre,329.0,detalle,False,False
+China,2022,10,Octubre,420.0,detalle,False,False
+China,2022,11,Noviembre,446.0,detalle,False,False
+China,2022,12,Diciembre,463.0,detalle,False,False
+China,2023,1,Enero,338.0,detalle,False,True
+China,2023,2,Febrero,626.0,detalle,False,True
+China,2023,3,Marzo,813.0,detalle,False,True
+China,2023,4,Abril,853.0,detalle,False,True
+China,2023,5,Mayo,751.0,detalle,False,True
+China,2023,6,Junio,631.0,detalle,False,True
+China,2023,7,Julio,556.0,detalle,False,True
+China,2023,8,Agosto,634.0,detalle,False,True
+China,2023,9,Septiembre,677.0,detalle,False,True
+China,2023,10,Octubre,688.0,detalle,False,True
+China,2023,11,Noviembre,691.0,detalle,False,True
+China,2023,12,Diciembre,877.0,detalle,False,True
+China,2024,1,Enero,815.0,detalle,False,True
+China,2024,2,Febrero,856.0,detalle,False,True
+China,2024,3,Marzo,1253.0,detalle,False,True
+China,2024,4,Abril,810.0,detalle,False,True
+China,2024,5,Mayo,806.0,detalle,False,True
+China,2024,6,Junio,663.0,detalle,False,True
+China,2024,7,Julio,821.0,detalle,False,True
+China,2024,8,Agosto,716.0,detalle,False,True
+China,2024,9,Septiembre,633.0,detalle,False,True
+China,2024,10,Octubre,504.0,detalle,False,True
+China,2024,11,Noviembre,619.0,detalle,False,True
+China,2024,12,Diciembre,961.0,detalle,False,True
+China,2025,1,Enero,837.0,detalle,False,True
+China,2025,2,Febrero,1163.0,detalle,False,True
+China,2025,3,Marzo,1470.0,detalle,False,True
+China,2025,4,Abril,746.0,detalle,False,True
+China,2025,5,Mayo,689.0,detalle,False,True
+China,2025,6,Junio,519.0,detalle,False,True
+China,2025,7,Julio,636.0,detalle,False,True
+China,2025,8,Agosto,581.0,detalle,False,True
+China,2025,9,Septiembre,860.0,detalle,False,True
+China,2025,10,Octubre,751.0,detalle,False,True
+China,2025,11,Noviembre,1140.0,detalle,False,True
+China,2025,12,Diciembre,1026.0,detalle,False,True
+Colombia,2022,1,Enero,1214.0,detalle,False,False
+Colombia,2022,2,Febrero,1272.0,detalle,False,False
+Colombia,2022,3,Marzo,1539.0,detalle,False,False
+Colombia,2022,4,Abril,1944.0,detalle,False,False
+Colombia,2022,5,Mayo,1819.0,detalle,False,False
+Colombia,2022,6,Junio,1689.0,detalle,False,False
+Colombia,2022,7,Julio,1781.0,detalle,False,False
+Colombia,2022,8,Agosto,1680.0,detalle,False,False
+Colombia,2022,9,Septiembre,1716.0,detalle,False,False
+Colombia,2022,10,Octubre,1841.0,detalle,False,False
+Colombia,2022,11,Noviembre,1519.0,detalle,False,False
+Colombia,2022,12,Diciembre,1563.0,detalle,False,False
+Colombia,2023,1,Enero,1927.0,detalle,False,True
+Colombia,2023,2,Febrero,1770.0,detalle,False,True
+Colombia,2023,3,Marzo,1989.0,detalle,False,True
+Colombia,2023,4,Abril,2048.0,detalle,False,True
+Colombia,2023,5,Mayo,2055.0,detalle,False,True
+Colombia,2023,6,Junio,1946.0,detalle,False,True
+Colombia,2023,7,Julio,1745.0,detalle,False,True
+Colombia,2023,8,Agosto,1963.0,detalle,False,True
+Colombia,2023,9,Septiembre,2017.0,detalle,False,True
+Colombia,2023,10,Octubre,2029.0,detalle,False,True
+Colombia,2023,11,Noviembre,2231.0,detalle,False,True
+Colombia,2023,12,Diciembre,2353.0,detalle,False,True
+Colombia,2024,1,Enero,3078.0,detalle,False,True
+Colombia,2024,2,Febrero,2794.0,detalle,False,True
+Colombia,2024,3,Marzo,3133.0,detalle,False,True
+Colombia,2024,4,Abril,3048.0,detalle,False,True
+Colombia,2024,5,Mayo,2394.0,detalle,False,True
+Colombia,2024,6,Junio,2477.0,detalle,False,True
+Colombia,2024,7,Julio,2325.0,detalle,False,True
+Colombia,2024,8,Agosto,2485.0,detalle,False,True
+Colombia,2024,9,Septiembre,2398.0,detalle,False,True
+Colombia,2024,10,Octubre,2854.0,detalle,False,True
+Colombia,2024,11,Noviembre,2082.0,detalle,False,True
+Colombia,2024,12,Diciembre,2226.0,detalle,False,True
+Colombia,2025,1,Enero,2948.0,detalle,False,True
+Colombia,2025,2,Febrero,2672.0,detalle,False,True
+Colombia,2025,3,Marzo,3133.0,detalle,False,True
+Colombia,2025,4,Abril,3110.0,detalle,False,True
+Colombia,2025,5,Mayo,2436.0,detalle,False,True
+Colombia,2025,6,Junio,2039.0,detalle,False,True
+Colombia,2025,7,Julio,2433.0,detalle,False,True
+Colombia,2025,8,Agosto,2349.0,detalle,False,True
+Colombia,2025,9,Septiembre,2392.0,detalle,False,True
+Colombia,2025,10,Octubre,2327.0,detalle,False,True
+Colombia,2025,11,Noviembre,2765.0,detalle,False,True
+Colombia,2025,12,Diciembre,2792.0,detalle,False,True
+Corea del Sur,2022,1,Enero,76.0,detalle,False,False
+Corea del Sur,2022,2,Febrero,59.0,detalle,False,False
+Corea del Sur,2022,3,Marzo,59.0,detalle,False,False
+Corea del Sur,2022,4,Abril,89.0,detalle,False,False
+Corea del Sur,2022,5,Mayo,138.0,detalle,False,False
+Corea del Sur,2022,6,Junio,112.0,detalle,False,False
+Corea del Sur,2022,7,Julio,168.0,detalle,False,False
+Corea del Sur,2022,8,Agosto,186.0,detalle,False,False
+Corea del Sur,2022,9,Septiembre,182.0,detalle,False,False
+Corea del Sur,2022,10,Octubre,278.0,detalle,False,False
+Corea del Sur,2022,11,Noviembre,391.0,detalle,False,False
+Corea del Sur,2022,12,Diciembre,477.0,detalle,False,False
+Corea del Sur,2023,1,Enero,938.0,detalle,False,True
+Corea del Sur,2023,2,Febrero,1042.0,detalle,False,True
+Corea del Sur,2023,3,Marzo,817.0,detalle,False,True
+Corea del Sur,2023,4,Abril,343.0,detalle,False,True
+Corea del Sur,2023,5,Mayo,270.0,detalle,False,True
+Corea del Sur,2023,6,Junio,206.0,detalle,False,True
+Corea del Sur,2023,7,Julio,400.0,detalle,False,True
+Corea del Sur,2023,8,Agosto,251.0,detalle,False,True
+Corea del Sur,2023,9,Septiembre,453.0,detalle,False,True
+Corea del Sur,2023,10,Octubre,646.0,detalle,False,True
+Corea del Sur,2023,11,Noviembre,1114.0,detalle,False,True
+Corea del Sur,2023,12,Diciembre,1390.0,detalle,False,True
+Corea del Sur,2024,1,Enero,2434.0,detalle,False,True
+Corea del Sur,2024,2,Febrero,2031.0,detalle,False,True
+Corea del Sur,2024,3,Marzo,1781.0,detalle,False,True
+Corea del Sur,2024,4,Abril,573.0,detalle,False,True
+Corea del Sur,2024,5,Mayo,321.0,detalle,False,True
+Corea del Sur,2024,6,Junio,280.0,detalle,False,True
+Corea del Sur,2024,7,Julio,397.0,detalle,False,True
+Corea del Sur,2024,8,Agosto,324.0,detalle,False,True
+Corea del Sur,2024,9,Septiembre,419.0,detalle,False,True
+Corea del Sur,2024,10,Octubre,622.0,detalle,False,True
+Corea del Sur,2024,11,Noviembre,1379.0,detalle,False,True
+Corea del Sur,2024,12,Diciembre,1508.0,detalle,False,True
+Corea del Sur,2025,1,Enero,2198.0,detalle,False,True
+Corea del Sur,2025,2,Febrero,2411.0,detalle,False,True
+Corea del Sur,2025,3,Marzo,1700.0,detalle,False,True
+Corea del Sur,2025,4,Abril,513.0,detalle,False,True
+Corea del Sur,2025,5,Mayo,364.0,detalle,False,True
+Corea del Sur,2025,6,Junio,297.0,detalle,False,True
+Corea del Sur,2025,7,Julio,322.0,detalle,False,True
+Corea del Sur,2025,8,Agosto,275.0,detalle,False,True
+Corea del Sur,2025,9,Septiembre,566.0,detalle,False,True
+Corea del Sur,2025,10,Octubre,940.0,detalle,False,True
+Corea del Sur,2025,11,Noviembre,1175.0,detalle,False,True
+Corea del Sur,2025,12,Diciembre,1434.0,detalle,False,True
+Costa Rica,2022,1,Enero,37.0,detalle,False,False
+Costa Rica,2022,2,Febrero,44.0,detalle,False,False
+Costa Rica,2022,3,Marzo,86.0,detalle,False,False
+Costa Rica,2022,4,Abril,131.0,detalle,False,False
+Costa Rica,2022,5,Mayo,83.0,detalle,False,False
+Costa Rica,2022,6,Junio,72.0,detalle,False,False
+Costa Rica,2022,7,Julio,126.0,detalle,False,False
+Costa Rica,2022,8,Agosto,84.0,detalle,False,False
+Costa Rica,2022,9,Septiembre,124.0,detalle,False,False
+Costa Rica,2022,10,Octubre,181.0,detalle,False,False
+Costa Rica,2022,11,Noviembre,124.0,detalle,False,False
+Costa Rica,2022,12,Diciembre,113.0,detalle,False,False
+Costa Rica,2023,1,Enero,159.0,detalle,False,True
+Costa Rica,2023,2,Febrero,111.0,detalle,False,True
+Costa Rica,2023,3,Marzo,118.0,detalle,False,True
+Costa Rica,2023,4,Abril,190.0,detalle,False,True
+Costa Rica,2023,5,Mayo,98.0,detalle,False,True
+Costa Rica,2023,6,Junio,92.0,detalle,False,True
+Costa Rica,2023,7,Julio,101.0,detalle,False,True
+Costa Rica,2023,8,Agosto,88.0,detalle,False,True
+Costa Rica,2023,9,Septiembre,153.0,detalle,False,True
+Costa Rica,2023,10,Octubre,185.0,detalle,False,True
+Costa Rica,2023,11,Noviembre,180.0,detalle,False,True
+Costa Rica,2023,12,Diciembre,160.0,detalle,False,True
+Costa Rica,2024,1,Enero,256.0,detalle,False,True
+Costa Rica,2024,2,Febrero,183.0,detalle,False,True
+Costa Rica,2024,3,Marzo,271.0,detalle,False,True
+Costa Rica,2024,4,Abril,165.0,detalle,False,True
+Costa Rica,2024,5,Mayo,162.0,detalle,False,True
+Costa Rica,2024,6,Junio,103.0,detalle,False,True
+Costa Rica,2024,7,Julio,134.0,detalle,False,True
+Costa Rica,2024,8,Agosto,112.0,detalle,False,True
+Costa Rica,2024,9,Septiembre,170.0,detalle,False,True
+Costa Rica,2024,10,Octubre,123.0,detalle,False,True
+Costa Rica,2024,11,Noviembre,109.0,detalle,False,True
+Costa Rica,2024,12,Diciembre,244.0,detalle,False,True
+Costa Rica,2025,1,Enero,366.0,detalle,False,True
+Costa Rica,2025,2,Febrero,162.0,detalle,False,True
+Costa Rica,2025,3,Marzo,300.0,detalle,False,True
+Costa Rica,2025,4,Abril,286.0,detalle,False,True
+Costa Rica,2025,5,Mayo,189.0,detalle,False,True
+Costa Rica,2025,6,Junio,99.0,detalle,False,True
+Costa Rica,2025,7,Julio,164.0,detalle,False,True
+Costa Rica,2025,8,Agosto,89.0,detalle,False,True
+Costa Rica,2025,9,Septiembre,106.0,detalle,False,True
+Costa Rica,2025,10,Octubre,159.0,detalle,False,True
+Costa Rica,2025,11,Noviembre,174.0,detalle,False,True
+Costa Rica,2025,12,Diciembre,289.0,detalle,False,True
+Cuba,2022,1,Enero,158.0,detalle,False,False
+Cuba,2022,2,Febrero,202.0,detalle,False,False
+Cuba,2022,3,Marzo,88.0,detalle,False,False
+Cuba,2022,4,Abril,57.0,detalle,False,False
+Cuba,2022,5,Mayo,146.0,detalle,False,False
+Cuba,2022,6,Junio,122.0,detalle,False,False
+Cuba,2022,7,Julio,166.0,detalle,False,False
+Cuba,2022,8,Agosto,140.0,detalle,False,False
+Cuba,2022,9,Septiembre,160.0,detalle,False,False
+Cuba,2022,10,Octubre,136.0,detalle,False,False
+Cuba,2022,11,Noviembre,161.0,detalle,False,False
+Cuba,2022,12,Diciembre,167.0,detalle,False,False
+Cuba,2023,1,Enero,115.0,detalle,False,True
+Cuba,2023,2,Febrero,118.0,detalle,False,True
+Cuba,2023,3,Marzo,141.0,detalle,False,True
+Cuba,2023,4,Abril,123.0,detalle,False,True
+Cuba,2023,5,Mayo,115.0,detalle,False,True
+Cuba,2023,6,Junio,126.0,detalle,False,True
+Cuba,2023,7,Julio,110.0,detalle,False,True
+Cuba,2023,8,Agosto,153.0,detalle,False,True
+Cuba,2023,9,Septiembre,128.0,detalle,False,True
+Cuba,2023,10,Octubre,120.0,detalle,False,True
+Cuba,2023,11,Noviembre,152.0,detalle,False,True
+Cuba,2023,12,Diciembre,167.0,detalle,False,True
+Cuba,2024,1,Enero,175.0,detalle,False,True
+Cuba,2024,2,Febrero,137.0,detalle,False,True
+Cuba,2024,3,Marzo,164.0,detalle,False,True
+Cuba,2024,4,Abril,161.0,detalle,False,True
+Cuba,2024,5,Mayo,153.0,detalle,False,True
+Cuba,2024,6,Junio,151.0,detalle,False,True
+Cuba,2024,7,Julio,240.0,detalle,False,True
+Cuba,2024,8,Agosto,416.0,detalle,False,True
+Cuba,2024,9,Septiembre,320.0,detalle,False,True
+Cuba,2024,10,Octubre,276.0,detalle,False,True
+Cuba,2024,11,Noviembre,415.0,detalle,False,True
+Cuba,2024,12,Diciembre,454.0,detalle,False,True
+Cuba,2025,1,Enero,329.0,detalle,False,True
+Cuba,2025,2,Febrero,309.0,detalle,False,True
+Cuba,2025,3,Marzo,231.0,detalle,False,True
+Cuba,2025,4,Abril,293.0,detalle,False,True
+Cuba,2025,5,Mayo,327.0,detalle,False,True
+Cuba,2025,6,Junio,350.0,detalle,False,True
+Cuba,2025,7,Julio,436.0,detalle,False,True
+Cuba,2025,8,Agosto,317.0,detalle,False,True
+Cuba,2025,9,Septiembre,159.0,detalle,False,True
+Cuba,2025,10,Octubre,159.0,detalle,False,True
+Cuba,2025,11,Noviembre,149.0,detalle,False,True
+Cuba,2025,12,Diciembre,227.0,detalle,False,True
+Dinamarca,2022,1,Enero,24.0,detalle,False,False
+Dinamarca,2022,2,Febrero,50.0,detalle,False,False
+Dinamarca,2022,3,Marzo,140.0,detalle,False,False
+Dinamarca,2022,4,Abril,117.0,detalle,False,False
+Dinamarca,2022,5,Mayo,139.0,detalle,False,False
+Dinamarca,2022,6,Junio,60.0,detalle,False,False
+Dinamarca,2022,7,Julio,115.0,detalle,False,False
+Dinamarca,2022,8,Agosto,64.0,detalle,False,False
+Dinamarca,2022,9,Septiembre,69.0,detalle,False,False
+Dinamarca,2022,10,Octubre,171.0,detalle,False,False
+Dinamarca,2022,11,Noviembre,111.0,detalle,False,False
+Dinamarca,2022,12,Diciembre,109.0,detalle,False,False
+Dinamarca,2023,1,Enero,110.0,detalle,False,True
+Dinamarca,2023,2,Febrero,122.0,detalle,False,True
+Dinamarca,2023,3,Marzo,106.0,detalle,False,True
+Dinamarca,2023,4,Abril,140.0,detalle,False,True
+Dinamarca,2023,5,Mayo,98.0,detalle,False,True
+Dinamarca,2023,6,Junio,46.0,detalle,False,True
+Dinamarca,2023,7,Julio,69.0,detalle,False,True
+Dinamarca,2023,8,Agosto,48.0,detalle,False,True
+Dinamarca,2023,9,Septiembre,89.0,detalle,False,True
+Dinamarca,2023,10,Octubre,168.0,detalle,False,True
+Dinamarca,2023,11,Noviembre,155.0,detalle,False,True
+Dinamarca,2023,12,Diciembre,70.0,detalle,False,True
+Dinamarca,2024,1,Enero,122.0,detalle,False,True
+Dinamarca,2024,2,Febrero,129.0,detalle,False,True
+Dinamarca,2024,3,Marzo,205.0,detalle,False,True
+Dinamarca,2024,4,Abril,89.0,detalle,False,True
+Dinamarca,2024,5,Mayo,95.0,detalle,False,True
+Dinamarca,2024,6,Junio,54.0,detalle,False,True
+Dinamarca,2024,7,Julio,109.0,detalle,False,True
+Dinamarca,2024,8,Agosto,65.0,detalle,False,True
+Dinamarca,2024,9,Septiembre,94.0,detalle,False,True
+Dinamarca,2024,10,Octubre,182.0,detalle,False,True
+Dinamarca,2024,11,Noviembre,160.0,detalle,False,True
+Dinamarca,2024,12,Diciembre,104.0,detalle,False,True
+Dinamarca,2025,1,Enero,105.0,detalle,False,True
+Dinamarca,2025,2,Febrero,98.0,detalle,False,True
+Dinamarca,2025,3,Marzo,161.0,detalle,False,True
+Dinamarca,2025,4,Abril,147.0,detalle,False,True
+Dinamarca,2025,5,Mayo,101.0,detalle,False,True
+Dinamarca,2025,6,Junio,54.0,detalle,False,True
+Dinamarca,2025,7,Julio,96.0,detalle,False,True
+Dinamarca,2025,8,Agosto,78.0,detalle,False,True
+Dinamarca,2025,9,Septiembre,153.0,detalle,False,True
+Dinamarca,2025,10,Octubre,239.0,detalle,False,True
+Dinamarca,2025,11,Noviembre,195.0,detalle,False,True
+Dinamarca,2025,12,Diciembre,129.0,detalle,False,True
+Ecuador,2022,1,Enero,306.0,detalle,False,False
+Ecuador,2022,2,Febrero,337.0,detalle,False,False
+Ecuador,2022,3,Marzo,469.0,detalle,False,False
+Ecuador,2022,4,Abril,655.0,detalle,False,False
+Ecuador,2022,5,Mayo,720.0,detalle,False,False
+Ecuador,2022,6,Junio,623.0,detalle,False,False
+Ecuador,2022,7,Julio,786.0,detalle,False,False
+Ecuador,2022,8,Agosto,878.0,detalle,False,False
+Ecuador,2022,9,Septiembre,886.0,detalle,False,False
+Ecuador,2022,10,Octubre,832.0,detalle,False,False
+Ecuador,2022,11,Noviembre,763.0,detalle,False,False
+Ecuador,2022,12,Diciembre,652.0,detalle,False,False
+Ecuador,2023,1,Enero,638.0,detalle,False,True
+Ecuador,2023,2,Febrero,694.0,detalle,False,True
+Ecuador,2023,3,Marzo,969.0,detalle,False,True
+Ecuador,2023,4,Abril,734.0,detalle,False,True
+Ecuador,2023,5,Mayo,1015.0,detalle,False,True
+Ecuador,2023,6,Junio,798.0,detalle,False,True
+Ecuador,2023,7,Julio,879.0,detalle,False,True
+Ecuador,2023,8,Agosto,913.0,detalle,False,True
+Ecuador,2023,9,Septiembre,833.0,detalle,False,True
+Ecuador,2023,10,Octubre,1198.0,detalle,False,True
+Ecuador,2023,11,Noviembre,1018.0,detalle,False,True
+Ecuador,2023,12,Diciembre,979.0,detalle,False,True
+Ecuador,2024,1,Enero,994.0,detalle,False,True
+Ecuador,2024,2,Febrero,1128.0,detalle,False,True
+Ecuador,2024,3,Marzo,1106.0,detalle,False,True
+Ecuador,2024,4,Abril,1324.0,detalle,False,True
+Ecuador,2024,5,Mayo,1097.0,detalle,False,True
+Ecuador,2024,6,Junio,1101.0,detalle,False,True
+Ecuador,2024,7,Julio,1323.0,detalle,False,True
+Ecuador,2024,8,Agosto,1169.0,detalle,False,True
+Ecuador,2024,9,Septiembre,1159.0,detalle,False,True
+Ecuador,2024,10,Octubre,1050.0,detalle,False,True
+Ecuador,2024,11,Noviembre,1084.0,detalle,False,True
+Ecuador,2024,12,Diciembre,977.0,detalle,False,True
+Ecuador,2025,1,Enero,1068.0,detalle,False,True
+Ecuador,2025,2,Febrero,1352.0,detalle,False,True
+Ecuador,2025,3,Marzo,1487.0,detalle,False,True
+Ecuador,2025,4,Abril,1166.0,detalle,False,True
+Ecuador,2025,5,Mayo,1162.0,detalle,False,True
+Ecuador,2025,6,Junio,775.0,detalle,False,True
+Ecuador,2025,7,Julio,806.0,detalle,False,True
+Ecuador,2025,8,Agosto,797.0,detalle,False,True
+Ecuador,2025,9,Septiembre,756.0,detalle,False,True
+Ecuador,2025,10,Octubre,756.0,detalle,False,True
+Ecuador,2025,11,Noviembre,911.0,detalle,False,True
+Ecuador,2025,12,Diciembre,666.0,detalle,False,True
+El Salvador,2022,1,Enero,36.0,detalle,False,False
+El Salvador,2022,2,Febrero,34.0,detalle,False,False
+El Salvador,2022,3,Marzo,34.0,detalle,False,False
+El Salvador,2022,4,Abril,38.0,detalle,False,False
+El Salvador,2022,5,Mayo,45.0,detalle,False,False
+El Salvador,2022,6,Junio,26.0,detalle,False,False
+El Salvador,2022,7,Julio,36.0,detalle,False,False
+El Salvador,2022,8,Agosto,53.0,detalle,False,False
+El Salvador,2022,9,Septiembre,45.0,detalle,False,False
+El Salvador,2022,10,Octubre,61.0,detalle,False,False
+El Salvador,2022,11,Noviembre,53.0,detalle,False,False
+El Salvador,2022,12,Diciembre,53.0,detalle,False,False
+El Salvador,2023,1,Enero,54.0,detalle,False,True
+El Salvador,2023,2,Febrero,71.0,detalle,False,True
+El Salvador,2023,3,Marzo,41.0,detalle,False,True
+El Salvador,2023,4,Abril,57.0,detalle,False,True
+El Salvador,2023,5,Mayo,35.0,detalle,False,True
+El Salvador,2023,6,Junio,31.0,detalle,False,True
+El Salvador,2023,7,Julio,38.0,detalle,False,True
+El Salvador,2023,8,Agosto,37.0,detalle,False,True
+El Salvador,2023,9,Septiembre,39.0,detalle,False,True
+El Salvador,2023,10,Octubre,48.0,detalle,False,True
+El Salvador,2023,11,Noviembre,57.0,detalle,False,True
+El Salvador,2023,12,Diciembre,46.0,detalle,False,True
+El Salvador,2024,1,Enero,90.0,detalle,False,True
+El Salvador,2024,2,Febrero,48.0,detalle,False,True
+El Salvador,2024,3,Marzo,52.0,detalle,False,True
+El Salvador,2024,4,Abril,67.0,detalle,False,True
+El Salvador,2024,5,Mayo,67.0,detalle,False,True
+El Salvador,2024,6,Junio,54.0,detalle,False,True
+El Salvador,2024,7,Julio,60.0,detalle,False,True
+El Salvador,2024,8,Agosto,75.0,detalle,False,True
+El Salvador,2024,9,Septiembre,92.0,detalle,False,True
+El Salvador,2024,10,Octubre,72.0,detalle,False,True
+El Salvador,2024,11,Noviembre,70.0,detalle,False,True
+El Salvador,2024,12,Diciembre,61.0,detalle,False,True
+El Salvador,2025,1,Enero,63.0,detalle,False,True
+El Salvador,2025,2,Febrero,57.0,detalle,False,True
+El Salvador,2025,3,Marzo,78.0,detalle,False,True
+El Salvador,2025,4,Abril,74.0,detalle,False,True
+El Salvador,2025,5,Mayo,85.0,detalle,False,True
+El Salvador,2025,6,Junio,81.0,detalle,False,True
+El Salvador,2025,7,Julio,73.0,detalle,False,True
+El Salvador,2025,8,Agosto,68.0,detalle,False,True
+El Salvador,2025,9,Septiembre,60.0,detalle,False,True
+El Salvador,2025,10,Octubre,80.0,detalle,False,True
+El Salvador,2025,11,Noviembre,90.0,detalle,False,True
+El Salvador,2025,12,Diciembre,73.0,detalle,False,True
+Eslovaquia,2022,1,Enero,7.0,detalle,False,False
+Eslovaquia,2022,2,Febrero,35.0,detalle,False,False
+Eslovaquia,2022,3,Marzo,6.0,detalle,False,False
+Eslovaquia,2022,4,Abril,55.0,detalle,False,False
+Eslovaquia,2022,5,Mayo,7.0,detalle,False,False
+Eslovaquia,2022,6,Junio,12.0,detalle,False,False
+Eslovaquia,2022,7,Julio,28.0,detalle,False,False
+Eslovaquia,2022,8,Agosto,30.0,detalle,False,False
+Eslovaquia,2022,9,Septiembre,109.0,detalle,False,False
+Eslovaquia,2022,10,Octubre,55.0,detalle,False,False
+Eslovaquia,2022,11,Noviembre,91.0,detalle,False,False
+Eslovaquia,2022,12,Diciembre,14.0,detalle,False,False
+Eslovaquia,2023,1,Enero,26.0,detalle,False,True
+Eslovaquia,2023,2,Febrero,23.0,detalle,False,True
+Eslovaquia,2023,3,Marzo,15.0,detalle,False,True
+Eslovaquia,2023,4,Abril,82.0,detalle,False,True
+Eslovaquia,2023,5,Mayo,45.0,detalle,False,True
+Eslovaquia,2023,6,Junio,19.0,detalle,False,True
+Eslovaquia,2023,7,Julio,67.0,detalle,False,True
+Eslovaquia,2023,8,Agosto,28.0,detalle,False,True
+Eslovaquia,2023,9,Septiembre,113.0,detalle,False,True
+Eslovaquia,2023,10,Octubre,73.0,detalle,False,True
+Eslovaquia,2023,11,Noviembre,152.0,detalle,False,True
+Eslovaquia,2023,12,Diciembre,27.0,detalle,False,True
+Eslovaquia,2024,1,Enero,49.0,detalle,False,True
+Eslovaquia,2024,2,Febrero,60.0,detalle,False,True
+Eslovaquia,2024,3,Marzo,64.0,detalle,False,True
+Eslovaquia,2024,4,Abril,122.0,detalle,False,True
+Eslovaquia,2024,5,Mayo,57.0,detalle,False,True
+Eslovaquia,2024,6,Junio,16.0,detalle,False,True
+Eslovaquia,2024,7,Julio,45.0,detalle,False,True
+Eslovaquia,2024,8,Agosto,41.0,detalle,False,True
+Eslovaquia,2024,9,Septiembre,59.0,detalle,False,True
+Eslovaquia,2024,10,Octubre,99.0,detalle,False,True
+Eslovaquia,2024,11,Noviembre,133.0,detalle,False,True
+Eslovaquia,2024,12,Diciembre,38.0,detalle,False,True
+Eslovaquia,2025,1,Enero,51.0,detalle,False,True
+Eslovaquia,2025,2,Febrero,50.0,detalle,False,True
+Eslovaquia,2025,3,Marzo,64.0,detalle,False,True
+Eslovaquia,2025,4,Abril,113.0,detalle,False,True
+Eslovaquia,2025,5,Mayo,86.0,detalle,False,True
+Eslovaquia,2025,6,Junio,34.0,detalle,False,True
+Eslovaquia,2025,7,Julio,105.0,detalle,False,True
+Eslovaquia,2025,8,Agosto,37.0,detalle,False,True
+Eslovaquia,2025,9,Septiembre,81.0,detalle,False,True
+Eslovaquia,2025,10,Octubre,83.0,detalle,False,True
+Eslovaquia,2025,11,Noviembre,80.0,detalle,False,True
+Eslovaquia,2025,12,Diciembre,41.0,detalle,False,True
+España,2022,1,Enero,1797.0,detalle,False,False
+España,2022,2,Febrero,1678.0,detalle,False,False
+España,2022,3,Marzo,1723.0,detalle,False,False
+España,2022,4,Abril,1757.0,detalle,False,False
+España,2022,5,Mayo,2059.0,detalle,False,False
+España,2022,6,Junio,2961.0,detalle,False,False
+España,2022,7,Julio,3438.0,detalle,False,False
+España,2022,8,Agosto,3376.0,detalle,False,False
+España,2022,9,Septiembre,2826.0,detalle,False,False
+España,2022,10,Octubre,3067.0,detalle,False,False
+España,2022,11,Noviembre,2946.0,detalle,False,False
+España,2022,12,Diciembre,3874.0,detalle,False,False
+España,2023,1,Enero,2921.0,detalle,False,True
+España,2023,2,Febrero,2813.0,detalle,False,True
+España,2023,3,Marzo,2381.0,detalle,False,True
+España,2023,4,Abril,2418.0,detalle,False,True
+España,2023,5,Mayo,2496.0,detalle,False,True
+España,2023,6,Junio,3372.0,detalle,False,True
+España,2023,7,Julio,3995.0,detalle,False,True
+España,2023,8,Agosto,3859.0,detalle,False,True
+España,2023,9,Septiembre,2830.0,detalle,False,True
+España,2023,10,Octubre,2899.0,detalle,False,True
+España,2023,11,Noviembre,3300.0,detalle,False,True
+España,2023,12,Diciembre,4174.0,detalle,False,True
+España,2024,1,Enero,3591.0,detalle,False,True
+España,2024,2,Febrero,3192.0,detalle,False,True
+España,2024,3,Marzo,2990.0,detalle,False,True
+España,2024,4,Abril,2383.0,detalle,False,True
+España,2024,5,Mayo,2480.0,detalle,False,True
+España,2024,6,Junio,3762.0,detalle,False,True
+España,2024,7,Julio,4843.0,detalle,False,True
+España,2024,8,Agosto,4840.0,detalle,False,True
+España,2024,9,Septiembre,3284.0,detalle,False,True
+España,2024,10,Octubre,3508.0,detalle,False,True
+España,2024,11,Noviembre,3519.0,detalle,False,True
+España,2024,12,Diciembre,4748.0,detalle,False,True
+España,2025,1,Enero,3167.0,detalle,False,True
+España,2025,2,Febrero,3462.0,detalle,False,True
+España,2025,3,Marzo,2941.0,detalle,False,True
+España,2025,4,Abril,2789.0,detalle,False,True
+España,2025,5,Mayo,2523.0,detalle,False,True
+España,2025,6,Junio,3903.0,detalle,False,True
+España,2025,7,Julio,4810.0,detalle,False,True
+España,2025,8,Agosto,4875.0,detalle,False,True
+España,2025,9,Septiembre,3758.0,detalle,False,True
+España,2025,10,Octubre,3483.0,detalle,False,True
+España,2025,11,Noviembre,4088.0,detalle,False,True
+España,2025,12,Diciembre,5156.0,detalle,False,True
+Estados Unidos,2022,1,Enero,2037.0,detalle,False,False
+Estados Unidos,2022,2,Febrero,2691.0,detalle,False,False
+Estados Unidos,2022,3,Marzo,2866.0,detalle,False,False
+Estados Unidos,2022,4,Abril,3075.0,detalle,False,False
+Estados Unidos,2022,5,Mayo,3387.0,detalle,False,False
+Estados Unidos,2022,6,Junio,4606.0,detalle,False,False
+Estados Unidos,2022,7,Julio,5167.0,detalle,False,False
+Estados Unidos,2022,8,Agosto,4075.0,detalle,False,False
+Estados Unidos,2022,9,Septiembre,3749.0,detalle,False,False
+Estados Unidos,2022,10,Octubre,3607.0,detalle,False,False
+Estados Unidos,2022,11,Noviembre,3160.0,detalle,False,False
+Estados Unidos,2022,12,Diciembre,5109.0,detalle,False,False
+Estados Unidos,2023,1,Enero,3291.0,detalle,False,True
+Estados Unidos,2023,2,Febrero,4606.0,detalle,False,True
+Estados Unidos,2023,3,Marzo,4162.0,detalle,False,True
+Estados Unidos,2023,4,Abril,3589.0,detalle,False,True
+Estados Unidos,2023,5,Mayo,3821.0,detalle,False,True
+Estados Unidos,2023,6,Junio,5349.0,detalle,False,True
+Estados Unidos,2023,7,Julio,5860.0,detalle,False,True
+Estados Unidos,2023,8,Agosto,4906.0,detalle,False,True
+Estados Unidos,2023,9,Septiembre,3966.0,detalle,False,True
+Estados Unidos,2023,10,Octubre,4089.0,detalle,False,True
+Estados Unidos,2023,11,Noviembre,3580.0,detalle,False,True
+Estados Unidos,2023,12,Diciembre,5748.0,detalle,False,True
+Estados Unidos,2024,1,Enero,3983.0,detalle,False,True
+Estados Unidos,2024,2,Febrero,5248.0,detalle,False,True
+Estados Unidos,2024,3,Marzo,4751.0,detalle,False,True
+Estados Unidos,2024,4,Abril,3991.0,detalle,False,True
+Estados Unidos,2024,5,Mayo,4462.0,detalle,False,True
+Estados Unidos,2024,6,Junio,6040.0,detalle,False,True
+Estados Unidos,2024,7,Julio,6269.0,detalle,False,True
+Estados Unidos,2024,8,Agosto,5423.0,detalle,False,True
+Estados Unidos,2024,9,Septiembre,4062.0,detalle,False,True
+Estados Unidos,2024,10,Octubre,4085.0,detalle,False,True
+Estados Unidos,2024,11,Noviembre,4004.0,detalle,False,True
+Estados Unidos,2024,12,Diciembre,5896.0,detalle,False,True
+Estados Unidos,2025,1,Enero,3643.0,detalle,False,True
+Estados Unidos,2025,2,Febrero,4857.0,detalle,False,True
+Estados Unidos,2025,3,Marzo,5053.0,detalle,False,True
+Estados Unidos,2025,4,Abril,3852.0,detalle,False,True
+Estados Unidos,2025,5,Mayo,6063.0,detalle,False,True
+Estados Unidos,2025,6,Junio,5744.0,detalle,False,True
+Estados Unidos,2025,7,Julio,6459.0,detalle,False,True
+Estados Unidos,2025,8,Agosto,4146.0,detalle,False,True
+Estados Unidos,2025,9,Septiembre,4395.0,detalle,False,True
+Estados Unidos,2025,10,Octubre,4245.0,detalle,False,True
+Estados Unidos,2025,11,Noviembre,4685.0,detalle,False,True
+Estados Unidos,2025,12,Diciembre,7351.0,detalle,False,True
+Finlandia,2022,1,Enero,8.0,detalle,False,False
+Finlandia,2022,2,Febrero,11.0,detalle,False,False
+Finlandia,2022,3,Marzo,11.0,detalle,False,False
+Finlandia,2022,4,Abril,15.0,detalle,False,False
+Finlandia,2022,5,Mayo,29.0,detalle,False,False
+Finlandia,2022,6,Junio,23.0,detalle,False,False
+Finlandia,2022,7,Julio,32.0,detalle,False,False
+Finlandia,2022,8,Agosto,12.0,detalle,False,False
+Finlandia,2022,9,Septiembre,16.0,detalle,False,False
+Finlandia,2022,10,Octubre,38.0,detalle,False,False
+Finlandia,2022,11,Noviembre,38.0,detalle,False,False
+Finlandia,2022,12,Diciembre,42.0,detalle,False,False
+Finlandia,2023,1,Enero,34.0,detalle,False,True
+Finlandia,2023,2,Febrero,33.0,detalle,False,True
+Finlandia,2023,3,Marzo,50.0,detalle,False,True
+Finlandia,2023,4,Abril,38.0,detalle,False,True
+Finlandia,2023,5,Mayo,23.0,detalle,False,True
+Finlandia,2023,6,Junio,23.0,detalle,False,True
+Finlandia,2023,7,Julio,36.0,detalle,False,True
+Finlandia,2023,8,Agosto,30.0,detalle,False,True
+Finlandia,2023,9,Septiembre,22.0,detalle,False,True
+Finlandia,2023,10,Octubre,49.0,detalle,False,True
+Finlandia,2023,11,Noviembre,41.0,detalle,False,True
+Finlandia,2023,12,Diciembre,49.0,detalle,False,True
+Finlandia,2024,1,Enero,45.0,detalle,False,True
+Finlandia,2024,2,Febrero,37.0,detalle,False,True
+Finlandia,2024,3,Marzo,39.0,detalle,False,True
+Finlandia,2024,4,Abril,20.0,detalle,False,True
+Finlandia,2024,5,Mayo,12.0,detalle,False,True
+Finlandia,2024,6,Junio,17.0,detalle,False,True
+Finlandia,2024,7,Julio,15.0,detalle,False,True
+Finlandia,2024,8,Agosto,21.0,detalle,False,True
+Finlandia,2024,9,Septiembre,32.0,detalle,False,True
+Finlandia,2024,10,Octubre,18.0,detalle,False,True
+Finlandia,2024,11,Noviembre,31.0,detalle,False,True
+Finlandia,2024,12,Diciembre,60.0,detalle,False,True
+Finlandia,2025,1,Enero,44.0,detalle,False,True
+Finlandia,2025,2,Febrero,29.0,detalle,False,True
+Finlandia,2025,3,Marzo,23.0,detalle,False,True
+Finlandia,2025,4,Abril,32.0,detalle,False,True
+Finlandia,2025,5,Mayo,30.0,detalle,False,True
+Finlandia,2025,6,Junio,31.0,detalle,False,True
+Finlandia,2025,7,Julio,32.0,detalle,False,True
+Finlandia,2025,8,Agosto,31.0,detalle,False,True
+Finlandia,2025,9,Septiembre,31.0,detalle,False,True
+Finlandia,2025,10,Octubre,34.0,detalle,False,True
+Finlandia,2025,11,Noviembre,48.0,detalle,False,True
+Finlandia,2025,12,Diciembre,57.0,detalle,False,True
+Francia,2022,1,Enero,479.0,detalle,False,False
+Francia,2022,2,Febrero,594.0,detalle,False,False
+Francia,2022,3,Marzo,915.0,detalle,False,False
+Francia,2022,4,Abril,1293.0,detalle,False,False
+Francia,2022,5,Mayo,1634.0,detalle,False,False
+Francia,2022,6,Junio,1247.0,detalle,False,False
+Francia,2022,7,Julio,2002.0,detalle,False,False
+Francia,2022,8,Agosto,1687.0,detalle,False,False
+Francia,2022,9,Septiembre,1492.0,detalle,False,False
+Francia,2022,10,Octubre,1923.0,detalle,False,False
+Francia,2022,11,Noviembre,1409.0,detalle,False,False
+Francia,2022,12,Diciembre,1118.0,detalle,False,False
+Francia,2023,1,Enero,1305.0,detalle,False,True
+Francia,2023,2,Febrero,1093.0,detalle,False,True
+Francia,2023,3,Marzo,1414.0,detalle,False,True
+Francia,2023,4,Abril,1927.0,detalle,False,True
+Francia,2023,5,Mayo,1897.0,detalle,False,True
+Francia,2023,6,Junio,1313.0,detalle,False,True
+Francia,2023,7,Julio,2326.0,detalle,False,True
+Francia,2023,8,Agosto,1829.0,detalle,False,True
+Francia,2023,9,Septiembre,1641.0,detalle,False,True
+Francia,2023,10,Octubre,1840.0,detalle,False,True
+Francia,2023,11,Noviembre,1666.0,detalle,False,True
+Francia,2023,12,Diciembre,1342.0,detalle,False,True
+Francia,2024,1,Enero,1312.0,detalle,False,True
+Francia,2024,2,Febrero,1109.0,detalle,False,True
+Francia,2024,3,Marzo,1251.0,detalle,False,True
+Francia,2024,4,Abril,1660.0,detalle,False,True
+Francia,2024,5,Mayo,1618.0,detalle,False,True
+Francia,2024,6,Junio,1160.0,detalle,False,True
+Francia,2024,7,Julio,1896.0,detalle,False,True
+Francia,2024,8,Agosto,1585.0,detalle,False,True
+Francia,2024,9,Septiembre,1490.0,detalle,False,True
+Francia,2024,10,Octubre,1756.0,detalle,False,True
+Francia,2024,11,Noviembre,1380.0,detalle,False,True
+Francia,2024,12,Diciembre,1036.0,detalle,False,True
+Francia,2025,1,Enero,1020.0,detalle,False,True
+Francia,2025,2,Febrero,953.0,detalle,False,True
+Francia,2025,3,Marzo,1146.0,detalle,False,True
+Francia,2025,4,Abril,1623.0,detalle,False,True
+Francia,2025,5,Mayo,1709.0,detalle,False,True
+Francia,2025,6,Junio,1248.0,detalle,False,True
+Francia,2025,7,Julio,2546.0,detalle,False,True
+Francia,2025,8,Agosto,2002.0,detalle,False,True
+Francia,2025,9,Septiembre,1524.0,detalle,False,True
+Francia,2025,10,Octubre,1959.0,detalle,False,True
+Francia,2025,11,Noviembre,1712.0,detalle,False,True
+Francia,2025,12,Diciembre,1413.0,detalle,False,True
+Grecia,2022,1,Enero,12.0,detalle,False,False
+Grecia,2022,2,Febrero,13.0,detalle,False,False
+Grecia,2022,3,Marzo,15.0,detalle,False,False
+Grecia,2022,4,Abril,40.0,detalle,False,False
+Grecia,2022,5,Mayo,31.0,detalle,False,False
+Grecia,2022,6,Junio,10.0,detalle,False,False
+Grecia,2022,7,Julio,64.0,detalle,False,False
+Grecia,2022,8,Agosto,104.0,detalle,False,False
+Grecia,2022,9,Septiembre,24.0,detalle,False,False
+Grecia,2022,10,Octubre,44.0,detalle,False,False
+Grecia,2022,11,Noviembre,38.0,detalle,False,False
+Grecia,2022,12,Diciembre,29.0,detalle,False,False
+Grecia,2023,1,Enero,19.0,detalle,False,True
+Grecia,2023,2,Febrero,15.0,detalle,False,True
+Grecia,2023,3,Marzo,17.0,detalle,False,True
+Grecia,2023,4,Abril,16.0,detalle,False,True
+Grecia,2023,5,Mayo,17.0,detalle,False,True
+Grecia,2023,6,Junio,35.0,detalle,False,True
+Grecia,2023,7,Julio,12.0,detalle,False,True
+Grecia,2023,8,Agosto,68.0,detalle,False,True
+Grecia,2023,9,Septiembre,16.0,detalle,False,True
+Grecia,2023,10,Octubre,36.0,detalle,False,True
+Grecia,2023,11,Noviembre,75.0,detalle,False,True
+Grecia,2023,12,Diciembre,28.0,detalle,False,True
+Grecia,2024,1,Enero,25.0,detalle,False,True
+Grecia,2024,2,Febrero,22.0,detalle,False,True
+Grecia,2024,3,Marzo,38.0,detalle,False,True
+Grecia,2024,4,Abril,52.0,detalle,False,True
+Grecia,2024,5,Mayo,40.0,detalle,False,True
+Grecia,2024,6,Junio,46.0,detalle,False,True
+Grecia,2024,7,Julio,16.0,detalle,False,True
+Grecia,2024,8,Agosto,143.0,detalle,False,True
+Grecia,2024,9,Septiembre,19.0,detalle,False,True
+Grecia,2024,10,Octubre,38.0,detalle,False,True
+Grecia,2024,11,Noviembre,45.0,detalle,False,True
+Grecia,2024,12,Diciembre,38.0,detalle,False,True
+Grecia,2025,1,Enero,18.0,detalle,False,True
+Grecia,2025,2,Febrero,17.0,detalle,False,True
+Grecia,2025,3,Marzo,40.0,detalle,False,True
+Grecia,2025,4,Abril,52.0,detalle,False,True
+Grecia,2025,5,Mayo,30.0,detalle,False,True
+Grecia,2025,6,Junio,38.0,detalle,False,True
+Grecia,2025,7,Julio,34.0,detalle,False,True
+Grecia,2025,8,Agosto,108.0,detalle,False,True
+Grecia,2025,9,Septiembre,70.0,detalle,False,True
+Grecia,2025,10,Octubre,46.0,detalle,False,True
+Grecia,2025,11,Noviembre,37.0,detalle,False,True
+Grecia,2025,12,Diciembre,40.0,detalle,False,True
+Guatemala,2022,1,Enero,18.0,detalle,False,False
+Guatemala,2022,2,Febrero,32.0,detalle,False,False
+Guatemala,2022,3,Marzo,29.0,detalle,False,False
+Guatemala,2022,4,Abril,31.0,detalle,False,False
+Guatemala,2022,5,Mayo,33.0,detalle,False,False
+Guatemala,2022,6,Junio,58.0,detalle,False,False
+Guatemala,2022,7,Julio,30.0,detalle,False,False
+Guatemala,2022,8,Agosto,43.0,detalle,False,False
+Guatemala,2022,9,Septiembre,34.0,detalle,False,False
+Guatemala,2022,10,Octubre,103.0,detalle,False,False
+Guatemala,2022,11,Noviembre,43.0,detalle,False,False
+Guatemala,2022,12,Diciembre,38.0,detalle,False,False
+Guatemala,2023,1,Enero,53.0,detalle,False,True
+Guatemala,2023,2,Febrero,49.0,detalle,False,True
+Guatemala,2023,3,Marzo,55.0,detalle,False,True
+Guatemala,2023,4,Abril,38.0,detalle,False,True
+Guatemala,2023,5,Mayo,51.0,detalle,False,True
+Guatemala,2023,6,Junio,69.0,detalle,False,True
+Guatemala,2023,7,Julio,52.0,detalle,False,True
+Guatemala,2023,8,Agosto,45.0,detalle,False,True
+Guatemala,2023,9,Septiembre,57.0,detalle,False,True
+Guatemala,2023,10,Octubre,57.0,detalle,False,True
+Guatemala,2023,11,Noviembre,87.0,detalle,False,True
+Guatemala,2023,12,Diciembre,56.0,detalle,False,True
+Guatemala,2024,1,Enero,41.0,detalle,False,True
+Guatemala,2024,2,Febrero,56.0,detalle,False,True
+Guatemala,2024,3,Marzo,80.0,detalle,False,True
+Guatemala,2024,4,Abril,60.0,detalle,False,True
+Guatemala,2024,5,Mayo,49.0,detalle,False,True
+Guatemala,2024,6,Junio,72.0,detalle,False,True
+Guatemala,2024,7,Julio,47.0,detalle,False,True
+Guatemala,2024,8,Agosto,66.0,detalle,False,True
+Guatemala,2024,9,Septiembre,101.0,detalle,False,True
+Guatemala,2024,10,Octubre,59.0,detalle,False,True
+Guatemala,2024,11,Noviembre,67.0,detalle,False,True
+Guatemala,2024,12,Diciembre,60.0,detalle,False,True
+Guatemala,2025,1,Enero,70.0,detalle,False,True
+Guatemala,2025,2,Febrero,48.0,detalle,False,True
+Guatemala,2025,3,Marzo,55.0,detalle,False,True
+Guatemala,2025,4,Abril,79.0,detalle,False,True
+Guatemala,2025,5,Mayo,83.0,detalle,False,True
+Guatemala,2025,6,Junio,48.0,detalle,False,True
+Guatemala,2025,7,Julio,69.0,detalle,False,True
+Guatemala,2025,8,Agosto,44.0,detalle,False,True
+Guatemala,2025,9,Septiembre,74.0,detalle,False,True
+Guatemala,2025,10,Octubre,68.0,detalle,False,True
+Guatemala,2025,11,Noviembre,74.0,detalle,False,True
+Guatemala,2025,12,Diciembre,96.0,detalle,False,True
+Honduras,2022,1,Enero,19.0,detalle,False,False
+Honduras,2022,2,Febrero,28.0,detalle,False,False
+Honduras,2022,3,Marzo,30.0,detalle,False,False
+Honduras,2022,4,Abril,19.0,detalle,False,False
+Honduras,2022,5,Mayo,30.0,detalle,False,False
+Honduras,2022,6,Junio,27.0,detalle,False,False
+Honduras,2022,7,Julio,32.0,detalle,False,False
+Honduras,2022,8,Agosto,41.0,detalle,False,False
+Honduras,2022,9,Septiembre,51.0,detalle,False,False
+Honduras,2022,10,Octubre,72.0,detalle,False,False
+Honduras,2022,11,Noviembre,44.0,detalle,False,False
+Honduras,2022,12,Diciembre,40.0,detalle,False,False
+Honduras,2023,1,Enero,21.0,detalle,False,True
+Honduras,2023,2,Febrero,27.0,detalle,False,True
+Honduras,2023,3,Marzo,32.0,detalle,False,True
+Honduras,2023,4,Abril,40.0,detalle,False,True
+Honduras,2023,5,Mayo,20.0,detalle,False,True
+Honduras,2023,6,Junio,40.0,detalle,False,True
+Honduras,2023,7,Julio,55.0,detalle,False,True
+Honduras,2023,8,Agosto,27.0,detalle,False,True
+Honduras,2023,9,Septiembre,40.0,detalle,False,True
+Honduras,2023,10,Octubre,58.0,detalle,False,True
+Honduras,2023,11,Noviembre,67.0,detalle,False,True
+Honduras,2023,12,Diciembre,28.0,detalle,False,True
+Honduras,2024,1,Enero,43.0,detalle,False,True
+Honduras,2024,2,Febrero,53.0,detalle,False,True
+Honduras,2024,3,Marzo,34.0,detalle,False,True
+Honduras,2024,4,Abril,42.0,detalle,False,True
+Honduras,2024,5,Mayo,44.0,detalle,False,True
+Honduras,2024,6,Junio,61.0,detalle,False,True
+Honduras,2024,7,Julio,74.0,detalle,False,True
+Honduras,2024,8,Agosto,49.0,detalle,False,True
+Honduras,2024,9,Septiembre,78.0,detalle,False,True
+Honduras,2024,10,Octubre,70.0,detalle,False,True
+Honduras,2024,11,Noviembre,52.0,detalle,False,True
+Honduras,2024,12,Diciembre,80.0,detalle,False,True
+Honduras,2025,1,Enero,93.0,detalle,False,True
+Honduras,2025,2,Febrero,50.0,detalle,False,True
+Honduras,2025,3,Marzo,45.0,detalle,False,True
+Honduras,2025,4,Abril,57.0,detalle,False,True
+Honduras,2025,5,Mayo,78.0,detalle,False,True
+Honduras,2025,6,Junio,47.0,detalle,False,True
+Honduras,2025,7,Julio,44.0,detalle,False,True
+Honduras,2025,8,Agosto,64.0,detalle,False,True
+Honduras,2025,9,Septiembre,41.0,detalle,False,True
+Honduras,2025,10,Octubre,37.0,detalle,False,True
+Honduras,2025,11,Noviembre,83.0,detalle,False,True
+Honduras,2025,12,Diciembre,44.0,detalle,False,True
+India,2022,1,Enero,34.0,detalle,False,False
+India,2022,2,Febrero,51.0,detalle,False,False
+India,2022,3,Marzo,59.0,detalle,False,False
+India,2022,4,Abril,50.0,detalle,False,False
+India,2022,5,Mayo,192.0,detalle,False,False
+India,2022,6,Junio,265.0,detalle,False,False
+India,2022,7,Julio,262.0,detalle,False,False
+India,2022,8,Agosto,149.0,detalle,False,False
+India,2022,9,Septiembre,56.0,detalle,False,False
+India,2022,10,Octubre,81.0,detalle,False,False
+India,2022,11,Noviembre,85.0,detalle,False,False
+India,2022,12,Diciembre,98.0,detalle,False,False
+India,2023,1,Enero,66.0,detalle,False,True
+India,2023,2,Febrero,61.0,detalle,False,True
+India,2023,3,Marzo,70.0,detalle,False,True
+India,2023,4,Abril,74.0,detalle,False,True
+India,2023,5,Mayo,75.0,detalle,False,True
+India,2023,6,Junio,63.0,detalle,False,True
+India,2023,7,Julio,103.0,detalle,False,True
+India,2023,8,Agosto,99.0,detalle,False,True
+India,2023,9,Septiembre,92.0,detalle,False,True
+India,2023,10,Octubre,86.0,detalle,False,True
+India,2023,11,Noviembre,70.0,detalle,False,True
+India,2023,12,Diciembre,78.0,detalle,False,True
+India,2024,1,Enero,39.0,detalle,False,True
+India,2024,2,Febrero,127.0,detalle,False,True
+India,2024,3,Marzo,107.0,detalle,False,True
+India,2024,4,Abril,81.0,detalle,False,True
+India,2024,5,Mayo,86.0,detalle,False,True
+India,2024,6,Junio,75.0,detalle,False,True
+India,2024,7,Julio,49.0,detalle,False,True
+India,2024,8,Agosto,77.0,detalle,False,True
+India,2024,9,Septiembre,107.0,detalle,False,True
+India,2024,10,Octubre,85.0,detalle,False,True
+India,2024,11,Noviembre,86.0,detalle,False,True
+India,2024,12,Diciembre,96.0,detalle,False,True
+India,2025,1,Enero,53.0,detalle,False,True
+India,2025,2,Febrero,47.0,detalle,False,True
+India,2025,3,Marzo,165.0,detalle,False,True
+India,2025,4,Abril,71.0,detalle,False,True
+India,2025,5,Mayo,76.0,detalle,False,True
+India,2025,6,Junio,55.0,detalle,False,True
+India,2025,7,Julio,85.0,detalle,False,True
+India,2025,8,Agosto,50.0,detalle,False,True
+India,2025,9,Septiembre,130.0,detalle,False,True
+India,2025,10,Octubre,72.0,detalle,False,True
+India,2025,11,Noviembre,78.0,detalle,False,True
+India,2025,12,Diciembre,107.0,detalle,False,True
+Irlanda,2022,1,Enero,21.0,detalle,False,False
+Irlanda,2022,2,Febrero,28.0,detalle,False,False
+Irlanda,2022,3,Marzo,54.0,detalle,False,False
+Irlanda,2022,4,Abril,57.0,detalle,False,False
+Irlanda,2022,5,Mayo,102.0,detalle,False,False
+Irlanda,2022,6,Junio,97.0,detalle,False,False
+Irlanda,2022,7,Julio,209.0,detalle,False,False
+Irlanda,2022,8,Agosto,168.0,detalle,False,False
+Irlanda,2022,9,Septiembre,134.0,detalle,False,False
+Irlanda,2022,10,Octubre,232.0,detalle,False,False
+Irlanda,2022,11,Noviembre,154.0,detalle,False,False
+Irlanda,2022,12,Diciembre,109.0,detalle,False,False
+Irlanda,2023,1,Enero,104.0,detalle,False,True
+Irlanda,2023,2,Febrero,98.0,detalle,False,True
+Irlanda,2023,3,Marzo,129.0,detalle,False,True
+Irlanda,2023,4,Abril,172.0,detalle,False,True
+Irlanda,2023,5,Mayo,148.0,detalle,False,True
+Irlanda,2023,6,Junio,103.0,detalle,False,True
+Irlanda,2023,7,Julio,209.0,detalle,False,True
+Irlanda,2023,8,Agosto,152.0,detalle,False,True
+Irlanda,2023,9,Septiembre,136.0,detalle,False,True
+Irlanda,2023,10,Octubre,219.0,detalle,False,True
+Irlanda,2023,11,Noviembre,236.0,detalle,False,True
+Irlanda,2023,12,Diciembre,124.0,detalle,False,True
+Irlanda,2024,1,Enero,161.0,detalle,False,True
+Irlanda,2024,2,Febrero,121.0,detalle,False,True
+Irlanda,2024,3,Marzo,149.0,detalle,False,True
+Irlanda,2024,4,Abril,141.0,detalle,False,True
+Irlanda,2024,5,Mayo,111.0,detalle,False,True
+Irlanda,2024,6,Junio,117.0,detalle,False,True
+Irlanda,2024,7,Julio,169.0,detalle,False,True
+Irlanda,2024,8,Agosto,125.0,detalle,False,True
+Irlanda,2024,9,Septiembre,122.0,detalle,False,True
+Irlanda,2024,10,Octubre,168.0,detalle,False,True
+Irlanda,2024,11,Noviembre,154.0,detalle,False,True
+Irlanda,2024,12,Diciembre,125.0,detalle,False,True
+Irlanda,2025,1,Enero,115.0,detalle,False,True
+Irlanda,2025,2,Febrero,72.0,detalle,False,True
+Irlanda,2025,3,Marzo,114.0,detalle,False,True
+Irlanda,2025,4,Abril,126.0,detalle,False,True
+Irlanda,2025,5,Mayo,113.0,detalle,False,True
+Irlanda,2025,6,Junio,136.0,detalle,False,True
+Irlanda,2025,7,Julio,175.0,detalle,False,True
+Irlanda,2025,8,Agosto,117.0,detalle,False,True
+Irlanda,2025,9,Septiembre,111.0,detalle,False,True
+Irlanda,2025,10,Octubre,177.0,detalle,False,True
+Irlanda,2025,11,Noviembre,243.0,detalle,False,True
+Irlanda,2025,12,Diciembre,,detalle,False,True
+Israel,2022,1,Enero,81.0,detalle,False,False
+Israel,2022,2,Febrero,99.0,detalle,False,False
+Israel,2022,3,Marzo,281.0,detalle,False,False
+Israel,2022,4,Abril,293.0,detalle,False,False
+Israel,2022,5,Mayo,352.0,detalle,False,False
+Israel,2022,6,Junio,233.0,detalle,False,False
+Israel,2022,7,Julio,177.0,detalle,False,False
+Israel,2022,8,Agosto,186.0,detalle,False,False
+Israel,2022,9,Septiembre,192.0,detalle,False,False
+Israel,2022,10,Octubre,236.0,detalle,False,False
+Israel,2022,11,Noviembre,185.0,detalle,False,False
+Israel,2022,12,Diciembre,84.0,detalle,False,False
+Israel,2023,1,Enero,314.0,detalle,False,True
+Israel,2023,2,Febrero,278.0,detalle,False,True
+Israel,2023,3,Marzo,622.0,detalle,False,True
+Israel,2023,4,Abril,595.0,detalle,False,True
+Israel,2023,5,Mayo,344.0,detalle,False,True
+Israel,2023,6,Junio,205.0,detalle,False,True
+Israel,2023,7,Julio,200.0,detalle,False,True
+Israel,2023,8,Agosto,213.0,detalle,False,True
+Israel,2023,9,Septiembre,238.0,detalle,False,True
+Israel,2023,10,Octubre,76.0,detalle,False,True
+Israel,2023,11,Noviembre,15.0,detalle,False,True
+Israel,2023,12,Diciembre,6.0,detalle,False,True
+Israel,2024,1,Enero,9.0,detalle,False,True
+Israel,2024,2,Febrero,7.0,detalle,False,True
+Israel,2024,3,Marzo,26.0,detalle,False,True
+Israel,2024,4,Abril,24.0,detalle,False,True
+Israel,2024,5,Mayo,77.0,detalle,False,True
+Israel,2024,6,Junio,65.0,detalle,False,True
+Israel,2024,7,Julio,70.0,detalle,False,True
+Israel,2024,8,Agosto,58.0,detalle,False,True
+Israel,2024,9,Septiembre,64.0,detalle,False,True
+Israel,2024,10,Octubre,94.0,detalle,False,True
+Israel,2024,11,Noviembre,67.0,detalle,False,True
+Israel,2024,12,Diciembre,38.0,detalle,False,True
+Israel,2025,1,Enero,72.0,detalle,False,True
+Israel,2025,2,Febrero,104.0,detalle,False,True
+Israel,2025,3,Marzo,531.0,detalle,False,True
+Israel,2025,4,Abril,549.0,detalle,False,True
+Israel,2025,5,Mayo,368.0,detalle,False,True
+Israel,2025,6,Junio,180.0,detalle,False,True
+Israel,2025,7,Julio,150.0,detalle,False,True
+Israel,2025,8,Agosto,122.0,detalle,False,True
+Israel,2025,9,Septiembre,153.0,detalle,False,True
+Israel,2025,10,Octubre,237.0,detalle,False,True
+Israel,2025,11,Noviembre,143.0,detalle,False,True
+Israel,2025,12,Diciembre,152.0,detalle,False,True
+Italia,2022,1,Enero,257.0,detalle,False,False
+Italia,2022,2,Febrero,222.0,detalle,False,False
+Italia,2022,3,Marzo,296.0,detalle,False,False
+Italia,2022,4,Abril,358.0,detalle,False,False
+Italia,2022,5,Mayo,373.0,detalle,False,False
+Italia,2022,6,Junio,461.0,detalle,False,False
+Italia,2022,7,Julio,702.0,detalle,False,False
+Italia,2022,8,Agosto,1288.0,detalle,False,False
+Italia,2022,9,Septiembre,557.0,detalle,False,False
+Italia,2022,10,Octubre,719.0,detalle,False,False
+Italia,2022,11,Noviembre,575.0,detalle,False,False
+Italia,2022,12,Diciembre,660.0,detalle,False,False
+Italia,2023,1,Enero,635.0,detalle,False,True
+Italia,2023,2,Febrero,498.0,detalle,False,True
+Italia,2023,3,Marzo,487.0,detalle,False,True
+Italia,2023,4,Abril,638.0,detalle,False,True
+Italia,2023,5,Mayo,559.0,detalle,False,True
+Italia,2023,6,Junio,497.0,detalle,False,True
+Italia,2023,7,Julio,799.0,detalle,False,True
+Italia,2023,8,Agosto,1711.0,detalle,False,True
+Italia,2023,9,Septiembre,710.0,detalle,False,True
+Italia,2023,10,Octubre,746.0,detalle,False,True
+Italia,2023,11,Noviembre,723.0,detalle,False,True
+Italia,2023,12,Diciembre,698.0,detalle,False,True
+Italia,2024,1,Enero,733.0,detalle,False,True
+Italia,2024,2,Febrero,573.0,detalle,False,True
+Italia,2024,3,Marzo,566.0,detalle,False,True
+Italia,2024,4,Abril,634.0,detalle,False,True
+Italia,2024,5,Mayo,577.0,detalle,False,True
+Italia,2024,6,Junio,680.0,detalle,False,True
+Italia,2024,7,Julio,961.0,detalle,False,True
+Italia,2024,8,Agosto,2719.0,detalle,False,True
+Italia,2024,9,Septiembre,804.0,detalle,False,True
+Italia,2024,10,Octubre,774.0,detalle,False,True
+Italia,2024,11,Noviembre,816.0,detalle,False,True
+Italia,2024,12,Diciembre,753.0,detalle,False,True
+Italia,2025,1,Enero,766.0,detalle,False,True
+Italia,2025,2,Febrero,466.0,detalle,False,True
+Italia,2025,3,Marzo,506.0,detalle,False,True
+Italia,2025,4,Abril,719.0,detalle,False,True
+Italia,2025,5,Mayo,566.0,detalle,False,True
+Italia,2025,6,Junio,677.0,detalle,False,True
+Italia,2025,7,Julio,1169.0,detalle,False,True
+Italia,2025,8,Agosto,2596.0,detalle,False,True
+Italia,2025,9,Septiembre,911.0,detalle,False,True
+Italia,2025,10,Octubre,947.0,detalle,False,True
+Italia,2025,11,Noviembre,841.0,detalle,False,True
+Italia,2025,12,Diciembre,810.0,detalle,False,True
+Japón,2022,1,Enero,68.0,detalle,False,False
+Japón,2022,2,Febrero,66.0,detalle,False,False
+Japón,2022,3,Marzo,95.0,detalle,False,False
+Japón,2022,4,Abril,88.0,detalle,False,False
+Japón,2022,5,Mayo,120.0,detalle,False,False
+Japón,2022,6,Junio,117.0,detalle,False,False
+Japón,2022,7,Julio,129.0,detalle,False,False
+Japón,2022,8,Agosto,131.0,detalle,False,False
+Japón,2022,9,Septiembre,160.0,detalle,False,False
+Japón,2022,10,Octubre,165.0,detalle,False,False
+Japón,2022,11,Noviembre,192.0,detalle,False,False
+Japón,2022,12,Diciembre,319.0,detalle,False,False
+Japón,2023,1,Enero,319.0,detalle,False,True
+Japón,2023,2,Febrero,532.0,detalle,False,True
+Japón,2023,3,Marzo,421.0,detalle,False,True
+Japón,2023,4,Abril,253.0,detalle,False,True
+Japón,2023,5,Mayo,260.0,detalle,False,True
+Japón,2023,6,Junio,180.0,detalle,False,True
+Japón,2023,7,Julio,230.0,detalle,False,True
+Japón,2023,8,Agosto,220.0,detalle,False,True
+Japón,2023,9,Septiembre,352.0,detalle,False,True
+Japón,2023,10,Octubre,241.0,detalle,False,True
+Japón,2023,11,Noviembre,258.0,detalle,False,True
+Japón,2023,12,Diciembre,540.0,detalle,False,True
+Japón,2024,1,Enero,662.0,detalle,False,True
+Japón,2024,2,Febrero,1141.0,detalle,False,True
+Japón,2024,3,Marzo,720.0,detalle,False,True
+Japón,2024,4,Abril,406.0,detalle,False,True
+Japón,2024,5,Mayo,337.0,detalle,False,True
+Japón,2024,6,Junio,249.0,detalle,False,True
+Japón,2024,7,Julio,296.0,detalle,False,True
+Japón,2024,8,Agosto,496.0,detalle,False,True
+Japón,2024,9,Septiembre,442.0,detalle,False,True
+Japón,2024,10,Octubre,322.0,detalle,False,True
+Japón,2024,11,Noviembre,358.0,detalle,False,True
+Japón,2024,12,Diciembre,722.0,detalle,False,True
+Japón,2025,1,Enero,794.0,detalle,False,True
+Japón,2025,2,Febrero,1444.0,detalle,False,True
+Japón,2025,3,Marzo,1009.0,detalle,False,True
+Japón,2025,4,Abril,441.0,detalle,False,True
+Japón,2025,5,Mayo,374.0,detalle,False,True
+Japón,2025,6,Junio,288.0,detalle,False,True
+Japón,2025,7,Julio,277.0,detalle,False,True
+Japón,2025,8,Agosto,327.0,detalle,False,True
+Japón,2025,9,Septiembre,371.0,detalle,False,True
+Japón,2025,10,Octubre,293.0,detalle,False,True
+Japón,2025,11,Noviembre,321.0,detalle,False,True
+Japón,2025,12,Diciembre,827.0,detalle,False,True
+México,2022,1,Enero,385.0,detalle,False,False
+México,2022,2,Febrero,345.0,detalle,False,False
+México,2022,3,Marzo,529.0,detalle,False,False
+México,2022,4,Abril,766.0,detalle,False,False
+México,2022,5,Mayo,627.0,detalle,False,False
+México,2022,6,Junio,595.0,detalle,False,False
+México,2022,7,Julio,700.0,detalle,False,False
+México,2022,8,Agosto,751.0,detalle,False,False
+México,2022,9,Septiembre,746.0,detalle,False,False
+México,2022,10,Octubre,822.0,detalle,False,False
+México,2022,11,Noviembre,597.0,detalle,False,False
+México,2022,12,Diciembre,808.0,detalle,False,False
+México,2023,1,Enero,727.0,detalle,False,True
+México,2023,2,Febrero,643.0,detalle,False,True
+México,2023,3,Marzo,778.0,detalle,False,True
+México,2023,4,Abril,972.0,detalle,False,True
+México,2023,5,Mayo,764.0,detalle,False,True
+México,2023,6,Junio,672.0,detalle,False,True
+México,2023,7,Julio,1017.0,detalle,False,True
+México,2023,8,Agosto,905.0,detalle,False,True
+México,2023,9,Septiembre,909.0,detalle,False,True
+México,2023,10,Octubre,861.0,detalle,False,True
+México,2023,11,Noviembre,890.0,detalle,False,True
+México,2023,12,Diciembre,943.0,detalle,False,True
+México,2024,1,Enero,920.0,detalle,False,True
+México,2024,2,Febrero,1013.0,detalle,False,True
+México,2024,3,Marzo,1073.0,detalle,False,True
+México,2024,4,Abril,813.0,detalle,False,True
+México,2024,5,Mayo,801.0,detalle,False,True
+México,2024,6,Junio,856.0,detalle,False,True
+México,2024,7,Julio,1015.0,detalle,False,True
+México,2024,8,Agosto,929.0,detalle,False,True
+México,2024,9,Septiembre,877.0,detalle,False,True
+México,2024,10,Octubre,903.0,detalle,False,True
+México,2024,11,Noviembre,723.0,detalle,False,True
+México,2024,12,Diciembre,897.0,detalle,False,True
+México,2025,1,Enero,818.0,detalle,False,True
+México,2025,2,Febrero,930.0,detalle,False,True
+México,2025,3,Marzo,800.0,detalle,False,True
+México,2025,4,Abril,842.0,detalle,False,True
+México,2025,5,Mayo,1010.0,detalle,False,True
+México,2025,6,Junio,750.0,detalle,False,True
+México,2025,7,Julio,922.0,detalle,False,True
+México,2025,8,Agosto,791.0,detalle,False,True
+México,2025,9,Septiembre,977.0,detalle,False,True
+México,2025,10,Octubre,900.0,detalle,False,True
+México,2025,11,Noviembre,852.0,detalle,False,True
+México,2025,12,Diciembre,969.0,detalle,False,True
+Nicaragua,2022,1,Enero,25.0,detalle,False,False
+Nicaragua,2022,2,Febrero,13.0,detalle,False,False
+Nicaragua,2022,3,Marzo,14.0,detalle,False,False
+Nicaragua,2022,4,Abril,6.0,detalle,False,False
+Nicaragua,2022,5,Mayo,18.0,detalle,False,False
+Nicaragua,2022,6,Junio,16.0,detalle,False,False
+Nicaragua,2022,7,Julio,23.0,detalle,False,False
+Nicaragua,2022,8,Agosto,31.0,detalle,False,False
+Nicaragua,2022,9,Septiembre,43.0,detalle,False,False
+Nicaragua,2022,10,Octubre,33.0,detalle,False,False
+Nicaragua,2022,11,Noviembre,23.0,detalle,False,False
+Nicaragua,2022,12,Diciembre,17.0,detalle,False,False
+Nicaragua,2023,1,Enero,39.0,detalle,False,True
+Nicaragua,2023,2,Febrero,9.0,detalle,False,True
+Nicaragua,2023,3,Marzo,17.0,detalle,False,True
+Nicaragua,2023,4,Abril,30.0,detalle,False,True
+Nicaragua,2023,5,Mayo,19.0,detalle,False,True
+Nicaragua,2023,6,Junio,24.0,detalle,False,True
+Nicaragua,2023,7,Julio,21.0,detalle,False,True
+Nicaragua,2023,8,Agosto,22.0,detalle,False,True
+Nicaragua,2023,9,Septiembre,17.0,detalle,False,True
+Nicaragua,2023,10,Octubre,23.0,detalle,False,True
+Nicaragua,2023,11,Noviembre,30.0,detalle,False,True
+Nicaragua,2023,12,Diciembre,11.0,detalle,False,True
+Nicaragua,2024,1,Enero,37.0,detalle,False,True
+Nicaragua,2024,2,Febrero,22.0,detalle,False,True
+Nicaragua,2024,3,Marzo,30.0,detalle,False,True
+Nicaragua,2024,4,Abril,24.0,detalle,False,True
+Nicaragua,2024,5,Mayo,17.0,detalle,False,True
+Nicaragua,2024,6,Junio,26.0,detalle,False,True
+Nicaragua,2024,7,Julio,33.0,detalle,False,True
+Nicaragua,2024,8,Agosto,42.0,detalle,False,True
+Nicaragua,2024,9,Septiembre,25.0,detalle,False,True
+Nicaragua,2024,10,Octubre,22.0,detalle,False,True
+Nicaragua,2024,11,Noviembre,20.0,detalle,False,True
+Nicaragua,2024,12,Diciembre,20.0,detalle,False,True
+Nicaragua,2025,1,Enero,14.0,detalle,False,True
+Nicaragua,2025,2,Febrero,36.0,detalle,False,True
+Nicaragua,2025,3,Marzo,19.0,detalle,False,True
+Nicaragua,2025,4,Abril,8.0,detalle,False,True
+Nicaragua,2025,5,Mayo,42.0,detalle,False,True
+Nicaragua,2025,6,Junio,11.0,detalle,False,True
+Nicaragua,2025,7,Julio,11.0,detalle,False,True
+Nicaragua,2025,8,Agosto,10.0,detalle,False,True
+Nicaragua,2025,9,Septiembre,32.0,detalle,False,True
+Nicaragua,2025,10,Octubre,21.0,detalle,False,True
+Nicaragua,2025,11,Noviembre,29.0,detalle,False,True
+Nicaragua,2025,12,Diciembre,11.0,detalle,False,True
+Noruega,2022,1,Enero,14.0,detalle,False,False
+Noruega,2022,2,Febrero,19.0,detalle,False,False
+Noruega,2022,3,Marzo,23.0,detalle,False,False
+Noruega,2022,4,Abril,43.0,detalle,False,False
+Noruega,2022,5,Mayo,42.0,detalle,False,False
+Noruega,2022,6,Junio,67.0,detalle,False,False
+Noruega,2022,7,Julio,69.0,detalle,False,False
+Noruega,2022,8,Agosto,20.0,detalle,False,False
+Noruega,2022,9,Septiembre,57.0,detalle,False,False
+Noruega,2022,10,Octubre,109.0,detalle,False,False
+Noruega,2022,11,Noviembre,54.0,detalle,False,False
+Noruega,2022,12,Diciembre,76.0,detalle,False,False
+Noruega,2023,1,Enero,69.0,detalle,False,True
+Noruega,2023,2,Febrero,86.0,detalle,False,True
+Noruega,2023,3,Marzo,126.0,detalle,False,True
+Noruega,2023,4,Abril,49.0,detalle,False,True
+Noruega,2023,5,Mayo,34.0,detalle,False,True
+Noruega,2023,6,Junio,61.0,detalle,False,True
+Noruega,2023,7,Julio,78.0,detalle,False,True
+Noruega,2023,8,Agosto,31.0,detalle,False,True
+Noruega,2023,9,Septiembre,49.0,detalle,False,True
+Noruega,2023,10,Octubre,93.0,detalle,False,True
+Noruega,2023,11,Noviembre,60.0,detalle,False,True
+Noruega,2023,12,Diciembre,101.0,detalle,False,True
+Noruega,2024,1,Enero,79.0,detalle,False,True
+Noruega,2024,2,Febrero,90.0,detalle,False,True
+Noruega,2024,3,Marzo,106.0,detalle,False,True
+Noruega,2024,4,Abril,45.0,detalle,False,True
+Noruega,2024,5,Mayo,49.0,detalle,False,True
+Noruega,2024,6,Junio,90.0,detalle,False,True
+Noruega,2024,7,Julio,74.0,detalle,False,True
+Noruega,2024,8,Agosto,37.0,detalle,False,True
+Noruega,2024,9,Septiembre,58.0,detalle,False,True
+Noruega,2024,10,Octubre,125.0,detalle,False,True
+Noruega,2024,11,Noviembre,57.0,detalle,False,True
+Noruega,2024,12,Diciembre,108.0,detalle,False,True
+Noruega,2025,1,Enero,131.0,detalle,False,True
+Noruega,2025,2,Febrero,117.0,detalle,False,True
+Noruega,2025,3,Marzo,106.0,detalle,False,True
+Noruega,2025,4,Abril,75.0,detalle,False,True
+Noruega,2025,5,Mayo,26.0,detalle,False,True
+Noruega,2025,6,Junio,42.0,detalle,False,True
+Noruega,2025,7,Julio,108.0,detalle,False,True
+Noruega,2025,8,Agosto,28.0,detalle,False,True
+Noruega,2025,9,Septiembre,52.0,detalle,False,True
+Noruega,2025,10,Octubre,93.0,detalle,False,True
+Noruega,2025,11,Noviembre,76.0,detalle,False,True
+Noruega,2025,12,Diciembre,100.0,detalle,False,True
+Nueva Zelandia,2022,1,Enero,5.0,detalle,False,False
+Nueva Zelandia,2022,2,Febrero,8.0,detalle,False,False
+Nueva Zelandia,2022,3,Marzo,11.0,detalle,False,False
+Nueva Zelandia,2022,4,Abril,10.0,detalle,False,False
+Nueva Zelandia,2022,5,Mayo,10.0,detalle,False,False
+Nueva Zelandia,2022,6,Junio,20.0,detalle,False,False
+Nueva Zelandia,2022,7,Julio,24.0,detalle,False,False
+Nueva Zelandia,2022,8,Agosto,30.0,detalle,False,False
+Nueva Zelandia,2022,9,Septiembre,59.0,detalle,False,False
+Nueva Zelandia,2022,10,Octubre,46.0,detalle,False,False
+Nueva Zelandia,2022,11,Noviembre,59.0,detalle,False,False
+Nueva Zelandia,2022,12,Diciembre,60.0,detalle,False,False
+Nueva Zelandia,2023,1,Enero,53.0,detalle,False,True
+Nueva Zelandia,2023,2,Febrero,37.0,detalle,False,True
+Nueva Zelandia,2023,3,Marzo,56.0,detalle,False,True
+Nueva Zelandia,2023,4,Abril,89.0,detalle,False,True
+Nueva Zelandia,2023,5,Mayo,85.0,detalle,False,True
+Nueva Zelandia,2023,6,Junio,68.0,detalle,False,True
+Nueva Zelandia,2023,7,Julio,63.0,detalle,False,True
+Nueva Zelandia,2023,8,Agosto,47.0,detalle,False,True
+Nueva Zelandia,2023,9,Septiembre,93.0,detalle,False,True
+Nueva Zelandia,2023,10,Octubre,104.0,detalle,False,True
+Nueva Zelandia,2023,11,Noviembre,70.0,detalle,False,True
+Nueva Zelandia,2023,12,Diciembre,77.0,detalle,False,True
+Nueva Zelandia,2024,1,Enero,55.0,detalle,False,True
+Nueva Zelandia,2024,2,Febrero,39.0,detalle,False,True
+Nueva Zelandia,2024,3,Marzo,42.0,detalle,False,True
+Nueva Zelandia,2024,4,Abril,67.0,detalle,False,True
+Nueva Zelandia,2024,5,Mayo,57.0,detalle,False,True
+Nueva Zelandia,2024,6,Junio,62.0,detalle,False,True
+Nueva Zelandia,2024,7,Julio,64.0,detalle,False,True
+Nueva Zelandia,2024,8,Agosto,61.0,detalle,False,True
+Nueva Zelandia,2024,9,Septiembre,102.0,detalle,False,True
+Nueva Zelandia,2024,10,Octubre,110.0,detalle,False,True
+Nueva Zelandia,2024,11,Noviembre,76.0,detalle,False,True
+Nueva Zelandia,2024,12,Diciembre,65.0,detalle,False,True
+Nueva Zelandia,2025,1,Enero,49.0,detalle,False,True
+Nueva Zelandia,2025,2,Febrero,34.0,detalle,False,True
+Nueva Zelandia,2025,3,Marzo,70.0,detalle,False,True
+Nueva Zelandia,2025,4,Abril,54.0,detalle,False,True
+Nueva Zelandia,2025,5,Mayo,80.0,detalle,False,True
+Nueva Zelandia,2025,6,Junio,85.0,detalle,False,True
+Nueva Zelandia,2025,7,Julio,91.0,detalle,False,True
+Nueva Zelandia,2025,8,Agosto,89.0,detalle,False,True
+Nueva Zelandia,2025,9,Septiembre,125.0,detalle,False,True
+Nueva Zelandia,2025,10,Octubre,123.0,detalle,False,True
+Nueva Zelandia,2025,11,Noviembre,101.0,detalle,False,True
+Nueva Zelandia,2025,12,Diciembre,80.0,detalle,False,True
+Panamá,2022,1,Enero,295.0,detalle,False,False
+Panamá,2022,2,Febrero,255.0,detalle,False,False
+Panamá,2022,3,Marzo,297.0,detalle,False,False
+Panamá,2022,4,Abril,294.0,detalle,False,False
+Panamá,2022,5,Mayo,280.0,detalle,False,False
+Panamá,2022,6,Junio,293.0,detalle,False,False
+Panamá,2022,7,Julio,291.0,detalle,False,False
+Panamá,2022,8,Agosto,321.0,detalle,False,False
+Panamá,2022,9,Septiembre,315.0,detalle,False,False
+Panamá,2022,10,Octubre,296.0,detalle,False,False
+Panamá,2022,11,Noviembre,164.0,detalle,False,False
+Panamá,2022,12,Diciembre,347.0,detalle,False,False
+Panamá,2023,1,Enero,306.0,detalle,False,True
+Panamá,2023,2,Febrero,249.0,detalle,False,True
+Panamá,2023,3,Marzo,346.0,detalle,False,True
+Panamá,2023,4,Abril,341.0,detalle,False,True
+Panamá,2023,5,Mayo,330.0,detalle,False,True
+Panamá,2023,6,Junio,284.0,detalle,False,True
+Panamá,2023,7,Julio,337.0,detalle,False,True
+Panamá,2023,8,Agosto,354.0,detalle,False,True
+Panamá,2023,9,Septiembre,342.0,detalle,False,True
+Panamá,2023,10,Octubre,320.0,detalle,False,True
+Panamá,2023,11,Noviembre,511.0,detalle,False,True
+Panamá,2023,12,Diciembre,563.0,detalle,False,True
+Panamá,2024,1,Enero,543.0,detalle,False,True
+Panamá,2024,2,Febrero,600.0,detalle,False,True
+Panamá,2024,3,Marzo,608.0,detalle,False,True
+Panamá,2024,4,Abril,668.0,detalle,False,True
+Panamá,2024,5,Mayo,547.0,detalle,False,True
+Panamá,2024,6,Junio,546.0,detalle,False,True
+Panamá,2024,7,Julio,582.0,detalle,False,True
+Panamá,2024,8,Agosto,566.0,detalle,False,True
+Panamá,2024,9,Septiembre,583.0,detalle,False,True
+Panamá,2024,10,Octubre,568.0,detalle,False,True
+Panamá,2024,11,Noviembre,585.0,detalle,False,True
+Panamá,2024,12,Diciembre,599.0,detalle,False,True
+Panamá,2025,1,Enero,392.0,detalle,False,True
+Panamá,2025,2,Febrero,384.0,detalle,False,True
+Panamá,2025,3,Marzo,501.0,detalle,False,True
+Panamá,2025,4,Abril,382.0,detalle,False,True
+Panamá,2025,5,Mayo,502.0,detalle,False,True
+Panamá,2025,6,Junio,445.0,detalle,False,True
+Panamá,2025,7,Julio,491.0,detalle,False,True
+Panamá,2025,8,Agosto,463.0,detalle,False,True
+Panamá,2025,9,Septiembre,498.0,detalle,False,True
+Panamá,2025,10,Octubre,481.0,detalle,False,True
+Panamá,2025,11,Noviembre,595.0,detalle,False,True
+Panamá,2025,12,Diciembre,659.0,detalle,False,True
+Paraguay,2022,1,Enero,848.0,detalle,False,False
+Paraguay,2022,2,Febrero,768.0,detalle,False,False
+Paraguay,2022,3,Marzo,851.0,detalle,False,False
+Paraguay,2022,4,Abril,1262.0,detalle,False,False
+Paraguay,2022,5,Mayo,1394.0,detalle,False,False
+Paraguay,2022,6,Junio,1148.0,detalle,False,False
+Paraguay,2022,7,Julio,1462.0,detalle,False,False
+Paraguay,2022,8,Agosto,1590.0,detalle,False,False
+Paraguay,2022,9,Septiembre,1584.0,detalle,False,False
+Paraguay,2022,10,Octubre,1391.0,detalle,False,False
+Paraguay,2022,11,Noviembre,809.0,detalle,False,False
+Paraguay,2022,12,Diciembre,1757.0,detalle,False,False
+Paraguay,2023,1,Enero,1683.0,detalle,False,True
+Paraguay,2023,2,Febrero,1440.0,detalle,False,True
+Paraguay,2023,3,Marzo,1344.0,detalle,False,True
+Paraguay,2023,4,Abril,1653.0,detalle,False,True
+Paraguay,2023,5,Mayo,1524.0,detalle,False,True
+Paraguay,2023,6,Junio,1799.0,detalle,False,True
+Paraguay,2023,7,Julio,1828.0,detalle,False,True
+Paraguay,2023,8,Agosto,1628.0,detalle,False,True
+Paraguay,2023,9,Septiembre,1867.0,detalle,False,True
+Paraguay,2023,10,Octubre,1884.0,detalle,False,True
+Paraguay,2023,11,Noviembre,1439.0,detalle,False,True
+Paraguay,2023,12,Diciembre,2041.0,detalle,False,True
+Paraguay,2024,1,Enero,3516.0,detalle,False,True
+Paraguay,2024,2,Febrero,1754.0,detalle,False,True
+Paraguay,2024,3,Marzo,2488.0,detalle,False,True
+Paraguay,2024,4,Abril,1453.0,detalle,False,True
+Paraguay,2024,5,Mayo,1397.0,detalle,False,True
+Paraguay,2024,6,Junio,1560.0,detalle,False,True
+Paraguay,2024,7,Julio,1968.0,detalle,False,True
+Paraguay,2024,8,Agosto,2031.0,detalle,False,True
+Paraguay,2024,9,Septiembre,1808.0,detalle,False,True
+Paraguay,2024,10,Octubre,1788.0,detalle,False,True
+Paraguay,2024,11,Noviembre,1961.0,detalle,False,True
+Paraguay,2024,12,Diciembre,1527.0,detalle,False,True
+Paraguay,2025,1,Enero,2776.0,detalle,False,True
+Paraguay,2025,2,Febrero,2203.0,detalle,False,True
+Paraguay,2025,3,Marzo,1887.0,detalle,False,True
+Paraguay,2025,4,Abril,2276.0,detalle,False,True
+Paraguay,2025,5,Mayo,2087.0,detalle,False,True
+Paraguay,2025,6,Junio,2107.0,detalle,False,True
+Paraguay,2025,7,Julio,2877.0,detalle,False,True
+Paraguay,2025,8,Agosto,3195.0,detalle,False,True
+Paraguay,2025,9,Septiembre,2209.0,detalle,False,True
+Paraguay,2025,10,Octubre,2151.0,detalle,False,True
+Paraguay,2025,11,Noviembre,2278.0,detalle,False,True
+Paraguay,2025,12,Diciembre,2107.0,detalle,False,True
+Países Bajos,2022,1,Enero,94.0,detalle,False,False
+Países Bajos,2022,2,Febrero,157.0,detalle,False,False
+Países Bajos,2022,3,Marzo,259.0,detalle,False,False
+Países Bajos,2022,4,Abril,299.0,detalle,False,False
+Países Bajos,2022,5,Mayo,301.0,detalle,False,False
+Países Bajos,2022,6,Junio,323.0,detalle,False,False
+Países Bajos,2022,7,Julio,502.0,detalle,False,False
+Países Bajos,2022,8,Agosto,295.0,detalle,False,False
+Países Bajos,2022,9,Septiembre,368.0,detalle,False,False
+Países Bajos,2022,10,Octubre,585.0,detalle,False,False
+Países Bajos,2022,11,Noviembre,372.0,detalle,False,False
+Países Bajos,2022,12,Diciembre,397.0,detalle,False,False
+Países Bajos,2023,1,Enero,303.0,detalle,False,True
+Países Bajos,2023,2,Febrero,297.0,detalle,False,True
+Países Bajos,2023,3,Marzo,352.0,detalle,False,True
+Países Bajos,2023,4,Abril,423.0,detalle,False,True
+Países Bajos,2023,5,Mayo,395.0,detalle,False,True
+Países Bajos,2023,6,Junio,312.0,detalle,False,True
+Países Bajos,2023,7,Julio,410.0,detalle,False,True
+Países Bajos,2023,8,Agosto,302.0,detalle,False,True
+Países Bajos,2023,9,Septiembre,405.0,detalle,False,True
+Países Bajos,2023,10,Octubre,519.0,detalle,False,True
+Países Bajos,2023,11,Noviembre,497.0,detalle,False,True
+Países Bajos,2023,12,Diciembre,381.0,detalle,False,True
+Países Bajos,2024,1,Enero,346.0,detalle,False,True
+Países Bajos,2024,2,Febrero,329.0,detalle,False,True
+Países Bajos,2024,3,Marzo,362.0,detalle,False,True
+Países Bajos,2024,4,Abril,439.0,detalle,False,True
+Países Bajos,2024,5,Mayo,373.0,detalle,False,True
+Países Bajos,2024,6,Junio,295.0,detalle,False,True
+Países Bajos,2024,7,Julio,655.0,detalle,False,True
+Países Bajos,2024,8,Agosto,354.0,detalle,False,True
+Países Bajos,2024,9,Septiembre,359.0,detalle,False,True
+Países Bajos,2024,10,Octubre,511.0,detalle,False,True
+Países Bajos,2024,11,Noviembre,375.0,detalle,False,True
+Países Bajos,2024,12,Diciembre,258.0,detalle,False,True
+Países Bajos,2025,1,Enero,339.0,detalle,False,True
+Países Bajos,2025,2,Febrero,253.0,detalle,False,True
+Países Bajos,2025,3,Marzo,285.0,detalle,False,True
+Países Bajos,2025,4,Abril,417.0,detalle,False,True
+Países Bajos,2025,5,Mayo,369.0,detalle,False,True
+Países Bajos,2025,6,Junio,266.0,detalle,False,True
+Países Bajos,2025,7,Julio,596.0,detalle,False,True
+Países Bajos,2025,8,Agosto,315.0,detalle,False,True
+Países Bajos,2025,9,Septiembre,484.0,detalle,False,True
+Países Bajos,2025,10,Octubre,588.0,detalle,False,True
+Países Bajos,2025,11,Noviembre,421.0,detalle,False,True
+Países Bajos,2025,12,Diciembre,380.0,detalle,False,True
+Perú,2022,1,Enero,1456.0,detalle,False,False
+Perú,2022,2,Febrero,3644.0,detalle,False,False
+Perú,2022,3,Marzo,3956.0,detalle,False,False
+Perú,2022,4,Abril,3856.0,detalle,False,False
+Perú,2022,5,Mayo,8167.0,detalle,False,False
+Perú,2022,6,Junio,10131.0,detalle,False,False
+Perú,2022,7,Julio,18257.0,detalle,False,False
+Perú,2022,8,Agosto,22352.0,detalle,False,False
+Perú,2022,9,Septiembre,13913.0,detalle,False,False
+Perú,2022,10,Octubre,16063.0,detalle,False,False
+Perú,2022,11,Noviembre,13734.0,detalle,False,False
+Perú,2022,12,Diciembre,11537.0,detalle,False,False
+Perú,2023,1,Enero,6080.0,detalle,False,True
+Perú,2023,2,Febrero,8205.0,detalle,False,True
+Perú,2023,3,Marzo,11345.0,detalle,False,True
+Perú,2023,4,Abril,13903.0,detalle,False,True
+Perú,2023,5,Mayo,14629.0,detalle,False,True
+Perú,2023,6,Junio,16131.0,detalle,False,True
+Perú,2023,7,Julio,19820.0,detalle,False,True
+Perú,2023,8,Agosto,27283.0,detalle,False,True
+Perú,2023,9,Septiembre,21103.0,detalle,False,True
+Perú,2023,10,Octubre,20066.0,detalle,False,True
+Perú,2023,11,Noviembre,24999.0,detalle,False,True
+Perú,2023,12,Diciembre,19637.0,detalle,False,True
+Perú,2024,1,Enero,30139.0,detalle,False,True
+Perú,2024,2,Febrero,38574.0,detalle,False,True
+Perú,2024,3,Marzo,28260.0,detalle,False,True
+Perú,2024,4,Abril,19385.0,detalle,False,True
+Perú,2024,5,Mayo,19823.0,detalle,False,True
+Perú,2024,6,Junio,19435.0,detalle,False,True
+Perú,2024,7,Julio,29589.0,detalle,False,True
+Perú,2024,8,Agosto,35544.0,detalle,False,True
+Perú,2024,9,Septiembre,23355.0,detalle,False,True
+Perú,2024,10,Octubre,23079.0,detalle,False,True
+Perú,2024,11,Noviembre,23516.0,detalle,False,True
+Perú,2024,12,Diciembre,24850.0,detalle,False,True
+Perú,2025,1,Enero,33508.0,detalle,False,True
+Perú,2025,2,Febrero,40223.0,detalle,False,True
+Perú,2025,3,Marzo,29990.0,detalle,False,True
+Perú,2025,4,Abril,26437.0,detalle,False,True
+Perú,2025,5,Mayo,31748.0,detalle,False,True
+Perú,2025,6,Junio,25674.0,detalle,False,True
+Perú,2025,7,Julio,28706.0,detalle,False,True
+Perú,2025,8,Agosto,27205.0,detalle,False,True
+Perú,2025,9,Septiembre,27837.0,detalle,False,True
+Perú,2025,10,Octubre,28212.0,detalle,False,True
+Perú,2025,11,Noviembre,26589.0,detalle,False,True
+Perú,2025,12,Diciembre,25061.0,detalle,False,True
+Polonia,2022,1,Enero,54.0,detalle,False,False
+Polonia,2022,2,Febrero,60.0,detalle,False,False
+Polonia,2022,3,Marzo,61.0,detalle,False,False
+Polonia,2022,4,Abril,168.0,detalle,False,False
+Polonia,2022,5,Mayo,135.0,detalle,False,False
+Polonia,2022,6,Junio,173.0,detalle,False,False
+Polonia,2022,7,Julio,156.0,detalle,False,False
+Polonia,2022,8,Agosto,117.0,detalle,False,False
+Polonia,2022,9,Septiembre,261.0,detalle,False,False
+Polonia,2022,10,Octubre,250.0,detalle,False,False
+Polonia,2022,11,Noviembre,347.0,detalle,False,False
+Polonia,2022,12,Diciembre,104.0,detalle,False,False
+Polonia,2023,1,Enero,103.0,detalle,False,True
+Polonia,2023,2,Febrero,132.0,detalle,False,True
+Polonia,2023,3,Marzo,105.0,detalle,False,True
+Polonia,2023,4,Abril,142.0,detalle,False,True
+Polonia,2023,5,Mayo,168.0,detalle,False,True
+Polonia,2023,6,Junio,176.0,detalle,False,True
+Polonia,2023,7,Julio,210.0,detalle,False,True
+Polonia,2023,8,Agosto,164.0,detalle,False,True
+Polonia,2023,9,Septiembre,313.0,detalle,False,True
+Polonia,2023,10,Octubre,258.0,detalle,False,True
+Polonia,2023,11,Noviembre,544.0,detalle,False,True
+Polonia,2023,12,Diciembre,115.0,detalle,False,True
+Polonia,2024,1,Enero,268.0,detalle,False,True
+Polonia,2024,2,Febrero,183.0,detalle,False,True
+Polonia,2024,3,Marzo,227.0,detalle,False,True
+Polonia,2024,4,Abril,377.0,detalle,False,True
+Polonia,2024,5,Mayo,344.0,detalle,False,True
+Polonia,2024,6,Junio,191.0,detalle,False,True
+Polonia,2024,7,Julio,206.0,detalle,False,True
+Polonia,2024,8,Agosto,183.0,detalle,False,True
+Polonia,2024,9,Septiembre,338.0,detalle,False,True
+Polonia,2024,10,Octubre,339.0,detalle,False,True
+Polonia,2024,11,Noviembre,480.0,detalle,False,True
+Polonia,2024,12,Diciembre,132.0,detalle,False,True
+Polonia,2025,1,Enero,167.0,detalle,False,True
+Polonia,2025,2,Febrero,230.0,detalle,False,True
+Polonia,2025,3,Marzo,277.0,detalle,False,True
+Polonia,2025,4,Abril,267.0,detalle,False,True
+Polonia,2025,5,Mayo,340.0,detalle,False,True
+Polonia,2025,6,Junio,234.0,detalle,False,True
+Polonia,2025,7,Julio,281.0,detalle,False,True
+Polonia,2025,8,Agosto,210.0,detalle,False,True
+Polonia,2025,9,Septiembre,411.0,detalle,False,True
+Polonia,2025,10,Octubre,395.0,detalle,False,True
+Polonia,2025,11,Noviembre,536.0,detalle,False,True
+Polonia,2025,12,Diciembre,134.0,detalle,False,True
+Portugal,2022,1,Enero,69.0,detalle,False,False
+Portugal,2022,2,Febrero,97.0,detalle,False,False
+Portugal,2022,3,Marzo,80.0,detalle,False,False
+Portugal,2022,4,Abril,129.0,detalle,False,False
+Portugal,2022,5,Mayo,115.0,detalle,False,False
+Portugal,2022,6,Junio,102.0,detalle,False,False
+Portugal,2022,7,Julio,144.0,detalle,False,False
+Portugal,2022,8,Agosto,119.0,detalle,False,False
+Portugal,2022,9,Septiembre,103.0,detalle,False,False
+Portugal,2022,10,Octubre,165.0,detalle,False,False
+Portugal,2022,11,Noviembre,171.0,detalle,False,False
+Portugal,2022,12,Diciembre,212.0,detalle,False,False
+Portugal,2023,1,Enero,198.0,detalle,False,True
+Portugal,2023,2,Febrero,119.0,detalle,False,True
+Portugal,2023,3,Marzo,114.0,detalle,False,True
+Portugal,2023,4,Abril,167.0,detalle,False,True
+Portugal,2023,5,Mayo,85.0,detalle,False,True
+Portugal,2023,6,Junio,115.0,detalle,False,True
+Portugal,2023,7,Julio,148.0,detalle,False,True
+Portugal,2023,8,Agosto,168.0,detalle,False,True
+Portugal,2023,9,Septiembre,106.0,detalle,False,True
+Portugal,2023,10,Octubre,132.0,detalle,False,True
+Portugal,2023,11,Noviembre,145.0,detalle,False,True
+Portugal,2023,12,Diciembre,158.0,detalle,False,True
+Portugal,2024,1,Enero,175.0,detalle,False,True
+Portugal,2024,2,Febrero,146.0,detalle,False,True
+Portugal,2024,3,Marzo,143.0,detalle,False,True
+Portugal,2024,4,Abril,104.0,detalle,False,True
+Portugal,2024,5,Mayo,90.0,detalle,False,True
+Portugal,2024,6,Junio,127.0,detalle,False,True
+Portugal,2024,7,Julio,115.0,detalle,False,True
+Portugal,2024,8,Agosto,100.0,detalle,False,True
+Portugal,2024,9,Septiembre,94.0,detalle,False,True
+Portugal,2024,10,Octubre,115.0,detalle,False,True
+Portugal,2024,11,Noviembre,123.0,detalle,False,True
+Portugal,2024,12,Diciembre,168.0,detalle,False,True
+Portugal,2025,1,Enero,167.0,detalle,False,True
+Portugal,2025,2,Febrero,101.0,detalle,False,True
+Portugal,2025,3,Marzo,106.0,detalle,False,True
+Portugal,2025,4,Abril,160.0,detalle,False,True
+Portugal,2025,5,Mayo,113.0,detalle,False,True
+Portugal,2025,6,Junio,128.0,detalle,False,True
+Portugal,2025,7,Julio,145.0,detalle,False,True
+Portugal,2025,8,Agosto,116.0,detalle,False,True
+Portugal,2025,9,Septiembre,133.0,detalle,False,True
+Portugal,2025,10,Octubre,156.0,detalle,False,True
+Portugal,2025,11,Noviembre,189.0,detalle,False,True
+Portugal,2025,12,Diciembre,166.0,detalle,False,True
+Reino Unido,2022,1,Enero,162.0,detalle,False,False
+Reino Unido,2022,2,Febrero,241.0,detalle,False,False
+Reino Unido,2022,3,Marzo,529.0,detalle,False,False
+Reino Unido,2022,4,Abril,675.0,detalle,False,False
+Reino Unido,2022,5,Mayo,633.0,detalle,False,False
+Reino Unido,2022,6,Junio,602.0,detalle,False,False
+Reino Unido,2022,7,Julio,850.0,detalle,False,False
+Reino Unido,2022,8,Agosto,686.0,detalle,False,False
+Reino Unido,2022,9,Septiembre,696.0,detalle,False,False
+Reino Unido,2022,10,Octubre,1084.0,detalle,False,False
+Reino Unido,2022,11,Noviembre,805.0,detalle,False,False
+Reino Unido,2022,12,Diciembre,678.0,detalle,False,False
+Reino Unido,2023,1,Enero,547.0,detalle,False,True
+Reino Unido,2023,2,Febrero,745.0,detalle,False,True
+Reino Unido,2023,3,Marzo,943.0,detalle,False,True
+Reino Unido,2023,4,Abril,1061.0,detalle,False,True
+Reino Unido,2023,5,Mayo,870.0,detalle,False,True
+Reino Unido,2023,6,Junio,715.0,detalle,False,True
+Reino Unido,2023,7,Julio,898.0,detalle,False,True
+Reino Unido,2023,8,Agosto,802.0,detalle,False,True
+Reino Unido,2023,9,Septiembre,1031.0,detalle,False,True
+Reino Unido,2023,10,Octubre,1131.0,detalle,False,True
+Reino Unido,2023,11,Noviembre,1111.0,detalle,False,True
+Reino Unido,2023,12,Diciembre,766.0,detalle,False,True
+Reino Unido,2024,1,Enero,822.0,detalle,False,True
+Reino Unido,2024,2,Febrero,788.0,detalle,False,True
+Reino Unido,2024,3,Marzo,1005.0,detalle,False,True
+Reino Unido,2024,4,Abril,920.0,detalle,False,True
+Reino Unido,2024,5,Mayo,848.0,detalle,False,True
+Reino Unido,2024,6,Junio,740.0,detalle,False,True
+Reino Unido,2024,7,Julio,875.0,detalle,False,True
+Reino Unido,2024,8,Agosto,815.0,detalle,False,True
+Reino Unido,2024,9,Septiembre,875.0,detalle,False,True
+Reino Unido,2024,10,Octubre,1050.0,detalle,False,True
+Reino Unido,2024,11,Noviembre,731.0,detalle,False,True
+Reino Unido,2024,12,Diciembre,664.0,detalle,False,True
+Reino Unido,2025,1,Enero,692.0,detalle,False,True
+Reino Unido,2025,2,Febrero,574.0,detalle,False,True
+Reino Unido,2025,3,Marzo,927.0,detalle,False,True
+Reino Unido,2025,4,Abril,1017.0,detalle,False,True
+Reino Unido,2025,5,Mayo,980.0,detalle,False,True
+Reino Unido,2025,6,Junio,768.0,detalle,False,True
+Reino Unido,2025,7,Julio,990.0,detalle,False,True
+Reino Unido,2025,8,Agosto,950.0,detalle,False,True
+Reino Unido,2025,9,Septiembre,824.0,detalle,False,True
+Reino Unido,2025,10,Octubre,1153.0,detalle,False,True
+Reino Unido,2025,11,Noviembre,1124.0,detalle,False,True
+Reino Unido,2025,12,Diciembre,842.0,detalle,False,True
+República Checa,2022,1,Enero,16.0,detalle,False,False
+República Checa,2022,2,Febrero,13.0,detalle,False,False
+República Checa,2022,3,Marzo,25.0,detalle,False,False
+República Checa,2022,4,Abril,47.0,detalle,False,False
+República Checa,2022,5,Mayo,51.0,detalle,False,False
+República Checa,2022,6,Junio,34.0,detalle,False,False
+República Checa,2022,7,Julio,105.0,detalle,False,False
+República Checa,2022,8,Agosto,48.0,detalle,False,False
+República Checa,2022,9,Septiembre,126.0,detalle,False,False
+República Checa,2022,10,Octubre,123.0,detalle,False,False
+República Checa,2022,11,Noviembre,95.0,detalle,False,False
+República Checa,2022,12,Diciembre,57.0,detalle,False,False
+República Checa,2023,1,Enero,32.0,detalle,False,True
+República Checa,2023,2,Febrero,61.0,detalle,False,True
+República Checa,2023,3,Marzo,53.0,detalle,False,True
+República Checa,2023,4,Abril,109.0,detalle,False,True
+República Checa,2023,5,Mayo,122.0,detalle,False,True
+República Checa,2023,6,Junio,43.0,detalle,False,True
+República Checa,2023,7,Julio,62.0,detalle,False,True
+República Checa,2023,8,Agosto,64.0,detalle,False,True
+República Checa,2023,9,Septiembre,136.0,detalle,False,True
+República Checa,2023,10,Octubre,92.0,detalle,False,True
+República Checa,2023,11,Noviembre,169.0,detalle,False,True
+República Checa,2023,12,Diciembre,32.0,detalle,False,True
+República Checa,2024,1,Enero,87.0,detalle,False,True
+República Checa,2024,2,Febrero,81.0,detalle,False,True
+República Checa,2024,3,Marzo,90.0,detalle,False,True
+República Checa,2024,4,Abril,115.0,detalle,False,True
+República Checa,2024,5,Mayo,92.0,detalle,False,True
+República Checa,2024,6,Junio,60.0,detalle,False,True
+República Checa,2024,7,Julio,132.0,detalle,False,True
+República Checa,2024,8,Agosto,83.0,detalle,False,True
+República Checa,2024,9,Septiembre,191.0,detalle,False,True
+República Checa,2024,10,Octubre,128.0,detalle,False,True
+República Checa,2024,11,Noviembre,125.0,detalle,False,True
+República Checa,2024,12,Diciembre,53.0,detalle,False,True
+República Checa,2025,1,Enero,64.0,detalle,False,True
+República Checa,2025,2,Febrero,63.0,detalle,False,True
+República Checa,2025,3,Marzo,75.0,detalle,False,True
+República Checa,2025,4,Abril,130.0,detalle,False,True
+República Checa,2025,5,Mayo,114.0,detalle,False,True
+República Checa,2025,6,Junio,97.0,detalle,False,True
+República Checa,2025,7,Julio,165.0,detalle,False,True
+República Checa,2025,8,Agosto,75.0,detalle,False,True
+República Checa,2025,9,Septiembre,136.0,detalle,False,True
+República Checa,2025,10,Octubre,215.0,detalle,False,True
+República Checa,2025,11,Noviembre,113.0,detalle,False,True
+República Checa,2025,12,Diciembre,94.0,detalle,False,True
+República Dominicana,2022,1,Enero,43.0,detalle,False,False
+República Dominicana,2022,2,Febrero,30.0,detalle,False,False
+República Dominicana,2022,3,Marzo,32.0,detalle,False,False
+República Dominicana,2022,4,Abril,31.0,detalle,False,False
+República Dominicana,2022,5,Mayo,32.0,detalle,False,False
+República Dominicana,2022,6,Junio,32.0,detalle,False,False
+República Dominicana,2022,7,Julio,56.0,detalle,False,False
+República Dominicana,2022,8,Agosto,66.0,detalle,False,False
+República Dominicana,2022,9,Septiembre,48.0,detalle,False,False
+República Dominicana,2022,10,Octubre,120.0,detalle,False,False
+República Dominicana,2022,11,Noviembre,53.0,detalle,False,False
+República Dominicana,2022,12,Diciembre,46.0,detalle,False,False
+República Dominicana,2023,1,Enero,42.0,detalle,False,True
+República Dominicana,2023,2,Febrero,64.0,detalle,False,True
+República Dominicana,2023,3,Marzo,48.0,detalle,False,True
+República Dominicana,2023,4,Abril,55.0,detalle,False,True
+República Dominicana,2023,5,Mayo,34.0,detalle,False,True
+República Dominicana,2023,6,Junio,42.0,detalle,False,True
+República Dominicana,2023,7,Julio,45.0,detalle,False,True
+República Dominicana,2023,8,Agosto,43.0,detalle,False,True
+República Dominicana,2023,9,Septiembre,39.0,detalle,False,True
+República Dominicana,2023,10,Octubre,39.0,detalle,False,True
+República Dominicana,2023,11,Noviembre,56.0,detalle,False,True
+República Dominicana,2023,12,Diciembre,36.0,detalle,False,True
+República Dominicana,2024,1,Enero,52.0,detalle,False,True
+República Dominicana,2024,2,Febrero,66.0,detalle,False,True
+República Dominicana,2024,3,Marzo,63.0,detalle,False,True
+República Dominicana,2024,4,Abril,49.0,detalle,False,True
+República Dominicana,2024,5,Mayo,45.0,detalle,False,True
+República Dominicana,2024,6,Junio,54.0,detalle,False,True
+República Dominicana,2024,7,Julio,44.0,detalle,False,True
+República Dominicana,2024,8,Agosto,48.0,detalle,False,True
+República Dominicana,2024,9,Septiembre,82.0,detalle,False,True
+República Dominicana,2024,10,Octubre,46.0,detalle,False,True
+República Dominicana,2024,11,Noviembre,82.0,detalle,False,True
+República Dominicana,2024,12,Diciembre,81.0,detalle,False,True
+República Dominicana,2025,1,Enero,76.0,detalle,False,True
+República Dominicana,2025,2,Febrero,88.0,detalle,False,True
+República Dominicana,2025,3,Marzo,107.0,detalle,False,True
+República Dominicana,2025,4,Abril,87.0,detalle,False,True
+República Dominicana,2025,5,Mayo,189.0,detalle,False,True
+República Dominicana,2025,6,Junio,85.0,detalle,False,True
+República Dominicana,2025,7,Julio,70.0,detalle,False,True
+República Dominicana,2025,8,Agosto,95.0,detalle,False,True
+República Dominicana,2025,9,Septiembre,123.0,detalle,False,True
+República Dominicana,2025,10,Octubre,103.0,detalle,False,True
+República Dominicana,2025,11,Noviembre,68.0,detalle,False,True
+República Dominicana,2025,12,Diciembre,83.0,detalle,False,True
+Resto de países,2022,1,Enero,267.0,detalle,True,False
+Resto de países,2022,2,Febrero,219.0,detalle,True,False
+Resto de países,2022,3,Marzo,309.0,detalle,True,False
+Resto de países,2022,4,Abril,462.0,detalle,True,False
+Resto de países,2022,5,Mayo,479.0,detalle,True,False
+Resto de países,2022,6,Junio,553.0,detalle,True,False
+Resto de países,2022,7,Julio,649.0,detalle,True,False
+Resto de países,2022,8,Agosto,493.0,detalle,True,False
+Resto de países,2022,9,Septiembre,435.0,detalle,True,False
+Resto de países,2022,10,Octubre,586.0,detalle,True,False
+Resto de países,2022,11,Noviembre,491.0,detalle,True,False
+Resto de países,2022,12,Diciembre,466.0,detalle,True,False
+Resto de países,2023,1,Enero,457.0,detalle,True,True
+Resto de países,2023,2,Febrero,438.0,detalle,True,True
+Resto de países,2023,3,Marzo,551.0,detalle,True,True
+Resto de países,2023,4,Abril,624.0,detalle,True,True
+Resto de países,2023,5,Mayo,523.0,detalle,True,True
+Resto de países,2023,6,Junio,427.0,detalle,True,True
+Resto de países,2023,7,Julio,494.0,detalle,True,True
+Resto de países,2023,8,Agosto,506.0,detalle,True,True
+Resto de países,2023,9,Septiembre,555.0,detalle,True,True
+Resto de países,2023,10,Octubre,715.0,detalle,True,True
+Resto de países,2023,11,Noviembre,732.0,detalle,True,True
+Resto de países,2023,12,Diciembre,492.0,detalle,True,True
+Resto de países,2024,1,Enero,583.0,detalle,True,True
+Resto de países,2024,2,Febrero,683.0,detalle,True,True
+Resto de países,2024,3,Marzo,611.0,detalle,True,True
+Resto de países,2024,4,Abril,822.0,detalle,True,True
+Resto de países,2024,5,Mayo,595.0,detalle,True,True
+Resto de países,2024,6,Junio,430.0,detalle,True,True
+Resto de países,2024,7,Julio,529.0,detalle,True,True
+Resto de países,2024,8,Agosto,432.0,detalle,True,True
+Resto de países,2024,9,Septiembre,578.0,detalle,True,True
+Resto de países,2024,10,Octubre,683.0,detalle,True,True
+Resto de países,2024,11,Noviembre,562.0,detalle,True,True
+Resto de países,2024,12,Diciembre,595.0,detalle,True,True
+Resto de países,2025,1,Enero,524.0,detalle,True,True
+Resto de países,2025,2,Febrero,576.0,detalle,True,True
+Resto de países,2025,3,Marzo,705.0,detalle,True,True
+Resto de países,2025,4,Abril,770.0,detalle,True,True
+Resto de países,2025,5,Mayo,780.0,detalle,True,True
+Resto de países,2025,6,Junio,545.0,detalle,True,True
+Resto de países,2025,7,Julio,720.0,detalle,True,True
+Resto de países,2025,8,Agosto,552.0,detalle,True,True
+Resto de países,2025,9,Septiembre,695.0,detalle,True,True
+Resto de países,2025,10,Octubre,754.0,detalle,True,True
+Resto de países,2025,11,Noviembre,689.0,detalle,True,True
+Resto de países,2025,12,Diciembre,703.0,detalle,True,True
+Rumania,2022,1,Enero,17.0,detalle,False,False
+Rumania,2022,2,Febrero,11.0,detalle,False,False
+Rumania,2022,3,Marzo,15.0,detalle,False,False
+Rumania,2022,4,Abril,42.0,detalle,False,False
+Rumania,2022,5,Mayo,20.0,detalle,False,False
+Rumania,2022,6,Junio,38.0,detalle,False,False
+Rumania,2022,7,Julio,14.0,detalle,False,False
+Rumania,2022,8,Agosto,22.0,detalle,False,False
+Rumania,2022,9,Septiembre,33.0,detalle,False,False
+Rumania,2022,10,Octubre,45.0,detalle,False,False
+Rumania,2022,11,Noviembre,59.0,detalle,False,False
+Rumania,2022,12,Diciembre,51.0,detalle,False,False
+Rumania,2023,1,Enero,46.0,detalle,False,True
+Rumania,2023,2,Febrero,38.0,detalle,False,True
+Rumania,2023,3,Marzo,31.0,detalle,False,True
+Rumania,2023,4,Abril,50.0,detalle,False,True
+Rumania,2023,5,Mayo,30.0,detalle,False,True
+Rumania,2023,6,Junio,27.0,detalle,False,True
+Rumania,2023,7,Julio,63.0,detalle,False,True
+Rumania,2023,8,Agosto,27.0,detalle,False,True
+Rumania,2023,9,Septiembre,26.0,detalle,False,True
+Rumania,2023,10,Octubre,37.0,detalle,False,True
+Rumania,2023,11,Noviembre,37.0,detalle,False,True
+Rumania,2023,12,Diciembre,70.0,detalle,False,True
+Rumania,2024,1,Enero,69.0,detalle,False,True
+Rumania,2024,2,Febrero,40.0,detalle,False,True
+Rumania,2024,3,Marzo,110.0,detalle,False,True
+Rumania,2024,4,Abril,52.0,detalle,False,True
+Rumania,2024,5,Mayo,80.0,detalle,False,True
+Rumania,2024,6,Junio,24.0,detalle,False,True
+Rumania,2024,7,Julio,36.0,detalle,False,True
+Rumania,2024,8,Agosto,53.0,detalle,False,True
+Rumania,2024,9,Septiembre,106.0,detalle,False,True
+Rumania,2024,10,Octubre,90.0,detalle,False,True
+Rumania,2024,11,Noviembre,53.0,detalle,False,True
+Rumania,2024,12,Diciembre,79.0,detalle,False,True
+Rumania,2025,1,Enero,51.0,detalle,False,True
+Rumania,2025,2,Febrero,59.0,detalle,False,True
+Rumania,2025,3,Marzo,66.0,detalle,False,True
+Rumania,2025,4,Abril,63.0,detalle,False,True
+Rumania,2025,5,Mayo,42.0,detalle,False,True
+Rumania,2025,6,Junio,54.0,detalle,False,True
+Rumania,2025,7,Julio,45.0,detalle,False,True
+Rumania,2025,8,Agosto,69.0,detalle,False,True
+Rumania,2025,9,Septiembre,88.0,detalle,False,True
+Rumania,2025,10,Octubre,178.0,detalle,False,True
+Rumania,2025,11,Noviembre,58.0,detalle,False,True
+Rumania,2025,12,Diciembre,86.0,detalle,False,True
+Rusia,2022,1,Enero,81.0,detalle,False,False
+Rusia,2022,2,Febrero,97.0,detalle,False,False
+Rusia,2022,3,Marzo,107.0,detalle,False,False
+Rusia,2022,4,Abril,61.0,detalle,False,False
+Rusia,2022,5,Mayo,88.0,detalle,False,False
+Rusia,2022,6,Junio,67.0,detalle,False,False
+Rusia,2022,7,Julio,103.0,detalle,False,False
+Rusia,2022,8,Agosto,79.0,detalle,False,False
+Rusia,2022,9,Septiembre,103.0,detalle,False,False
+Rusia,2022,10,Octubre,106.0,detalle,False,False
+Rusia,2022,11,Noviembre,127.0,detalle,False,False
+Rusia,2022,12,Diciembre,113.0,detalle,False,False
+Rusia,2023,1,Enero,163.0,detalle,False,True
+Rusia,2023,2,Febrero,92.0,detalle,False,True
+Rusia,2023,3,Marzo,209.0,detalle,False,True
+Rusia,2023,4,Abril,146.0,detalle,False,True
+Rusia,2023,5,Mayo,137.0,detalle,False,True
+Rusia,2023,6,Junio,102.0,detalle,False,True
+Rusia,2023,7,Julio,100.0,detalle,False,True
+Rusia,2023,8,Agosto,126.0,detalle,False,True
+Rusia,2023,9,Septiembre,103.0,detalle,False,True
+Rusia,2023,10,Octubre,160.0,detalle,False,True
+Rusia,2023,11,Noviembre,138.0,detalle,False,True
+Rusia,2023,12,Diciembre,140.0,detalle,False,True
+Rusia,2024,1,Enero,184.0,detalle,False,True
+Rusia,2024,2,Febrero,145.0,detalle,False,True
+Rusia,2024,3,Marzo,207.0,detalle,False,True
+Rusia,2024,4,Abril,151.0,detalle,False,True
+Rusia,2024,5,Mayo,143.0,detalle,False,True
+Rusia,2024,6,Junio,115.0,detalle,False,True
+Rusia,2024,7,Julio,154.0,detalle,False,True
+Rusia,2024,8,Agosto,125.0,detalle,False,True
+Rusia,2024,9,Septiembre,163.0,detalle,False,True
+Rusia,2024,10,Octubre,184.0,detalle,False,True
+Rusia,2024,11,Noviembre,213.0,detalle,False,True
+Rusia,2024,12,Diciembre,171.0,detalle,False,True
+Rusia,2025,1,Enero,213.0,detalle,False,True
+Rusia,2025,2,Febrero,175.0,detalle,False,True
+Rusia,2025,3,Marzo,411.0,detalle,False,True
+Rusia,2025,4,Abril,198.0,detalle,False,True
+Rusia,2025,5,Mayo,191.0,detalle,False,True
+Rusia,2025,6,Junio,119.0,detalle,False,True
+Rusia,2025,7,Julio,126.0,detalle,False,True
+Rusia,2025,8,Agosto,175.0,detalle,False,True
+Rusia,2025,9,Septiembre,168.0,detalle,False,True
+Rusia,2025,10,Octubre,266.0,detalle,False,True
+Rusia,2025,11,Noviembre,273.0,detalle,False,True
+Rusia,2025,12,Diciembre,175.0,detalle,False,True
+Sudáfrica,2022,1,Enero,1.0,detalle,False,False
+Sudáfrica,2022,2,Febrero,1.0,detalle,False,False
+Sudáfrica,2022,3,Marzo,6.0,detalle,False,False
+Sudáfrica,2022,4,Abril,6.0,detalle,False,False
+Sudáfrica,2022,5,Mayo,17.0,detalle,False,False
+Sudáfrica,2022,6,Junio,10.0,detalle,False,False
+Sudáfrica,2022,7,Julio,15.0,detalle,False,False
+Sudáfrica,2022,8,Agosto,21.0,detalle,False,False
+Sudáfrica,2022,9,Septiembre,17.0,detalle,False,False
+Sudáfrica,2022,10,Octubre,16.0,detalle,False,False
+Sudáfrica,2022,11,Noviembre,14.0,detalle,False,False
+Sudáfrica,2022,12,Diciembre,7.0,detalle,False,False
+Sudáfrica,2023,1,Enero,16.0,detalle,False,True
+Sudáfrica,2023,2,Febrero,10.0,detalle,False,True
+Sudáfrica,2023,3,Marzo,24.0,detalle,False,True
+Sudáfrica,2023,4,Abril,7.0,detalle,False,True
+Sudáfrica,2023,5,Mayo,34.0,detalle,False,True
+Sudáfrica,2023,6,Junio,25.0,detalle,False,True
+Sudáfrica,2023,7,Julio,12.0,detalle,False,True
+Sudáfrica,2023,8,Agosto,7.0,detalle,False,True
+Sudáfrica,2023,9,Septiembre,9.0,detalle,False,True
+Sudáfrica,2023,10,Octubre,22.0,detalle,False,True
+Sudáfrica,2023,11,Noviembre,10.0,detalle,False,True
+Sudáfrica,2023,12,Diciembre,22.0,detalle,False,True
+Sudáfrica,2024,1,Enero,8.0,detalle,False,True
+Sudáfrica,2024,2,Febrero,9.0,detalle,False,True
+Sudáfrica,2024,3,Marzo,12.0,detalle,False,True
+Sudáfrica,2024,4,Abril,11.0,detalle,False,True
+Sudáfrica,2024,5,Mayo,11.0,detalle,False,True
+Sudáfrica,2024,6,Junio,14.0,detalle,False,True
+Sudáfrica,2024,7,Julio,14.0,detalle,False,True
+Sudáfrica,2024,8,Agosto,11.0,detalle,False,True
+Sudáfrica,2024,9,Septiembre,14.0,detalle,False,True
+Sudáfrica,2024,10,Octubre,16.0,detalle,False,True
+Sudáfrica,2024,11,Noviembre,5.0,detalle,False,True
+Sudáfrica,2024,12,Diciembre,4.0,detalle,False,True
+Sudáfrica,2025,1,Enero,3.0,detalle,False,True
+Sudáfrica,2025,2,Febrero,6.0,detalle,False,True
+Sudáfrica,2025,3,Marzo,9.0,detalle,False,True
+Sudáfrica,2025,4,Abril,10.0,detalle,False,True
+Sudáfrica,2025,5,Mayo,17.0,detalle,False,True
+Sudáfrica,2025,6,Junio,15.0,detalle,False,True
+Sudáfrica,2025,7,Julio,18.0,detalle,False,True
+Sudáfrica,2025,8,Agosto,22.0,detalle,False,True
+Sudáfrica,2025,9,Septiembre,13.0,detalle,False,True
+Sudáfrica,2025,10,Octubre,17.0,detalle,False,True
+Sudáfrica,2025,11,Noviembre,7.0,detalle,False,True
+Sudáfrica,2025,12,Diciembre,23.0,detalle,False,True
+Suecia,2022,1,Enero,96.0,detalle,False,False
+Suecia,2022,2,Febrero,95.0,detalle,False,False
+Suecia,2022,3,Marzo,74.0,detalle,False,False
+Suecia,2022,4,Abril,103.0,detalle,False,False
+Suecia,2022,5,Mayo,83.0,detalle,False,False
+Suecia,2022,6,Junio,232.0,detalle,False,False
+Suecia,2022,7,Julio,168.0,detalle,False,False
+Suecia,2022,8,Agosto,97.0,detalle,False,False
+Suecia,2022,9,Septiembre,99.0,detalle,False,False
+Suecia,2022,10,Octubre,170.0,detalle,False,False
+Suecia,2022,11,Noviembre,223.0,detalle,False,False
+Suecia,2022,12,Diciembre,328.0,detalle,False,False
+Suecia,2023,1,Enero,191.0,detalle,False,True
+Suecia,2023,2,Febrero,258.0,detalle,False,True
+Suecia,2023,3,Marzo,178.0,detalle,False,True
+Suecia,2023,4,Abril,123.0,detalle,False,True
+Suecia,2023,5,Mayo,127.0,detalle,False,True
+Suecia,2023,6,Junio,275.0,detalle,False,True
+Suecia,2023,7,Julio,182.0,detalle,False,True
+Suecia,2023,8,Agosto,77.0,detalle,False,True
+Suecia,2023,9,Septiembre,123.0,detalle,False,True
+Suecia,2023,10,Octubre,190.0,detalle,False,True
+Suecia,2023,11,Noviembre,214.0,detalle,False,True
+Suecia,2023,12,Diciembre,321.0,detalle,False,True
+Suecia,2024,1,Enero,266.0,detalle,False,True
+Suecia,2024,2,Febrero,195.0,detalle,False,True
+Suecia,2024,3,Marzo,178.0,detalle,False,True
+Suecia,2024,4,Abril,109.0,detalle,False,True
+Suecia,2024,5,Mayo,97.0,detalle,False,True
+Suecia,2024,6,Junio,316.0,detalle,False,True
+Suecia,2024,7,Julio,214.0,detalle,False,True
+Suecia,2024,8,Agosto,92.0,detalle,False,True
+Suecia,2024,9,Septiembre,128.0,detalle,False,True
+Suecia,2024,10,Octubre,186.0,detalle,False,True
+Suecia,2024,11,Noviembre,214.0,detalle,False,True
+Suecia,2024,12,Diciembre,359.0,detalle,False,True
+Suecia,2025,1,Enero,223.0,detalle,False,True
+Suecia,2025,2,Febrero,230.0,detalle,False,True
+Suecia,2025,3,Marzo,154.0,detalle,False,True
+Suecia,2025,4,Abril,143.0,detalle,False,True
+Suecia,2025,5,Mayo,81.0,detalle,False,True
+Suecia,2025,6,Junio,204.0,detalle,False,True
+Suecia,2025,7,Julio,235.0,detalle,False,True
+Suecia,2025,8,Agosto,107.0,detalle,False,True
+Suecia,2025,9,Septiembre,117.0,detalle,False,True
+Suecia,2025,10,Octubre,150.0,detalle,False,True
+Suecia,2025,11,Noviembre,262.0,detalle,False,True
+Suecia,2025,12,Diciembre,351.0,detalle,False,True
+Suiza,2022,1,Enero,174.0,detalle,False,False
+Suiza,2022,2,Febrero,163.0,detalle,False,False
+Suiza,2022,3,Marzo,225.0,detalle,False,False
+Suiza,2022,4,Abril,357.0,detalle,False,False
+Suiza,2022,5,Mayo,325.0,detalle,False,False
+Suiza,2022,6,Junio,258.0,detalle,False,False
+Suiza,2022,7,Julio,650.0,detalle,False,False
+Suiza,2022,8,Agosto,335.0,detalle,False,False
+Suiza,2022,9,Septiembre,377.0,detalle,False,False
+Suiza,2022,10,Octubre,567.0,detalle,False,False
+Suiza,2022,11,Noviembre,390.0,detalle,False,False
+Suiza,2022,12,Diciembre,475.0,detalle,False,False
+Suiza,2023,1,Enero,406.0,detalle,False,True
+Suiza,2023,2,Febrero,408.0,detalle,False,True
+Suiza,2023,3,Marzo,321.0,detalle,False,True
+Suiza,2023,4,Abril,589.0,detalle,False,True
+Suiza,2023,5,Mayo,427.0,detalle,False,True
+Suiza,2023,6,Junio,257.0,detalle,False,True
+Suiza,2023,7,Julio,615.0,detalle,False,True
+Suiza,2023,8,Agosto,336.0,detalle,False,True
+Suiza,2023,9,Septiembre,486.0,detalle,False,True
+Suiza,2023,10,Octubre,568.0,detalle,False,True
+Suiza,2023,11,Noviembre,621.0,detalle,False,True
+Suiza,2023,12,Diciembre,461.0,detalle,False,True
+Suiza,2024,1,Enero,488.0,detalle,False,True
+Suiza,2024,2,Febrero,375.0,detalle,False,True
+Suiza,2024,3,Marzo,424.0,detalle,False,True
+Suiza,2024,4,Abril,448.0,detalle,False,True
+Suiza,2024,5,Mayo,348.0,detalle,False,True
+Suiza,2024,6,Junio,282.0,detalle,False,True
+Suiza,2024,7,Julio,712.0,detalle,False,True
+Suiza,2024,8,Agosto,322.0,detalle,False,True
+Suiza,2024,9,Septiembre,429.0,detalle,False,True
+Suiza,2024,10,Octubre,557.0,detalle,False,True
+Suiza,2024,11,Noviembre,456.0,detalle,False,True
+Suiza,2024,12,Diciembre,421.0,detalle,False,True
+Suiza,2025,1,Enero,374.0,detalle,False,True
+Suiza,2025,2,Febrero,325.0,detalle,False,True
+Suiza,2025,3,Marzo,280.0,detalle,False,True
+Suiza,2025,4,Abril,444.0,detalle,False,True
+Suiza,2025,5,Mayo,294.0,detalle,False,True
+Suiza,2025,6,Junio,282.0,detalle,False,True
+Suiza,2025,7,Julio,654.0,detalle,False,True
+Suiza,2025,8,Agosto,323.0,detalle,False,True
+Suiza,2025,9,Septiembre,407.0,detalle,False,True
+Suiza,2025,10,Octubre,576.0,detalle,False,True
+Suiza,2025,11,Noviembre,487.0,detalle,False,True
+Suiza,2025,12,Diciembre,492.0,detalle,False,True
+Taiwan,2022,1,Enero,6.0,detalle,False,False
+Taiwan,2022,2,Febrero,10.0,detalle,False,False
+Taiwan,2022,3,Marzo,3.0,detalle,False,False
+Taiwan,2022,4,Abril,7.0,detalle,False,False
+Taiwan,2022,5,Mayo,25.0,detalle,False,False
+Taiwan,2022,6,Junio,7.0,detalle,False,False
+Taiwan,2022,7,Julio,13.0,detalle,False,False
+Taiwan,2022,8,Agosto,21.0,detalle,False,False
+Taiwan,2022,9,Septiembre,11.0,detalle,False,False
+Taiwan,2022,10,Octubre,16.0,detalle,False,False
+Taiwan,2022,11,Noviembre,38.0,detalle,False,False
+Taiwan,2022,12,Diciembre,31.0,detalle,False,False
+Taiwan,2023,1,Enero,53.0,detalle,False,True
+Taiwan,2023,2,Febrero,30.0,detalle,False,True
+Taiwan,2023,3,Marzo,25.0,detalle,False,True
+Taiwan,2023,4,Abril,47.0,detalle,False,True
+Taiwan,2023,5,Mayo,45.0,detalle,False,True
+Taiwan,2023,6,Junio,35.0,detalle,False,True
+Taiwan,2023,7,Julio,52.0,detalle,False,True
+Taiwan,2023,8,Agosto,27.0,detalle,False,True
+Taiwan,2023,9,Septiembre,42.0,detalle,False,True
+Taiwan,2023,10,Octubre,47.0,detalle,False,True
+Taiwan,2023,11,Noviembre,68.0,detalle,False,True
+Taiwan,2023,12,Diciembre,73.0,detalle,False,True
+Taiwan,2024,1,Enero,64.0,detalle,False,True
+Taiwan,2024,2,Febrero,114.0,detalle,False,True
+Taiwan,2024,3,Marzo,130.0,detalle,False,True
+Taiwan,2024,4,Abril,118.0,detalle,False,True
+Taiwan,2024,5,Mayo,56.0,detalle,False,True
+Taiwan,2024,6,Junio,39.0,detalle,False,True
+Taiwan,2024,7,Julio,38.0,detalle,False,True
+Taiwan,2024,8,Agosto,39.0,detalle,False,True
+Taiwan,2024,9,Septiembre,59.0,detalle,False,True
+Taiwan,2024,10,Octubre,72.0,detalle,False,True
+Taiwan,2024,11,Noviembre,64.0,detalle,False,True
+Taiwan,2024,12,Diciembre,52.0,detalle,False,True
+Taiwan,2025,1,Enero,64.0,detalle,False,True
+Taiwan,2025,2,Febrero,98.0,detalle,False,True
+Taiwan,2025,3,Marzo,139.0,detalle,False,True
+Taiwan,2025,4,Abril,170.0,detalle,False,True
+Taiwan,2025,5,Mayo,65.0,detalle,False,True
+Taiwan,2025,6,Junio,82.0,detalle,False,True
+Taiwan,2025,7,Julio,64.0,detalle,False,True
+Taiwan,2025,8,Agosto,27.0,detalle,False,True
+Taiwan,2025,9,Septiembre,22.0,detalle,False,True
+Taiwan,2025,10,Octubre,108.0,detalle,False,True
+Taiwan,2025,11,Noviembre,99.0,detalle,False,True
+Taiwan,2025,12,Diciembre,80.0,detalle,False,True
+Turquia,2022,1,Enero,25.0,detalle,False,False
+Turquia,2022,2,Febrero,33.0,detalle,False,False
+Turquia,2022,3,Marzo,21.0,detalle,False,False
+Turquia,2022,4,Abril,33.0,detalle,False,False
+Turquia,2022,5,Mayo,36.0,detalle,False,False
+Turquia,2022,6,Junio,18.0,detalle,False,False
+Turquia,2022,7,Julio,52.0,detalle,False,False
+Turquia,2022,8,Agosto,28.0,detalle,False,False
+Turquia,2022,9,Septiembre,23.0,detalle,False,False
+Turquia,2022,10,Octubre,52.0,detalle,False,False
+Turquia,2022,11,Noviembre,59.0,detalle,False,False
+Turquia,2022,12,Diciembre,49.0,detalle,False,False
+Turquia,2023,1,Enero,56.0,detalle,False,True
+Turquia,2023,2,Febrero,52.0,detalle,False,True
+Turquia,2023,3,Marzo,40.0,detalle,False,True
+Turquia,2023,4,Abril,72.0,detalle,False,True
+Turquia,2023,5,Mayo,24.0,detalle,False,True
+Turquia,2023,6,Junio,62.0,detalle,False,True
+Turquia,2023,7,Julio,55.0,detalle,False,True
+Turquia,2023,8,Agosto,30.0,detalle,False,True
+Turquia,2023,9,Septiembre,39.0,detalle,False,True
+Turquia,2023,10,Octubre,110.0,detalle,False,True
+Turquia,2023,11,Noviembre,158.0,detalle,False,True
+Turquia,2023,12,Diciembre,47.0,detalle,False,True
+Turquia,2024,1,Enero,77.0,detalle,False,True
+Turquia,2024,2,Febrero,129.0,detalle,False,True
+Turquia,2024,3,Marzo,100.0,detalle,False,True
+Turquia,2024,4,Abril,108.0,detalle,False,True
+Turquia,2024,5,Mayo,34.0,detalle,False,True
+Turquia,2024,6,Junio,80.0,detalle,False,True
+Turquia,2024,7,Julio,69.0,detalle,False,True
+Turquia,2024,8,Agosto,72.0,detalle,False,True
+Turquia,2024,9,Septiembre,42.0,detalle,False,True
+Turquia,2024,10,Octubre,79.0,detalle,False,True
+Turquia,2024,11,Noviembre,177.0,detalle,False,True
+Turquia,2024,12,Diciembre,110.0,detalle,False,True
+Turquia,2025,1,Enero,142.0,detalle,False,True
+Turquia,2025,2,Febrero,88.0,detalle,False,True
+Turquia,2025,3,Marzo,72.0,detalle,False,True
+Turquia,2025,4,Abril,175.0,detalle,False,True
+Turquia,2025,5,Mayo,27.0,detalle,False,True
+Turquia,2025,6,Junio,81.0,detalle,False,True
+Turquia,2025,7,Julio,92.0,detalle,False,True
+Turquia,2025,8,Agosto,131.0,detalle,False,True
+Turquia,2025,9,Septiembre,45.0,detalle,False,True
+Turquia,2025,10,Octubre,82.0,detalle,False,True
+Turquia,2025,11,Noviembre,167.0,detalle,False,True
+Turquia,2025,12,Diciembre,93.0,detalle,False,True
+Uruguay,2022,1,Enero,144.0,detalle,False,False
+Uruguay,2022,2,Febrero,165.0,detalle,False,False
+Uruguay,2022,3,Marzo,233.0,detalle,False,False
+Uruguay,2022,4,Abril,257.0,detalle,False,False
+Uruguay,2022,5,Mayo,271.0,detalle,False,False
+Uruguay,2022,6,Junio,277.0,detalle,False,False
+Uruguay,2022,7,Julio,287.0,detalle,False,False
+Uruguay,2022,8,Agosto,300.0,detalle,False,False
+Uruguay,2022,9,Septiembre,491.0,detalle,False,False
+Uruguay,2022,10,Octubre,355.0,detalle,False,False
+Uruguay,2022,11,Noviembre,225.0,detalle,False,False
+Uruguay,2022,12,Diciembre,216.0,detalle,False,False
+Uruguay,2023,1,Enero,372.0,detalle,False,True
+Uruguay,2023,2,Febrero,311.0,detalle,False,True
+Uruguay,2023,3,Marzo,347.0,detalle,False,True
+Uruguay,2023,4,Abril,623.0,detalle,False,True
+Uruguay,2023,5,Mayo,326.0,detalle,False,True
+Uruguay,2023,6,Junio,314.0,detalle,False,True
+Uruguay,2023,7,Julio,405.0,detalle,False,True
+Uruguay,2023,8,Agosto,299.0,detalle,False,True
+Uruguay,2023,9,Septiembre,392.0,detalle,False,True
+Uruguay,2023,10,Octubre,452.0,detalle,False,True
+Uruguay,2023,11,Noviembre,272.0,detalle,False,True
+Uruguay,2023,12,Diciembre,279.0,detalle,False,True
+Uruguay,2024,1,Enero,341.0,detalle,False,True
+Uruguay,2024,2,Febrero,226.0,detalle,False,True
+Uruguay,2024,3,Marzo,357.0,detalle,False,True
+Uruguay,2024,4,Abril,267.0,detalle,False,True
+Uruguay,2024,5,Mayo,242.0,detalle,False,True
+Uruguay,2024,6,Junio,245.0,detalle,False,True
+Uruguay,2024,7,Julio,342.0,detalle,False,True
+Uruguay,2024,8,Agosto,618.0,detalle,False,True
+Uruguay,2024,9,Septiembre,306.0,detalle,False,True
+Uruguay,2024,10,Octubre,246.0,detalle,False,True
+Uruguay,2024,11,Noviembre,236.0,detalle,False,True
+Uruguay,2024,12,Diciembre,252.0,detalle,False,True
+Uruguay,2025,1,Enero,238.0,detalle,False,True
+Uruguay,2025,2,Febrero,197.0,detalle,False,True
+Uruguay,2025,3,Marzo,280.0,detalle,False,True
+Uruguay,2025,4,Abril,214.0,detalle,False,True
+Uruguay,2025,5,Mayo,467.0,detalle,False,True
+Uruguay,2025,6,Junio,285.0,detalle,False,True
+Uruguay,2025,7,Julio,328.0,detalle,False,True
+Uruguay,2025,8,Agosto,339.0,detalle,False,True
+Uruguay,2025,9,Septiembre,360.0,detalle,False,True
+Uruguay,2025,10,Octubre,327.0,detalle,False,True
+Uruguay,2025,11,Noviembre,281.0,detalle,False,True
+Uruguay,2025,12,Diciembre,268.0,detalle,False,True
+Venezuela,2022,1,Enero,446.0,detalle,False,False
+Venezuela,2022,2,Febrero,474.0,detalle,False,False
+Venezuela,2022,3,Marzo,516.0,detalle,False,False
+Venezuela,2022,4,Abril,373.0,detalle,False,False
+Venezuela,2022,5,Mayo,414.0,detalle,False,False
+Venezuela,2022,6,Junio,581.0,detalle,False,False
+Venezuela,2022,7,Julio,507.0,detalle,False,False
+Venezuela,2022,8,Agosto,508.0,detalle,False,False
+Venezuela,2022,9,Septiembre,604.0,detalle,False,False
+Venezuela,2022,10,Octubre,545.0,detalle,False,False
+Venezuela,2022,11,Noviembre,434.0,detalle,False,False
+Venezuela,2022,12,Diciembre,616.0,detalle,False,False
+Venezuela,2023,1,Enero,732.0,detalle,False,True
+Venezuela,2023,2,Febrero,411.0,detalle,False,True
+Venezuela,2023,3,Marzo,644.0,detalle,False,True
+Venezuela,2023,4,Abril,511.0,detalle,False,True
+Venezuela,2023,5,Mayo,601.0,detalle,False,True
+Venezuela,2023,6,Junio,584.0,detalle,False,True
+Venezuela,2023,7,Julio,530.0,detalle,False,True
+Venezuela,2023,8,Agosto,547.0,detalle,False,True
+Venezuela,2023,9,Septiembre,578.0,detalle,False,True
+Venezuela,2023,10,Octubre,464.0,detalle,False,True
+Venezuela,2023,11,Noviembre,496.0,detalle,False,True
+Venezuela,2023,12,Diciembre,585.0,detalle,False,True
+Venezuela,2024,1,Enero,555.0,detalle,False,True
+Venezuela,2024,2,Febrero,457.0,detalle,False,True
+Venezuela,2024,3,Marzo,509.0,detalle,False,True
+Venezuela,2024,4,Abril,369.0,detalle,False,True
+Venezuela,2024,5,Mayo,367.0,detalle,False,True
+Venezuela,2024,6,Junio,515.0,detalle,False,True
+Venezuela,2024,7,Julio,1138.0,detalle,False,True
+Venezuela,2024,8,Agosto,537.0,detalle,False,True
+Venezuela,2024,9,Septiembre,688.0,detalle,False,True
+Venezuela,2024,10,Octubre,689.0,detalle,False,True
+Venezuela,2024,11,Noviembre,739.0,detalle,False,True
+Venezuela,2024,12,Diciembre,838.0,detalle,False,True
+Venezuela,2025,1,Enero,838.0,detalle,False,True
+Venezuela,2025,2,Febrero,667.0,detalle,False,True
+Venezuela,2025,3,Marzo,810.0,detalle,False,True
+Venezuela,2025,4,Abril,872.0,detalle,False,True
+Venezuela,2025,5,Mayo,830.0,detalle,False,True
+Venezuela,2025,6,Junio,750.0,detalle,False,True
+Venezuela,2025,7,Julio,957.0,detalle,False,True
+Venezuela,2025,8,Agosto,869.0,detalle,False,True
+Venezuela,2025,9,Septiembre,950.0,detalle,False,True
+Venezuela,2025,10,Octubre,666.0,detalle,False,True
+Venezuela,2025,11,Noviembre,304.0,detalle,False,True
+Venezuela,2025,12,Diciembre,238.0,detalle,False,True

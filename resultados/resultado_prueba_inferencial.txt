@@ -1,0 +1,98 @@
+RESULTADO DE LA PRUEBA INFERENCIAL — CHI-CUADRADO DE INDEPENDENCIA
+Proyecto PFI: experiencia de Stand Up Paddle en el Lago Titicaca
+Script: scripts/05_pruebas_inferenciales.py
+Entrada: resultados/visitantes_principal_2022_2025.csv (INE)
+==========================================================================
+
+1. PREGUNTA INFERENCIAL
+   ¿Existe asociación entre el país europeo de procedencia por nacionalidad
+   y el mes del año en que se registran las llegadas de visitantes a Bolivia
+   durante 2022-2025?
+
+2. DISEÑO Y SELECCIÓN
+   - Periodo: 2022-2025 (48 meses). Nota: 2023-2025 son preliminares (p).
+   - Nacionalidades europeas disponibles en los datos: 22 (incl. Rusia y
+     Turquía, transcontinentales).
+   - Criterio: se seleccionan los 8 principales mercados europeos por
+     volumen acumulado de llegadas 2022-2025. Excluye filas de TOTAL y la
+     categoría residual 'Resto de países'.
+   - Cobertura de la selección: 85.7% del volumen europeo del periodo.
+   - Países seleccionados (llegadas acumuladas 2022-2025):
+       España: 157,055
+       Francia: 71,494
+       Alemania: 70,360
+       Reino Unido: 39,235
+       Italia: 36,733
+       Suiza: 19,991
+       Países Bajos: 17,917
+       Bélgica: 11,481
+
+3. TABLA DE CONTINGENCIA (país x mes del calendario, 2022-2025)
+   (ver resultados/tabla_contingencia_pais_mes_europa.csv)
+   Totales por fila (país):
+       España: 157,055
+       Francia: 71,494
+       Alemania: 70,360
+       Reino Unido: 39,235
+       Italia: 36,733
+       Suiza: 19,991
+       Países Bajos: 17,917
+       Bélgica: 11,481
+   Total observado (n) = 424,266
+
+4. APROPIEDAD DE LA PRUEBA
+   - Frecuencia esperada mínima: 714.4
+   - Celdas con frecuencia esperada < 5: 0.0%
+   -> Supuesto de frecuencias esperadas (>=5 en >=80% de celdas): SE CUMPLE
+      holgadamente; la aproximación chi-cuadrado es numéricamente válida.
+   - LIMITACIONES de independencia (importantes):
+       * Son registros ADMINISTRATIVOS agregados por migración, no una muestra
+         aleatoria; no hay muestreo probabilístico.
+       * Posible DEPENDENCIA TEMPORAL (estacionalidad, tendencia, pandemia).
+       * Los visitantes registrados no son necesariamente observaciones
+         independientes (una misma persona puede registrarse varias veces;
+         el conteo mensual agrega flujos, no individuos independientes).
+       * El N grande hace que el p-valor sea muy pequeño incluso para
+         asociaciones de magnitud trivial -> usar la V de Cramér como tamaño
+         de efecto y distinguir significación ESTADÍSTICA de relevancia PRÁCTICA.
+
+5. RESULTADOS DE LA PRUEBA (chi-cuadrado de independencia, sin corrección)
+   - Estadístico chi-cuadrado = 14,260.552
+   - Grados de libertad       = 77  ((8-1) x (12-1))
+   - Valor p                  = < 1e-300 (subdesbordamiento numérico)
+   - Nivel de significación   = 0.05
+   - Decisión                 = RECHAZA H0 (p < 0.05)
+   - V de Cramér              = 0.0693  (tamaño de efecto: muy débil)
+
+6. PERFIL MENSUAL DESCRIPTIVO (porcentaje de cada país por mes)
+   mes de mayor concentración (pico) y de menor (valle) por país:
+       España             pico=Diciembre   (11.4%)  valle=Abril       (6.0%)
+       Francia            pico=Julio       (12.3%)  valle=Febrero     (5.2%)
+       Alemania           pico=Octubre     (11.3%)  valle=Junio       (5.5%)
+       Reino Unido        pico=Octubre     (11.3%)  valle=Enero       (5.7%)
+       Italia             pico=Agosto      (22.6%)  valle=Febrero     (4.8%)
+       Suiza              pico=Julio       (13.2%)  valle=Junio       (5.4%)
+       Países Bajos       pico=Octubre     (12.3%)  valle=Febrero     (5.8%)
+       Bélgica            pico=Julio       (13.5%)  valle=Marzo       (5.3%)
+
+7. INTERPRETACIÓN COMERCIAL (cautelosa)
+   - Hay evidencia estadística de ASOCIACIÓN entre el país europeo y el mes
+     de llegada: los patrones mensuales NO son idénticos entre mercados.
+   - PERO el efecto es muy débil (V=0.0693): la diferencia de CALENDARIO
+     entre países es pequeña. La significación proviene del gran volumen de
+     registros, no de un patrón mensual marcadamente distinto.
+   - Implicación: el resultado es compatible con un calendario estacional
+     COMPARTIDO por los mercados europeos (con matices por país en el pico/valle).
+     Antes de invertir en campañas muy diferenciadas por país, conviene comprobar
+     si las diferencias de perfil mensual son lo bastante grandes para justificar
+     campañas segmentadas; los datos aquí sugieren priorizar un calendario común.
+   - LÍMITE: esta prueba NO identifica intención de compra, demanda de SUP ni
+     eficacia de ningún canal comercial. Solo evalúa la (in)dependencia entre
+     país y mes en registros de llegada.
+
+8. ALTERNATIVA DESCRIPTIVA DEFENDIBLE
+   Si se cuestiona la independencia de las observaciones (dependencia temporal,
+   agregación administrativa), puede reportarse el PERFIL MENSUAL PORCENTUAL por
+   país (sección 6) y el índice de estacionalidad, sin p-valor, como evidencia
+   descriptiva del calendario de cada mercado. El chi-cuadrado se ofrece entonces
+   como indicio, no como prueba confirmatoria.

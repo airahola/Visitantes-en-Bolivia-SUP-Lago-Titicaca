@@ -1,0 +1,559 @@
+pais,nivel,es_residual,anio,valor,es_preliminar
+Alemania,detalle,False,2008,14.64053375804106,False
+Alemania,detalle,False,2009,17.03336243380008,False
+Alemania,detalle,False,2010,13.584342436524635,False
+Alemania,detalle,False,2011,19.474374351661147,False
+Alemania,detalle,False,2012,19.734166098016694,False
+Alemania,detalle,False,2013,20.40062961929423,False
+Alemania,detalle,False,2014,26.332333691210778,False
+Alemania,detalle,False,2015,29.86620937207272,False
+Alemania,detalle,False,2016,28.621388463332444,False
+Alemania,detalle,False,2017,28.60236737767368,False
+Alemania,detalle,False,2018,29.06961344921066,False
+Alemania,detalle,False,2019,29.95214059852054,False
+Alemania,detalle,False,2020,5.250856766702113,False
+Alemania,detalle,False,2021,5.444833340532378,False
+Alemania,detalle,False,2022,17.21779411802876,False
+Alemania,detalle,False,2023,22.03504146173429,True
+Alemania,detalle,False,2024,20.0520989306382,True
+Alemania,detalle,False,2025,20.359669698632874,True
+Argentina,detalle,False,2008,33.77530737558499,False
+Argentina,detalle,False,2009,41.08298657112936,False
+Argentina,detalle,False,2010,50.77813542748277,False
+Argentina,detalle,False,2011,52.20356373054608,False
+Argentina,detalle,False,2012,63.98145520061498,False
+Argentina,detalle,False,2013,63.98639102713182,False
+Argentina,detalle,False,2014,76.12772188589902,False
+Argentina,detalle,False,2015,88.8423994406564,False
+Argentina,detalle,False,2016,94.35038196675477,False
+Argentina,detalle,False,2017,120.63848637162066,False
+Argentina,detalle,False,2018,119.2849177618065,False
+Argentina,detalle,False,2019,126.11414128370589,False
+Argentina,detalle,False,2020,30.066492754929566,False
+Argentina,detalle,False,2021,19.13943753811921,False
+Argentina,detalle,False,2022,77.42964088379222,False
+Argentina,detalle,False,2023,124.94168787605061,True
+Argentina,detalle,False,2024,103.15002378093126,True
+Argentina,detalle,False,2025,132.29518247793186,True
+Australia,detalle,False,2008,6.966614523356113,False
+Australia,detalle,False,2009,7.072558725582894,False
+Australia,detalle,False,2010,7.906466312034802,False
+Australia,detalle,False,2011,7.1068661207393635,False
+Australia,detalle,False,2012,7.461049529028887,False
+Australia,detalle,False,2013,8.925376888059414,False
+Australia,detalle,False,2014,9.029137545454548,False
+Australia,detalle,False,2015,7.550608354545456,False
+Australia,detalle,False,2016,8.292836145454547,False
+Australia,detalle,False,2017,7.8403375912727284,False
+Australia,detalle,False,2018,7.809004093581819,False
+Australia,detalle,False,2019,6.968911316145382,False
+Australia,detalle,False,2020,1.180265816471891,False
+Australia,detalle,False,2021,0.11503774952400002,False
+Australia,detalle,False,2022,1.2005117811257728,False
+Australia,detalle,False,2023,3.010657375271804,True
+Australia,detalle,False,2024,3.650418185549268,True
+Australia,detalle,False,2025,4.147740586705749,True
+Austria,detalle,False,2008,3.99089599168558,False
+Austria,detalle,False,2009,3.7801295357648224,False
+Austria,detalle,False,2010,2.813516987364695,False
+Austria,detalle,False,2011,5.3521016663275045,False
+Austria,detalle,False,2012,5.085956254926061,False
+Austria,detalle,False,2013,8.30959850795952,False
+Austria,detalle,False,2014,1.97992179375,False
+Austria,detalle,False,2015,2.0251770375,False
+Austria,detalle,False,2016,2.0280656694999997,False
+Austria,detalle,False,2017,2.1057125895,False
+Austria,detalle,False,2018,2.26882966884375,False
+Austria,detalle,False,2019,2.22366196052295,False
+Austria,detalle,False,2020,0.314277567686775,False
+Austria,detalle,False,2021,0.21540143484234375,False
+Austria,detalle,False,2022,0.9174417273829687,False
+Austria,detalle,False,2023,1.1819340045282525,True
+Austria,detalle,False,2024,1.6716186126527377,True
+Austria,detalle,False,2025,1.7846465927924824,True
+Brasil,detalle,False,2008,48.14017958644338,False
+Brasil,detalle,False,2009,60.27954756170418,False
+Brasil,detalle,False,2010,63.24117528146478,False
+Brasil,detalle,False,2011,72.70973557433526,False
+Brasil,detalle,False,2012,71.6202524295117,False
+Brasil,detalle,False,2013,89.3460698303314,False
+Brasil,detalle,False,2014,67.11883199905803,False
+Brasil,detalle,False,2015,69.12778079363947,False
+Brasil,detalle,False,2016,60.19136536555098,False
+Brasil,detalle,False,2017,71.35132476995977,False
+Brasil,detalle,False,2018,70.78649260171937,False
+Brasil,detalle,False,2019,76.08236791098663,False
+Brasil,detalle,False,2020,21.540270402103445,False
+Brasil,detalle,False,2021,19.76937901504246,False
+Brasil,detalle,False,2022,45.821670699694636,False
+Brasil,detalle,False,2023,58.13999391751554,True
+Brasil,detalle,False,2024,65.80090333978592,True
+Brasil,detalle,False,2025,69.889709434941,True
+Bélgica,detalle,False,2008,3.084372576100541,False
+Bélgica,detalle,False,2009,3.7986426319484075,False
+Bélgica,detalle,False,2010,3.489432429217995,False
+Bélgica,detalle,False,2011,3.5908761593624,False
+Bélgica,detalle,False,2012,3.1572496120862663,False
+Bélgica,detalle,False,2013,2.937232294655578,False
+Bélgica,detalle,False,2014,7.4120633998316485,False
+Bélgica,detalle,False,2015,6.634663944444443,False
+Bélgica,detalle,False,2016,6.730577331986533,False
+Bélgica,detalle,False,2017,6.916024915353535,False
+Bélgica,detalle,False,2018,7.112463165752525,False
+Bélgica,detalle,False,2019,6.524032223315667,False
+Bélgica,detalle,False,2020,0.9096113682857728,False
+Bélgica,detalle,False,2021,0.9496207010973612,False
+Bélgica,detalle,False,2022,3.7805219913610224,False
+Bélgica,detalle,False,2023,4.179455557308062,True
+Bélgica,detalle,False,2024,3.225013806336441,True
+Bélgica,detalle,False,2025,3.6586740562128135,True
+Canadá,detalle,False,2008,8.744434530354251,False
+Canadá,detalle,False,2009,9.515658518966712,False
+Canadá,detalle,False,2010,10.758310983358326,False
+Canadá,detalle,False,2011,13.177195167938885,False
+Canadá,detalle,False,2012,11.466308654449147,False
+Canadá,detalle,False,2013,14.460835916429893,False
+Canadá,detalle,False,2014,10.707339450574466,False
+Canadá,detalle,False,2015,10.439869563519078,False
+Canadá,detalle,False,2016,10.157162864588678,False
+Canadá,detalle,False,2017,10.196944327756245,False
+Canadá,detalle,False,2018,10.369606442810017,False
+Canadá,detalle,False,2019,9.95120892792218,False
+Canadá,detalle,False,2020,2.151192399855597,False
+Canadá,detalle,False,2021,2.5205329594579857,False
+Canadá,detalle,False,2022,5.239868265708016,False
+Canadá,detalle,False,2023,8.188303764420173,True
+Canadá,detalle,False,2024,10.324581209219902,True
+Canadá,detalle,False,2025,10.600936406917016,True
+Chile,detalle,False,2008,21.154744681427115,False
+Chile,detalle,False,2009,24.731849587850224,False
+Chile,detalle,False,2010,27.81088354305447,False
+Chile,detalle,False,2011,31.980290067328788,False
+Chile,detalle,False,2012,42.97730014991526,False
+Chile,detalle,False,2013,44.76245687890883,False
+Chile,detalle,False,2014,63.38684377369726,False
+Chile,detalle,False,2015,60.695771099537026,False
+Chile,detalle,False,2016,60.950604286244854,False
+Chile,detalle,False,2017,62.81276163415715,False
+Chile,detalle,False,2018,56.37531526920216,False
+Chile,detalle,False,2019,57.03423403536846,False
+Chile,detalle,False,2020,15.620911001522641,False
+Chile,detalle,False,2021,5.398579956680958,False
+Chile,detalle,False,2022,22.538132467382564,False
+Chile,detalle,False,2023,35.24097330415392,True
+Chile,detalle,False,2024,31.102174902221655,True
+Chile,detalle,False,2025,36.69486441423996,True
+China,detalle,False,2008,1.1189168086966914,False
+China,detalle,False,2009,1.8091477382434502,False
+China,detalle,False,2010,2.356457928977816,False
+China,detalle,False,2011,3.5269837765442724,False
+China,detalle,False,2012,2.7528168282367567,False
+China,detalle,False,2013,4.4122260154092565,False
+China,detalle,False,2014,7.27045813,False
+China,detalle,False,2015,12.274507139999999,False
+China,detalle,False,2016,17.570339207200004,False
+China,detalle,False,2017,22.118215080000002,False
+China,detalle,False,2018,24.13648989966,False
+China,detalle,False,2019,22.82416895984904,False
+China,detalle,False,2020,3.8935356586774206,False
+China,detalle,False,2021,2.23662795478485,False
+China,detalle,False,2022,4.53122287190325,False
+China,detalle,False,2023,11.159970601755193,True
+China,detalle,False,2024,12.189702847815365,True
+China,detalle,False,2025,13.017601838458724,True
+Colombia,detalle,False,2008,10.754724366567084,False
+Colombia,detalle,False,2009,14.384620947431701,False
+Colombia,detalle,False,2010,15.090516387659846,False
+Colombia,detalle,False,2011,18.076792033537888,False
+Colombia,detalle,False,2012,24.315473271004862,False
+Colombia,detalle,False,2013,28.887778051416326,False
+Colombia,detalle,False,2014,24.427264887231043,False
+Colombia,detalle,False,2015,23.904754477513226,False
+Colombia,detalle,False,2016,29.715621666544617,False
+Colombia,detalle,False,2017,30.64706376140741,False
+Colombia,detalle,False,2018,33.37980237911762,False
+Colombia,detalle,False,2019,32.00336738635795,False
+Colombia,detalle,False,2020,8.60723563249704,False
+Colombia,detalle,False,2021,11.494334058120808,False
+Colombia,detalle,False,2022,22.216069014222622,False
+Colombia,detalle,False,2023,27.539928578231763,True
+Colombia,detalle,False,2024,38.193308650410636,True
+Colombia,detalle,False,2025,38.70066340476531,True
+Corea del Sur,detalle,False,2008,0.33211536843392464,False
+Corea del Sur,detalle,False,2009,0.3842881774353387,False
+Corea del Sur,detalle,False,2010,0.639823028468822,False
+Corea del Sur,detalle,False,2011,0.5687315808611751,False
+Corea del Sur,detalle,False,2012,1.1749806872964006,False
+Corea del Sur,detalle,False,2013,1.0705284854141008,False
+Corea del Sur,detalle,False,2014,4.108946666666666,False
+Corea del Sur,detalle,False,2015,5.371081333333333,False
+Corea del Sur,detalle,False,2016,6.204871573333333,False
+Corea del Sur,detalle,False,2017,8.737082293333334,False
+Corea del Sur,detalle,False,2018,9.450313898,False
+Corea del Sur,detalle,False,2019,9.524539077352,False
+Corea del Sur,detalle,False,2020,3.5810992911959993,False
+Corea del Sur,detalle,False,2021,0.38938904113999995,False
+Corea del Sur,detalle,False,2022,1.5619151403899998,False
+Corea del Sur,detalle,False,2023,5.6420634556692,True
+Corea del Sur,detalle,False,2024,13.23108802626609,True
+Corea del Sur,detalle,False,2025,14.902144483347024,True
+Cuba,detalle,False,2008,6.171005693801472,False
+Cuba,detalle,False,2009,9.474915934313886,False
+Cuba,detalle,False,2010,11.466625396134102,False
+Cuba,detalle,False,2011,18.71426993475375,False
+Cuba,detalle,False,2012,20.649010922597803,False
+Cuba,detalle,False,2013,15.058670717491596,False
+Cuba,detalle,False,2014,7.192995,False
+Cuba,detalle,False,2015,6.78885,False
+Cuba,detalle,False,2016,7.283406,False
+Cuba,detalle,False,2017,7.3140964,False
+Cuba,detalle,False,2018,7.133796029999999,False
+Cuba,detalle,False,2019,6.20460573846,False
+Cuba,detalle,False,2020,1.06857529884,False
+Cuba,detalle,False,2021,1.0608718832249997,False
+Cuba,detalle,False,2022,2.643653774925,False
+Cuba,detalle,False,2023,2.4981543375329998,True
+Cuba,detalle,False,2024,4.435452819540814,True
+Cuba,detalle,False,2025,4.851864487834461,True
+Ecuador,detalle,False,2008,2.1454639325423797,False
+Ecuador,detalle,False,2009,2.8819753222953417,False
+Ecuador,detalle,False,2010,4.312759149264052,False
+Ecuador,detalle,False,2011,3.7352734576162407,False
+Ecuador,detalle,False,2012,5.103018293462322,False
+Ecuador,detalle,False,2013,5.1480452107013495,False
+Ecuador,detalle,False,2014,7.085948862734488,False
+Ecuador,detalle,False,2015,7.353188329545455,False
+Ecuador,detalle,False,2016,12.07708486992785,False
+Ecuador,detalle,False,2017,12.550201761284272,False
+Ecuador,detalle,False,2018,13.197058558397186,False
+Ecuador,detalle,False,2019,13.45199788633622,False
+Ecuador,detalle,False,2020,2.472295359951137,False
+Ecuador,detalle,False,2021,2.4884811762692856,False
+Ecuador,detalle,False,2022,6.516127873052411,False
+Ecuador,detalle,False,2023,8.963308967243673,True
+Ecuador,detalle,False,2024,15.902293282305498,True
+Ecuador,detalle,False,2025,13.539785536199396,True
+España,detalle,False,2008,29.017179169560738,False
+España,detalle,False,2009,32.34538940790731,False
+España,detalle,False,2010,21.897457012789513,False
+España,detalle,False,2011,42.75488584434083,False
+España,detalle,False,2012,51.0679430930113,False
+España,detalle,False,2013,39.110834943131586,False
+España,detalle,False,2014,57.085504790813836,False
+España,detalle,False,2015,67.04226367986654,False
+España,detalle,False,2016,76.3299292363567,False
+España,detalle,False,2017,81.5870391915419,False
+España,detalle,False,2018,84.46591749148652,False
+España,detalle,False,2019,88.54698023953938,False
+España,detalle,False,2020,19.224937365680624,False
+España,detalle,False,2021,36.31809758067371,False
+España,detalle,False,2022,73.37702715090221,False
+España,detalle,False,2023,89.29311043922877,True
+España,detalle,False,2024,59.996403633368566,True
+España,detalle,False,2025,63.96771014014172,True
+Estados Unidos,detalle,False,2008,33.506860989239684,False
+Estados Unidos,detalle,False,2009,28.02771744374451,False
+Estados Unidos,detalle,False,2010,34.956581596073896,False
+Estados Unidos,detalle,False,2011,38.92092033668051,False
+Estados Unidos,detalle,False,2012,36.557063887179474,False
+Estados Unidos,detalle,False,2013,36.96964629075391,False
+Estados Unidos,detalle,False,2014,64.65324476236346,False
+Estados Unidos,detalle,False,2015,73.64704306219203,False
+Estados Unidos,detalle,False,2016,75.79663221643217,False
+Estados Unidos,detalle,False,2017,78.15724973900174,False
+Estados Unidos,detalle,False,2018,76.76419316024635,False
+Estados Unidos,detalle,False,2019,70.84414066930317,False
+Estados Unidos,detalle,False,2020,16.469457193032454,False
+Estados Unidos,detalle,False,2021,34.59415695225153,False
+Estados Unidos,detalle,False,2022,60.49021126186856,False
+Estados Unidos,detalle,False,2023,74.97854959804165,True
+Estados Unidos,detalle,False,2024,81.62758182985112,True
+Estados Unidos,detalle,False,2025,87.55303396464014,True
+Francia,detalle,False,2008,17.051256493185807,False
+Francia,detalle,False,2009,17.203512929574593,False
+Francia,detalle,False,2010,18.480631233834675,False
+Francia,detalle,False,2011,21.231032705472302,False
+Francia,detalle,False,2012,19.461263729808888,False
+Francia,detalle,False,2013,18.907860443583182,False
+Francia,detalle,False,2014,28.61334808486993,False
+Francia,detalle,False,2015,28.199151092231045,False
+Francia,detalle,False,2016,29.745673438192593,False
+Francia,detalle,False,2017,31.423336973276722,False
+Francia,detalle,False,2018,31.02330759768325,False
+Francia,detalle,False,2019,31.91249394366087,False
+Francia,detalle,False,2020,4.24988845340931,False
+Francia,detalle,False,2021,3.8709687650445135,False
+Francia,detalle,False,2022,15.879112145345255,False
+Francia,detalle,False,2023,20.287072374784568,True
+Francia,detalle,False,2024,16.229871404601802,True
+Francia,detalle,False,2025,18.542777962976157,True
+Irlanda (EIRE),detalle,False,2008,2.8079959535523877,False
+Irlanda (EIRE),detalle,False,2009,2.1521187082762805,False
+Irlanda (EIRE),detalle,False,2010,2.079096401924559,False
+Irlanda (EIRE),detalle,False,2011,2.163468425576048,False
+Irlanda (EIRE),detalle,False,2012,1.875123814846317,False
+Irlanda (EIRE),detalle,False,2013,1.6086266938758513,False
+Irlanda (EIRE),detalle,False,2014,0.22618343500000002,False
+Irlanda (EIRE),detalle,False,2015,0.184124925,False
+Irlanda (EIRE),detalle,False,2016,0.19228161159999999,False
+Irlanda (EIRE),detalle,False,2017,0.1867397844,False
+Irlanda (EIRE),detalle,False,2018,0.22049944622999998,False
+Irlanda (EIRE),detalle,False,2019,0.19907751889769998,False
+Irlanda (EIRE),detalle,False,2020,0.02367664808481,False
+Irlanda (EIRE),detalle,False,2021,0.00010351389097499999,False
+Irlanda (EIRE),detalle,False,2022,0.0947315545407,False
+Irlanda (EIRE),detalle,False,2023,0.11301682276938299,True
+Irlanda (EIRE),detalle,False,2024,1.5270979755919563,True
+Irlanda (EIRE),detalle,False,2025,1.466465805852299,True
+Israel,detalle,False,2008,7.038372264870601,False
+Israel,detalle,False,2009,7.017942058988772,False
+Israel,detalle,False,2010,7.932990006583138,False
+Israel,detalle,False,2011,12.338208114806054,False
+Israel,detalle,False,2012,8.21837661568093,False
+Israel,detalle,False,2013,11.086370556899702,False
+Israel,detalle,False,2014,5.132434684040404,False
+Israel,detalle,False,2015,2.7524112509595957,False
+Israel,detalle,False,2016,2.428244717179798,False
+Israel,detalle,False,2017,2.3799107887191924,False
+Israel,detalle,False,2018,2.255946486372121,False
+Israel,detalle,False,2019,2.656818169323939,False
+Israel,detalle,False,2020,0.9359117372748246,False
+Israel,detalle,False,2021,0.08458050206752499,False
+Israel,detalle,False,2022,1.7514411959993113,False
+Israel,detalle,False,2023,2.3206171971795726,True
+Israel,detalle,False,2024,0.3778992958222166,True
+Israel,detalle,False,2025,2.2399814964058726,True
+Italia,detalle,False,2008,10.438828394427135,False
+Italia,detalle,False,2009,10.02536467835357,False
+Italia,detalle,False,2010,9.61320939007543,False
+Italia,detalle,False,2011,17.725585007672258,False
+Italia,detalle,False,2012,13.598946395317181,False
+Italia,detalle,False,2013,13.911910547453013,False
+Italia,detalle,False,2014,13.565077418988123,False
+Italia,detalle,False,2015,13.175906023662572,False
+Italia,detalle,False,2016,14.629183205544177,False
+Italia,detalle,False,2017,14.900759110524639,False
+Italia,detalle,False,2018,15.87688807549649,False
+Italia,detalle,False,2019,16.835732662485604,False
+Italia,detalle,False,2020,2.126520091578096,False
+Italia,detalle,False,2021,2.8272513858327684,False
+Italia,detalle,False,2022,7.9442001818175125,False
+Italia,detalle,False,2023,10.937417795267379,True
+Italia,detalle,False,2024,11.784494986163185,True
+Italia,detalle,False,2025,12.249534811034064,True
+Japón,detalle,False,2008,3.139055691662583,False
+Japón,detalle,False,2009,2.9826410091467306,False
+Japón,detalle,False,2010,2.2570136080287098,False
+Japón,detalle,False,2011,3.2437499952427813,False
+Japón,detalle,False,2012,4.951287919481276,False
+Japón,detalle,False,2013,6.464029960680097,False
+Japón,detalle,False,2014,11.441231550724636,False
+Japón,detalle,False,2015,12.066741623188404,False
+Japón,detalle,False,2016,11.744524947246374,False
+Japón,detalle,False,2017,10.41864088463768,False
+Japón,detalle,False,2018,9.660229888434783,False
+Japón,detalle,False,2019,9.25673001160974,False
+Japón,detalle,False,2020,3.556457047332,False
+Japón,detalle,False,2021,0.4794673999643478,False
+Japón,detalle,False,2022,1.32264896256,False
+Japón,detalle,False,2023,3.0688913381608955,True
+Japón,detalle,False,2024,7.71638895696213,True
+Japón,detalle,False,2025,8.52182271861552,True
+México,detalle,False,2008,7.588692410073098,False
+México,detalle,False,2009,8.02319960436408,False
+México,detalle,False,2010,8.164093123713034,False
+México,detalle,False,2011,9.649476698158242,False
+México,detalle,False,2012,10.22721454432315,False
+México,detalle,False,2013,10.910693072280507,False
+México,detalle,False,2014,13.708934349999998,False
+México,detalle,False,2015,14.03086426547619,False
+México,detalle,False,2016,13.874057597523809,False
+México,detalle,False,2017,14.906162276571427,False
+México,detalle,False,2018,14.885894076921428,False
+México,detalle,False,2019,14.9723004429404,False
+México,detalle,False,2020,2.8296813647717998,False
+México,detalle,False,2021,3.952798307290054,False
+México,detalle,False,2022,8.962842234447644,False
+México,detalle,False,2023,11.951093966072353,True
+México,detalle,False,2024,13.41007461715239,True
+México,detalle,False,2025,13.379055443241848,True
+Paraguay,detalle,False,2008,7.553121471806847,False
+Paraguay,detalle,False,2009,9.756310338387872,False
+Paraguay,detalle,False,2010,7.941621988474705,False
+Paraguay,detalle,False,2011,9.243079358050883,False
+Paraguay,detalle,False,2012,9.703572316197896,False
+Paraguay,detalle,False,2013,9.082653750790938,False
+Paraguay,detalle,False,2014,8.839421332349206,False
+Paraguay,detalle,False,2015,9.863440736841268,False
+Paraguay,detalle,False,2016,11.100373444060951,False
+Paraguay,detalle,False,2017,10.886134210838094,False
+Paraguay,detalle,False,2018,10.78732848459795,False
+Paraguay,detalle,False,2019,9.987199493868482,False
+Paraguay,detalle,False,2020,2.805700123191252,False
+Paraguay,detalle,False,2021,4.010495260057341,False
+Paraguay,detalle,False,2022,7.899742583671834,False
+Paraguay,detalle,False,2023,10.657396951035164,True
+Paraguay,detalle,False,2024,13.268045746571492,True
+Paraguay,detalle,False,2025,14.993081277484684,True
+Países Bajos,detalle,False,2008,5.010037736803803,False
+Países Bajos,detalle,False,2009,5.666252600174159,False
+Países Bajos,detalle,False,2010,4.141406113679398,False
+Países Bajos,detalle,False,2011,4.814554181627531,False
+Países Bajos,detalle,False,2012,5.139553114181987,False
+Países Bajos,detalle,False,2013,3.860812657242624,False
+Países Bajos,detalle,False,2014,3.552375,False
+Países Bajos,detalle,False,2015,3.62943725,False
+Países Bajos,detalle,False,2016,3.5766652999999997,False
+Países Bajos,detalle,False,2017,3.57662032,False
+Países Bajos,detalle,False,2018,3.82218947175,False
+Países Bajos,detalle,False,2019,3.4023868154279997,False
+Países Bajos,detalle,False,2020,0.561816900666,False
+Países Bajos,detalle,False,2021,0.6200061073387501,False
+Países Bajos,detalle,False,2022,2.195466673365,False
+Países Bajos,detalle,False,2023,2.7710101910784,True
+Países Bajos,detalle,False,2024,4.679765401673567,True
+Países Bajos,detalle,False,2025,4.950235174199136,True
+Perú,detalle,False,2008,16.62599892396489,False
+Perú,detalle,False,2009,18.8681239259331,False
+Perú,detalle,False,2010,25.547351426730273,False
+Perú,detalle,False,2011,21.518456502315175,False
+Perú,detalle,False,2012,22.881991757400957,False
+Perú,detalle,False,2013,23.219658161237156,False
+Perú,detalle,False,2014,48.619289020479926,False
+Perú,detalle,False,2015,52.84431917632535,False
+Perú,detalle,False,2016,65.15857608995364,False
+Perú,detalle,False,2017,65.2645659923475,False
+Perú,detalle,False,2018,70.25030897321206,False
+Perú,detalle,False,2019,86.63101205941426,False
+Perú,detalle,False,2020,19.52725949026232,False
+Perú,detalle,False,2021,9.198836017212042,False
+Perú,detalle,False,2022,47.689054984255506,False
+Perú,detalle,False,2023,74.5428265785882,True
+Perú,detalle,False,2024,135.87665616930718,True
+Perú,detalle,False,2025,151.20290019231908,True
+Reino Unido,detalle,False,2008,9.439330533625158,False
+Reino Unido,detalle,False,2009,10.088748466132666,False
+Reino Unido,detalle,False,2010,8.123254275548577,False
+Reino Unido,detalle,False,2011,8.506821304795862,False
+Reino Unido,detalle,False,2012,9.84877632604682,False
+Reino Unido,detalle,False,2013,9.680270083803553,False
+Reino Unido,detalle,False,2014,20.99583757350529,False
+Reino Unido,detalle,False,2015,20.358723867982803,False
+Reino Unido,detalle,False,2016,19.732706128261903,False
+Reino Unido,detalle,False,2017,21.32640823475741,False
+Reino Unido,detalle,False,2018,21.405702520493325,False
+Reino Unido,detalle,False,2019,20.15975277007781,False
+Reino Unido,detalle,False,2020,3.0816043436696434,False
+Reino Unido,detalle,False,2021,1.217572775661616,False
+Reino Unido,detalle,False,2022,9.652344729819367,False
+Reino Unido,detalle,False,2023,14.242055582176246,True
+Reino Unido,detalle,False,2024,9.682286399280743,True
+Reino Unido,detalle,False,2025,10.928590064313713,True
+Resto de Países,detalle,True,2008,15.73393595404887,False
+Resto de Países,detalle,True,2009,21.606756780831873,False
+Resto de Países,detalle,True,2010,27.35825691559422,False
+Resto de Países,detalle,True,2011,20.081116718292293,False
+Resto de Países,detalle,True,2012,20.3660223215909,False
+Resto de Países,detalle,True,2013,25.85659782987499,False
+Resto de Países,detalle,True,2014,35.21583737594688,False
+Resto de Países,detalle,True,2015,32.84182052437769,False
+Resto de Países,detalle,True,2016,38.33592601531426,False
+Resto de Países,detalle,True,2017,41.416038250509175,False
+Resto de Países,detalle,True,2018,47.09743630571195,False
+Resto de Países,detalle,True,2019,44.31737945357794,False
+Resto de Países,detalle,True,2020,9.215649785148281,False
+Resto de Países,detalle,True,2021,13.024574394572936,False
+Resto de Países,detalle,True,2022,30.190911197092408,False
+Resto de Países,detalle,True,2023,36.45037576177471,True
+Resto de Países,detalle,True,2024,38.88985703345131,True
+Resto de Países,detalle,True,2025,42.55449774999704,True
+Suecia,detalle,False,2008,2.5193973059650596,False
+Suecia,detalle,False,2009,3.31698268173408,False
+Suecia,detalle,False,2010,3.3523102285881548,False
+Suecia,detalle,False,2011,5.252380399168092,False
+Suecia,detalle,False,2012,3.659466238927791,False
+Suecia,detalle,False,2013,4.7561686466058966,False
+Suecia,detalle,False,2014,6.292656666666667,False
+Suecia,detalle,False,2015,5.933725555555556,False
+Suecia,detalle,False,2016,5.6052868444444455,False
+Suecia,detalle,False,2017,5.883125155555557,False
+Suecia,detalle,False,2018,6.101981120000001,False
+Suecia,detalle,False,2019,5.210334204293333,False
+Suecia,detalle,False,2020,1.10817970662,False
+Suecia,detalle,False,2021,0.8145952580333333,False
+Suecia,detalle,False,2022,2.4697012956,False
+Suecia,detalle,False,2023,3.3031787175593337,True
+Suecia,detalle,False,2024,3.0414119543805196,True
+Suecia,detalle,False,2025,2.95309626049174,True
+Suiza,detalle,False,2008,6.60568268141297,False
+Suiza,detalle,False,2009,6.486074288982542,False
+Suiza,detalle,False,2010,5.391841149986467,False
+Suiza,detalle,False,2011,8.747842745391983,False
+Suiza,detalle,False,2012,8.350923762554077,False
+Suiza,detalle,False,2013,8.602160011322729,False
+Suiza,detalle,False,2014,11.116436902307692,False
+Suiza,detalle,False,2015,11.352511967692308,False
+Suiza,detalle,False,2016,11.495079447733334,False
+Suiza,detalle,False,2017,11.964393597333334,False
+Suiza,detalle,False,2018,12.22082266891077,False
+Suiza,detalle,False,2019,12.187123486317176,False
+Suiza,detalle,False,2020,1.92481518955698,False
+Suiza,detalle,False,2021,2.384612230824281,False
+Suiza,detalle,False,2022,6.931688110602751,False
+Suiza,detalle,False,2023,8.94659173716381,True
+Suiza,detalle,False,2024,5.792692860551483,True
+Suiza,detalle,False,2025,5.630846707058913,True
+Uruguay,detalle,False,2008,3.9012700358450467,False
+Uruguay,detalle,False,2009,4.308372845687966,False
+Uruguay,detalle,False,2010,6.763194037841564,False
+Uruguay,detalle,False,2011,7.750557564126819,False
+Uruguay,detalle,False,2012,7.557221750967285,False
+Uruguay,detalle,False,2013,6.361551423665229,False
+Uruguay,detalle,False,2014,4.6773215525000005,False
+Uruguay,detalle,False,2015,4.786282705,False
+Uruguay,detalle,False,2016,5.099473788066666,False
+Uruguay,detalle,False,2017,5.608590445466666,False
+Uruguay,detalle,False,2018,5.4842261938125,False
+Uruguay,detalle,False,2019,4.63178316832336,False
+Uruguay,detalle,False,2020,0.9239455062636749,False
+Uruguay,detalle,False,2021,0.7916152117070999,False
+Uruguay,detalle,False,2022,2.62337869288125,False
+Uruguay,detalle,False,2023,3.065059458917548,True
+Uruguay,detalle,False,2024,4.219275826572146,True
+Uruguay,detalle,False,2025,3.9573335602076387,True
+Venezuela,detalle,False,2008,8.393883955931575,False
+Venezuela,detalle,False,2009,12.239757080333675,False
+Venezuela,detalle,False,2010,17.158012412039298,False
+Venezuela,detalle,False,2011,18.381467343584017,False
+Venezuela,detalle,False,2012,14.102904900022022,False
+Venezuela,detalle,False,2013,18.857304106683607,False
+Venezuela,detalle,False,2014,9.508752665277777,False
+Venezuela,detalle,False,2015,8.917849911111112,False
+Venezuela,detalle,False,2016,9.526038683777777,False
+Venezuela,detalle,False,2017,10.850368193888887,False
+Venezuela,detalle,False,2018,13.560491760325,False
+Venezuela,detalle,False,2019,16.67970808118507,False
+Venezuela,detalle,False,2020,3.3887264378352,False
+Venezuela,detalle,False,2021,4.330303714756938,False
+Venezuela,detalle,False,2022,7.661915018953501,False
+Venezuela,detalle,False,2023,8.222900401734764,True
+Venezuela,detalle,False,2024,8.896127855239225,True
+Venezuela,detalle,False,2025,9.01678784495303,True
+TOTAL,total,False,2008,347.3902091590109,False
+TOTAL,total,False,2009,396.34494853502025,False
+TOTAL,total,False,2010,425.4067662125127,False
+TOTAL,total,False,2011,502.54065686685453,False
+TOTAL,total,False,2012,527.0466904186853,False
+TOTAL,total,False,2013,556.9529886230879,False
+TOTAL,total,False,2014,655.4236942519416,False
+TOTAL,total,False,2015,692.5014785037692,False
+TOTAL,total,False,2016,738.5443581221074,False
+TOTAL,total,False,2017,802.5667020226887,False
+TOTAL,total,False,2018,816.257066939786,False
+TOTAL,total,False,2019,837.2903304950893,False
+TOTAL,total,False,2020,188.61084670309668,False
+TOTAL,total,False,2021,189.74256218601644,False
+TOTAL,total,False,2022,498.750988582692,False
+TOTAL,total,False,2023,687.8726381129482,True
+TOTAL,total,False,2024,739.9446103402148,True
+TOTAL,total,False,2025,818.5512345929112,True
