@@ -29,3 +29,13 @@ El repositorio contiene la versión publicada del dashboard (`index.html`). Para
 ## 7. Recomendación
 
 Realizar un piloto comercial de 90 días para medir consultas, contactos calificados, reservas, conversión y satisfacción antes de decidir si se debe ampliar la propuesta.
+
+## 8. Archivos del proyecto
+
+- `index.html`: versión publicada del dashboard interactivo.
+- `resultados/dashboard_turismo_SUP_final.html`: versión final de referencia, con los ajustes realizados durante el desarrollo.
+- `scripts/09_dashboard_html.py`: script de generación de una versión del dashboard a partir de los archivos de datos.
+- `requirements.txt`: dependencias de Python utilizadas por el script.
+- `resultados/`: archivos de datos y resultados estadísticos utilizados en el análisis.
+
+**Nota de reproducibilidad:** el script incluido genera `dashboard_turismo_SUP.html`, que no es idéntico a la versión final publicada. Por tanto, la reproducción exacta de esta última requiere conservar también su HTML final.
