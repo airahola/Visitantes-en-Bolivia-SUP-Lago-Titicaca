@@ -1,0 +1,9 @@
+ambito,tipo,paises_incluidos,n_paises,chi2,gl,p_valor,V_cramer,min_esperado,pct_celdas_lt5,decision,p_BH
+Europa,region,España; Francia; Alemania,3,1735.1804594175196,22.0,0.0,0.10262527653892993,1247.0860919916968,0.0,rechaza H0 (distribuciones difieren),0.0
+Norteamérica,region,Estados Unidos; México; Canadá,3,894.5857054610125,22.0,5.001909071391648e-175,0.0751204164473936,528.8688433589019,0.0,rechaza H0 (distribuciones difieren),5.001909071391648e-175
+Sudamérica,region,Perú; Argentina; Brasil,3,18726.70082855282,22.0,0.0,0.11466144161912502,4925.779987391023,0.0,rechaza H0 (distribuciones difieren),0.0
+Centroamérica y Caribe,region,Panamá,1,,,,,,,no evaluable (menos de 2 mercados con volumen suficiente),
+Asia,region,Corea del Sur; China; Japón,3,1883.4046865828388,22.0,0.0,0.17903515679395618,254.25181251914634,0.0,rechaza H0 (distribuciones difieren),0.0
+África,region,(ninguno),0,,,,,,,no evaluable (menos de 2 mercados con volumen suficiente),
+Oceanía,region,(ninguno),0,,,,,,,no evaluable (menos de 2 mercados con volumen suficiente),
+TODAS las regiones (global),global,España; Francia; Alemania; Estados Unidos; México; Canadá; Perú; Argentina; Brasil; Corea del Sur; China; Japón,12,36028.11036517094,121.0,0.0,0.060218480205229144,452.6917254107844,0.0,rechaza H0 (distribuciones difieren),0.0
