@@ -17,8 +17,9 @@ Estructura del dashboard (6 pestañas; navegación por pestañas con `showTab`):
     mercado o región elegido, comparación de hasta 5 países, meses de mayor y
     menor afluencia y recomendación comercial basada en los contrastes existentes
     entre regiones y países, sin inferir plazos de anticipación publicitaria.
-  * Pestaña 3 MERCADOS PARA INVESTIGAR (Pregunta 3): evolución anual del gasto
-    agregado por país de residencia, tendencia Mann–Kendall/Sen y contexto total.
+  * Pestaña 3 MERCADOS PARA INVESTIGAR (Pregunta 3): señales de tendencia
+    separadas para llegadas por nacionalidad y gasto por país de residencia,
+    con interpretación exploratoria, escenarios y contexto del gasto total.
   * Pestaña 4 DATOS Y DETALLE: llegadas por nacionalidad (KPIs, evolución,
     ranking, estacionalidad y tabla), estacionalidad regional (vistas A/B/C),
     gasto por país de residencia y resumen descriptivo.
@@ -76,7 +77,7 @@ F_INF_DEC = RES / "tabla_decision_mercados_potenciales.csv"
 F_INF_RES = RES / "homogeneidad_estacional_residuos.csv"
 F_EVOL = RES / "mercados_evolucion_reciente_2022_2025.csv"
 
-OUT = RES / "dashboard_turismo_SUP.html"
+OUT = RES / "dashboard_turismo_SUP_final.html"
 
 MESES = [
     "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio",
@@ -1489,7 +1490,10 @@ function q1Render(){
   });
   lineChart($('#q1RegEvol'), years.map(String), regSeries,
     {height: 330, minTop: 1, padBottom: 40, fmt: function(x){ return fmtCompact(x); }});
-  $('#q1EvolNota').textContent = 'Eje vertical: llegadas de visitantes extranjeros por año (misma escala para las 7 regiones). ' +
+  $('#q1EvolLegend').innerHTML = regSeries.map(function(se){
+    return '<span><span class="sw" style="background:' + se.color + '"></span>' + esc(se.name) + '</span>';
+  }).join('');
+  $('#q1EvolNota').textContent = 'Cada color corresponde a una región, identificada en la leyenda. Eje vertical: llegadas de visitantes extranjeros por año; las 7 regiones comparten la misma escala. ' +
     (state.q1.periodo === 'hist' ? 'Se excluye 2026 porque sólo hay meses parciales.' : 'Vista de referencia 2022–2025.');
 
   const head = '<tr><th>Región de procedencia</th>' + years.map(function(y){ return '<th class="num">' + y + '</th>'; }).join('') +
@@ -1648,9 +1652,9 @@ function q2Render(){
 
   let series = [];
   if (comparando && state.q2.cPaises.length && primArr){
-    series = [{name: reg, color: '#12345a', values: primArr}].concat(state.q2.cPaises.map(function(p, i){
+    series = state.q2.cPaises.map(function(p, i){
       return {name: p, color: PALETTE[i % PALETTE.length], values: shareDe(p, reg, per, years)};
-    }));
+    });
     lineChart($('#q2SeasonChart'), labels, series, {height: 350});
   } else if (primArr){
     pctBar($('#q2SeasonChart'), labels, primArr, {color: '#2b6cb0'});
@@ -1661,7 +1665,8 @@ function q2Render(){
   $('#q2Legend').innerHTML = series.map(function(se){
     return '<span><span class="sw" style="background:' + se.color + '"></span>' + esc(se.name) + '</span>';
   }).join('');
-  $('#q2SeasonNota').textContent = 'Porcentaje que aporta cada mes al total anual de ' + primLabel + ' · ' + perEtiqueta(per) +
+  $('#q2SeasonNota').textContent = (comparando && state.q2.cPaises.length ? 'Las líneas comparan el patrón mensual de los países seleccionados. ' : '') +
+    'Porcentaje que aporta cada mes al total anual de ' + primLabel + ' · ' + perEtiqueta(per) +
     '. Cada serie se calcula sobre su propio total anual (no sobre el total nacional). Eje vertical: % del año.';
 
   const meses = primArr ? primArr.map(function(v, i){ return [i, v]; }).sort(function(a, b){ return b[1] - a[1]; }) : [];
@@ -1822,50 +1827,80 @@ function q3Render(){
   }).join('');
   $('#q3GastoTable').innerHTML = '<thead><tr><th>Año</th><th class="num">Gasto (M USD)</th><th class="num">Variación anual</th><th>Dato</th></tr></thead><tbody>' + rows + '</tbody>';
 
-  const trendCard = function(r, label){
-    if (!r.evaluable) return '<div class="stat"><div class="l">' + label + '</div><div class="v">No evaluable</div><div class="sub muted">Serie corta o años faltantes.</div></div>';
-    const ci = r.icInf === null || r.icSup === null ? 'IC95% no disponible' :
-      'IC95% Sen [' + fmtDec(r.icInf) + ', ' + fmtDec(r.icSup) + '] M/año';
-    const robust = r.factorHR > 1.05 ? 'p BH-Hamed–Rao = ' + pit(r.pBHHR) + ' (corrección por autocorrelación aplicada)' :
-      'sin autocorrelación material; p BH = ' + pit(r.pBH);
-    return '<div class="stat"><div class="l">' + label + '</div><div class="v" style="font-size:1rem">' + esc(r.direccion) +
-      '</div><div class="sub muted">Sen = ' + fmtDec(r.sen) + ' M USD/año · ' + ci + '<br>p BH = ' + pit(r.pBH) +
-      ' · ' + robust + '<br>n = ' + r.n + ' · rho₁ = ' + fmtDec(r.rho1) + ' · factor HR = ' + fmtDec(r.factorHR) + '</div></div>';
+  const llegadaMercado = (D.infer && D.infer.mercados && D.infer.mercados[pais]) || null;
+  const llegadaTend = llegadaMercado && llegadaMercado.tend ? llegadaMercado.tend : {};
+  const llegadaPre = llegadaTend.pre || {}, llegadaHist = llegadaTend.hist || {};
+  const trendCard = function(r, label, unidad, autocorrLabel){
+    const evaluable = r && r.n >= 8 && r.sen !== null && r.sen !== undefined;
+    if (!evaluable) return '<div class="stat"><div class="l">' + label + '</div><div class="v">No evaluable</div><div class="sub muted">No hay serie o resultado estadístico disponible para este país.</div></div>';
+    const concl = r.concl === true;
+    const direccion = concl ? (r.sen > 0 ? 'Creciente concluyente' : (r.sen < 0 ? 'Decreciente concluyente' : 'Sin dirección concluyente')) : 'Tendencia no concluyente';
+    const ci = r.icInf === null || r.icInf === undefined || r.icSup === null || r.icSup === undefined
+      ? 'IC95% no disponible' : 'IC95% Sen [' + fmtDec(r.icInf) + ', ' + fmtDec(r.icSup) + '] ' + unidad;
+    const p = r.pBHHR !== undefined ? r.pBHHR : r.pBH;
+    const pLabel = r.pBHHR !== undefined ? 'p BH-Hamed–Rao' : 'p BH';
+    const rho = r.rho1 !== undefined ? r.rho1 : r.autocorr;
+    return '<div class="stat"><div class="l">' + label + '</div><div class="v" style="font-size:1rem">' + direccion +
+      '</div><div class="sub muted">Pendiente de Sen = ' + fmtDec(r.sen) + ' ' + unidad + ' · ' + ci + '<br>' + pLabel + ' = ' + pit(p) +
+      ' · n = ' + r.n + (rho === undefined ? '' : ' · autocorrelación = ' + fmtDec(rho)) +
+      '<br>' + (concl ? 'Evidencia estadística concluyente según el resultado ajustado disponible.' : 'No asignar crecimiento ni contracción confirmados.') + '</div></div>';
   };
-  $('#q3Tendencias').innerHTML = '<div class="statrow">' + trendCard(pre, 'Pre-pandemia · 2008–2019') +
-    trendCard(hist, 'Histórico · 2008–2025') + '</div>';
+  $('#q3Tendencias').innerHTML = '<div class="statrow">' +
+    trendCard(llegadaPre, 'Llegadas por nacionalidad · pre-pandemia 2008–2019', 'llegadas/año') +
+    trendCard(llegadaHist, 'Llegadas por nacionalidad · histórico 2008–2025', 'llegadas/año') +
+    trendCard(pre, 'Gasto por residencia · pre-pandemia 2008–2019', 'M USD/año') +
+    trendCard(hist, 'Gasto por residencia · histórico 2008–2025', 'M USD/año') + '</div>';
 
-  const growing = hist.concl && hist.sen > 0;
-  const falling = hist.concl && hist.sen < 0;
-  let conclusion = '<strong>' + qTxt + '</strong> ';
-  if (growing){
-    conclusion += 'La serie histórica presenta una tendencia creciente concluyente tras el ajuste por autocorrelación y comparaciones múltiples: Sen estima +' +
-      fmtDec(hist.sen) + ' M USD/año (' + (hist.icInf === null ? 'IC95% no disponible' : 'IC95% ' + fmtDec(hist.icInf) + ' a ' + fmtDec(hist.icSup) + ' M/año') + ').';
-  } else if (falling){
-    conclusion += 'La serie histórica presenta una tendencia decreciente concluyente tras los ajustes: Sen estima ' +
-      fmtDec(hist.sen) + ' M USD/año (' + (hist.icInf === null ? 'IC95% no disponible' : 'IC95% ' + fmtDec(hist.icInf) + ' a ' + fmtDec(hist.icSup) + ' M/año') + ').';
+  const llegadaDisponible = llegadaHist && llegadaHist.n >= 8 && llegadaHist.sen !== undefined;
+  const gastoDisponible = hist && hist.n >= 8 && hist.sen !== undefined;
+  const dirLlegada = llegadaDisponible && llegadaHist.concl === true && llegadaHist.sen !== 0
+    ? (llegadaHist.sen > 0 ? 'creciente' : 'decreciente') : null;
+  const dirGasto = gastoDisponible && hist.concl === true && hist.sen !== 0
+    ? (hist.sen > 0 ? 'creciente' : 'decreciente') : null;
+  const ambasConcl = dirLlegada !== null && dirGasto !== null;
+  const scenarioRows = [
+    {l: 'Llegadas crecientes + gasto creciente', i: 'Investigar el mercado.'},
+    {l: 'Llegadas crecientes + gasto decreciente', i: 'Investigar la divergencia.'},
+    {l: 'Llegadas decrecientes + gasto decreciente', i: 'Señal de cautela.'},
+    {l: 'Llegadas decrecientes + gasto creciente', i: 'Investigar la divergencia.'},
+  ];
+  const activeLabel = ambasConcl ? 'Llegadas ' + dirLlegada + ' + gasto ' + dirGasto : '';
+  const scenarioTable = '<thead><tr><th>Escenario</th><th>Lectura orientativa</th><th>Resultado para este país</th></tr></thead><tbody>' +
+    scenarioRows.map(function(row){
+      const active = ambasConcl && row.l === activeLabel;
+      const result = ambasConcl ? (active ? '<strong>Señales concluyentes</strong>' : 'No corresponde a las tendencias observadas') :
+        'Tendencia no concluyente';
+      return '<tr' + (active ? ' style="background:#ebf3fb"' : '') + '><td>' + row.l + '</td><td>' + row.i + '</td><td>' + result + '</td></tr>';
+    }).join('') + '</tbody>';
+  $('#q3Escenarios').innerHTML = scenarioTable;
+  const faltaLlegadas = !llegadaDisponible ? 'No hay una serie de llegadas por nacionalidad con el mismo nombre de país.' :
+    (dirLlegada ? 'Llegadas: ' + dirLlegada + ' concluyente.' : 'Llegadas: Tendencia no concluyente.');
+  const faltaGasto = !gastoDisponible ? 'No hay resultado de tendencia de gasto disponible.' :
+    (dirGasto ? 'Gasto: ' + dirGasto + ' concluyente.' : 'Gasto: Tendencia no concluyente.');
+  $('#q3ComparacionNota').innerHTML = '<strong>Resultado histórico 2008–2025.</strong> ' + faltaLlegadas + ' ' + faltaGasto +
+    ' La comparación pre-pandemia (2008–2019) se muestra arriba como sensibilidad. La tendencia histórica incluye la ruptura de 2020–2021; el gasto de 2023–2025 es preliminar (p).';
+
+  const resumenLlegadas = !llegadaDisponible ? 'Llegadas por nacionalidad: sin resultado comparable disponible.' :
+    (dirLlegada ? 'Llegadas por nacionalidad: tendencia ' + dirLlegada + ' concluyente.' : 'Llegadas por nacionalidad: Tendencia no concluyente.');
+  const resumenGasto = !gastoDisponible ? 'Gasto por residencia: sin resultado disponible.' :
+    (dirGasto ? 'Gasto por residencia: tendencia ' + dirGasto + ' concluyente.' : 'Gasto por residencia: Tendencia no concluyente.');
+  let conclusion = resumenLlegadas + ' ' + resumenGasto + ' ';
+  if (ambasConcl){
+    if (dirLlegada === 'creciente' && dirGasto === 'creciente') conclusion = 'Ambas señales son crecientes y concluyentes: investigar este mercado con validación comercial adicional.';
+    else if (dirLlegada === 'decreciente' && dirGasto === 'decreciente') conclusion = 'Ambas señales son decrecientes y concluyentes: tratar como señal de cautela y revisar el contexto antes de priorizar investigación.';
+    else conclusion = 'Las tendencias concluyentes divergen: investigar por qué difieren la señal de llegadas y la del gasto antes de priorizar el mercado.';
   } else {
-    conclusion += 'No hay evidencia suficiente de una tendencia histórica concluyente después de considerar autocorrelación y comparaciones múltiples. La pendiente de Sen es ' +
-      fmtDec(hist.sen) + ' M USD/año; el signo de la pendiente por sí solo no prueba crecimiento.';
+    if (dirLlegada && !dirGasto){
+      conclusion = 'Las llegadas muestran una tendencia ' + dirLlegada + ' concluyente, pero el gasto no; considerar investigar esta señal de forma exploratoria sin clasificar el escenario como confirmado.';
+    } else if (!dirLlegada && dirGasto){
+      conclusion = 'El gasto muestra una tendencia ' + dirGasto + ' concluyente, pero las llegadas no; investigar esta divergencia de forma exploratoria sin clasificar el escenario como confirmado.';
+    } else {
+      conclusion = 'Al menos una tendencia no es concluyente; no se asigna un escenario confirmado de crecimiento o contracción. Considerar el mercado para investigación exploratoria y mejorar la evidencia antes de priorizarlo.';
+    }
   }
-  if (valorUlt >= cuartiles.p75 && growing){
-    conclusion += ' La escala agregada alta y la señal creciente justifican profundizar la investigación de este mercado.';
-  } else if (valorUlt >= cuartiles.p75){
-    conclusion += ' El nivel agregado alto es una señal de escala para investigar, aunque no hay evidencia concluyente de crecimiento sostenido.';
-  } else if (growing){
-    conclusion += ' El crecimiento es una señal exploratoria, pero el gasto agregado actual no está en el cuartil superior; conviene validar antes de priorizar recursos.';
-  } else if (falling){
-    conclusion += ' La caída y el nivel agregado deben revisarse antes de priorizar una investigación comercial.';
-  } else {
-    conclusion += ' El gasto agregado, por sí solo, no ofrece una señal concluyente para priorizar este mercado; puede mantenerse como opción de investigación secundaria.';
-  }
-  if (pre.evaluable && hist.evaluable && Math.sign(pre.sen) !== Math.sign(hist.sen)){
-    conclusion += ' La dirección difiere entre el periodo pre-pandemia y el histórico, por lo que el resultado de largo plazo puede estar influido por la ruptura de 2020–2021.';
-  } else {
-    conclusion += ' La serie histórica incluye la ruptura asociada a 2020–2021; la comparación pre-pandemia se ofrece como sensibilidad, no como prueba formal de cambio estructural.';
-  }
-  $('#q3Conclusion').innerHTML = conclusion;
-  $('#q3Limit').innerHTML = '<strong>Alcance.</strong> Es gasto turístico agregado anual por país de residencia: no mide gasto por persona, gasto diario, disposición a pagar ni demanda de SUP. Una tendencia creciente no demuestra rentabilidad ni justifica invertir automáticamente en publicidad.';
+  $('#q3Conclusion').innerHTML = '<strong>Recomendación:</strong> ' + conclusion +
+    ' Esta lectura sirve para priorizar investigación comercial; no demuestra rentabilidad ni demanda de SUP.';
+  $('#q3Limit').innerHTML = '<strong>Alcance.</strong> Llegadas por nacionalidad y gasto agregado por residencia son señales complementarias y no registros vinculados de una misma población. No se calcula gasto por visitante ni se infiere gasto individual, disposición a pagar o demanda de SUP. La relación observada no demuestra causalidad; 2020–2021 puede afectar la tendencia de largo plazo.';
 }
 
 /* ==================== Render lectura comercial ==================== */
@@ -2258,6 +2293,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       <h3>Evolución anual de las llegadas por región</h3>
       <p class="hint">Eje vertical: llegadas de visitantes extranjeros por año. Las 7 regiones comparten la misma escala.</p>
       <div id="q1RegEvol"></div>
+      <div class="legend" id="q1EvolLegend" aria-label="Leyenda de regiones"></div>
       <p class="chart-note" id="q1EvolNota"></p>
     </div>
 
@@ -2339,6 +2375,12 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       <p class="chart-note" id="q3GastoNota"></p>
       <div class="tbl-scroll"><table id="q3GastoTable" class="matrix"></table></div>
       <div id="q3Tendencias" style="margin-top:12px"></div>
+      <div class="card" style="margin-top:12px">
+        <h3>Lectura gerencial: señales complementarias</h3>
+        <p class="hint">Llegadas por nacionalidad y gasto por país de residencia se muestran como indicadores distintos. No representan necesariamente registros de una misma población.</p>
+        <div id="q3ComparacionNota" class="note" style="margin:10px 0"></div>
+        <div class="tbl-scroll"><table id="q3Escenarios" class="matrix"></table></div>
+      </div>
       <div class="resp" id="q3Conclusion" style="margin-top:12px"></div>
       <div class="note" id="q3Limit" style="margin-top:12px"></div>
     </div>
@@ -2626,7 +2668,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       <h3>Supuesto al comparar nacionalidad y residencia</h3>
       <ul class="tight">
         <li>Para fines exploratorios, se supone que la distribución por nacionalidad de las llegadas es una aproximación de la distribución por país de residencia del gasto turístico. Esta equivalencia no puede verificarse con los datos agregados disponibles.</li>
-        <li>Este supuesto no constituye una equivalencia demostrada. La Pregunta 3 analiza únicamente las series de gasto por país de residencia y no cruza ambas poblaciones.</li>
+        <li>Este supuesto no constituye una equivalencia demostrada. La Pregunta 3 presenta las tendencias de llegadas por nacionalidad y gasto por residencia como señales separadas; no vincula registros ni calcula gasto por visitante.</li>
         <li>El gasto agregado anual no demuestra rentabilidad, demanda de SUP ni disposición a pagar; la conclusión automática recomienda investigar el mercado, no invertir automáticamente en publicidad.</li>
         <li>Para evaluar el potencial real harían falta datos primarios sobre interés por SUP, precio aceptable, intención de reserva y canales de compra.</li>
       </ul>
@@ -2682,9 +2724,12 @@ def main() -> int:
     # Pregunta 1 · Mercados prioritarios (dos niveles)
     checks.append(("P1 · regiones y países con tabla, gráficos y conclusión",
                    all(f'id="{i}"' in html_out for i in (
-                       "q1Periodo", "q1Region", "q1RegChart", "q1RegNota", "q1RegEvol", "q1EvolNota",
+                       "q1Periodo", "q1Region", "q1RegChart", "q1RegNota", "q1RegEvol", "q1EvolLegend", "q1EvolNota",
                        "q1RegTable", "q1Resp", "q1Warn", "q1PaisPrompt", "q1PaisBox", "q1PaisChart",
                        "q1PaisPie", "q1PaisPieNota", "q1PaisTable", "q1PaisResp"))))
+    checks.append(("P1 · leyenda de regiones y nota del gráfico de evolución",
+                   "$('#q1EvolLegend').innerHTML = regSeries.map" in html_out
+                   and "Cada color corresponde a una región, identificada en la leyenda." in html_out))
     checks.append(("P1 · torta usa total regional y se renderiza al cambiar filtros",
                    "function pieChart" in html_out and "o.vol / tot * 100" in html_out
                    and "resto / tot * 100" in html_out
@@ -2709,18 +2754,28 @@ def main() -> int:
                        "state.q2.region = e.target.value || 'Todas'; state.q2.cPaises = []; fillQ2Pais(); q2Render();",
                        "state.q2.pais = e.target.value || 'Todos'; state.q2.cPaises = []; q2Render();",
                        "state.q2.periodo = e.target.value; q2Render();"))))
+    checks.append(("P2 · líneas comparan los países seleccionados y la nota lo explica",
+                   "series = state.q2.cPaises.map(function(p, i){" in html_out
+                   and "Las líneas comparan el patrón mensual de los países seleccionados." in html_out))
     checks.append(("P2 · reutiliza p ajustado BH existente en homogeneidad regional",
                    '"pBH":' in html_out and "h.pBH < 0.05" in html_out))
     # Pregunta 3 · Mercados para investigar
     checks.append(("P3 · selector de país, gráficos, tabla, tendencia y conclusión",
                    all(f'id="{i}"' in html_out for i in (
                        "q3Pais", "q3GastoTotalChart", "q3GastoChart", "q3GastoTable",
-                       "q3Tendencias", "q3Conclusion", "q3Limit"))))
+                       "q3Tendencias", "q3ComparacionNota", "q3Escenarios", "q3Conclusion", "q3Limit"))))
     checks.append(("P3 · selector cambia la serie y la tendencia del país",
                    "state.q3.pais = e.target.value; q3Render();" in html_out
                    and "D.gastoPais[pais]" in html_out and "D.gastoTendencias || {})[pais]" in html_out))
     checks.append(("P3 · matriz anterior eliminada",
                    all(x not in html_out for x in ("q3Matriz", "q3MatrizNota", "function scatterChart"))))
+    checks.append(("P3 · tendencias separadas de llegadas y gasto, escenarios y cautelas",
+                   all(x in html_out for x in (
+                       "Llegadas por nacionalidad · histórico 2008–2025",
+                       "Gasto por residencia · histórico 2008–2025",
+                       "D.infer.mercados[pais]", "Llegadas crecientes + gasto creciente",
+                       "La relación observada no demuestra causalidad",
+                       "Esta lectura sirve para priorizar investigación comercial"))))
 
     # Pestaña 4 · Datos y detalle
     checks.append(("KPIs de llegadas", all(f'id="k{i}v"' in html_out for i in (1, 2, 3))))
